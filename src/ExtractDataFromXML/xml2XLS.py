@@ -3,18 +3,23 @@ import xml.etree.cElementTree as ET
 from collections import OrderedDict
 from pyexcel_xls import save_data
 
-#Excel文件的内容用一个有序词典result存放
-result = OrderedDict()
-#所有内容只放在一个表单里
-sheet1 = []
-#表单第一行
-sheet1.append([u"文章号", u"文章主题", u"年份", u"地区（国家）", u"期刊名", u"第一作者", u"合作作者", u"第一单位", u"合作单位", u"关键词", u"摘要"])
-
 #文件所在路径
-path = r"E:\Users\lockon\Desktop"
-#读取xml文件，如果xml文件编码有问题可能会读取出错
-tree = ET.parse(path + r"\test.xml")
+path = r"E:\Users\lockon\Desktop\\"
 
+#读取xml文件，如果xml文件编码有问题可能会读取出错
+def getTree():
+    tree = ET.parse(path + r"test.xml")
+    return tree
+    
+#定义保存成xls文件的方法，最后遍历完成后调用
+def saveOuput():
+    save_data(path + "test.xls", xls_data)  
+
+#Excel文件的内容用一个有序词典xls_data存放
+xls_data = OrderedDict()
+sheet1 = [[u"文章号", u"文章主题", u"年份", u"地区（国家）", u"期刊名", u"第一作者", u"合作作者", u"第一单位", u"合作单位", u"关键词", u"摘要"]]
+
+tree = getTree()
 #获取xml文件的根节点，这里根节点是PubmedArticleSet
 root = tree.getroot()
 #根节点下面是由若干个PubmedArticle节点组成的，每一个就是对应一篇文章的信息，用findall全部找出来
@@ -110,11 +115,8 @@ for pubmedArticle in pubmedArticles:
     row_data = [pmid, articleTitle, year, country, title, firstAuthor, otherAuthors, firstAffiliation, otherAffiliation, keywords, abstractText]
     sheet1.append(row_data)
 
-#打印日志看看结果，可以不打
-print(sheet1)
-
 #将表单内容装进有序词典，也就是整个Excel的内容
-result.update({u"Result": sheet1})
+xls_data.update({u"Result": sheet1})
+
 #保存成文件
-save_data(path + r"\output.xls", result)  
-    
+saveOuput()

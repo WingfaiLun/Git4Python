@@ -4,20 +4,22 @@ from pyexcel_xls import save_data
 import re
 
 #以utf-8编码读取源文件的所有字节
-f = open(r"E:\Users\lockon\Desktop\LY_20170602204532.txt", 'r', encoding='utf-8').read()
+def getArticles():
+    f = open(r"E:\Users\lockon\Desktop\LY_20170602204532.txt", 'r', encoding='utf-8').read()
+    regexArticle = re.compile(r'【[\s\S]*?--')
+    #articles就是所有文章的集合
+    articles = re.findall(regexArticle, f)
+    return articles
 
-#这个正则表达式是匹配每一篇文章，因为每篇文章都是'【来源篇名】'开头，'--'结束，所以下面的正则表达式就可以提取出每篇文章的内容
-regexArticle = re.compile(r'【[\s\S]*?--')
-#articles就是所有文章的集合
-articles = re.findall(regexArticle, f)
+#定义保存成xls文件的方法，最后遍历完成后调用
+def saveOuput():
+    save_data(r"E:\Users\lockon\Desktop\LY_20170602204532.xls", xls_data) 
 
 #初始化excel的数据
 xls_data = OrderedDict()
-#初始化excel的第一个表达内容，这个属于xls_data的一部分
-sheet1 = []
-#第一行内容
-sheet1.append([u"【来源篇名】", u"【英文篇名】", u"【来源作者】", u"【基    金】", u"【期    刊】", u"【第一机构】", u"【机构名称】", u"【第一作者】", u"【中图类号】", u"【年代卷期】", u"【基金类别】", "【参考文献】"])
+sheet1 = [[u"【来源篇名】", u"【英文篇名】", u"【来源作者】", u"【基    金】", u"【期    刊】", u"【第一机构】", u"【机构名称】", u"【第一作者】", u"【中图类号】", u"【年代卷期】", u"【基金类别】", "【参考文献】"]]
 
+articles = getArticles()
 #遍历所有文章的集合，一个个处理
 for article in articles:
     #初始化row_data，它是数组形式，每一个元素代表excel里面的一格，它是excel表里面每一行的内容

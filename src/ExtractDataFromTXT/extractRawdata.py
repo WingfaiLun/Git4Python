@@ -20,6 +20,7 @@ xls_data = OrderedDict()
 sheet1 = []
 firstRow = []
 changedIndex = 0
+
 articles = getArticles()
 #遍历所有文章的集合，一个个处理
 for article in articles:

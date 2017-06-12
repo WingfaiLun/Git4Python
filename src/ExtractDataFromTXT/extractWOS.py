@@ -3,9 +3,11 @@ from collections import OrderedDict
 from pyexcel_xls import save_data
 import re
 
+#以utf-8编码读取源文件的所有字节
 def getArticles():
     f = open(r"E:\Users\lockon\Desktop\WOS2.txt", 'r', encoding='utf-8').read()
     regexArticle = re.compile(r'\nPT[\s\S]*?\nER')
+    #articles就是所有文章的集合
     articles = re.findall(regexArticle, f)
     return articles
     
@@ -15,8 +17,7 @@ def saveOuput():
 
 #初始化excel的数据
 xls_data = OrderedDict()
-sheet1 = []
-sheet1.append(["PT", "AU", "AF", "CA", "TI", "SO", "LA", "DT", "ID", "AB", "C1(1)", "C1(2)", "RP", "EM", "RI", "OI", "FU", "FX", "NR", "TC", "Z9", "U1", "U2", "PU", "PI", "PA", "SN", "EI", "J9", "JI", "PD", "PY", "VL", "IS", "BP", "EP", "DI", "PG", "WC", "SC", "GA", "UT", "PM"])
+sheet1 = [["PT", "AU", "AF", "CA", "TI", "SO", "LA", "DT", "ID", "AB", "C1(1)", "C1(2)", "RP", "EM", "RI", "OI", "FU", "FX", "NR", "TC", "Z9", "U1", "U2", "PU", "PI", "PA", "SN", "EI", "J9", "JI", "PD", "PY", "VL", "IS", "BP", "EP", "DI", "PG", "WC", "SC", "GA", "UT", "PM"]]
 
 articles = getArticles()
 #遍历所有文章的集合，一个个处理

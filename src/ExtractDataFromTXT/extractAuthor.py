@@ -4,20 +4,22 @@ from pyexcel_xls import save_data
 import re
 
 #以utf-8编码读取源文件的所有字节
-f = open(r"E:\Users\lockon\Desktop\644.txt", 'r', encoding='utf-8').read()
+def getArticles():
+    f = open(r"E:\Users\lockon\Desktop\644.txt", 'r', encoding='utf-8').read()
+    regexArticle = re.compile(r'PMID[\s\S]*?PL  - ')
+    #articles就是所有文章的集合
+    articles = re.findall(regexArticle, f)
+    return articles
 
-#这个正则表达式是匹配每一篇文章，因为每篇文章都是'【来源篇名】'开头，'--'结束，所以下面的正则表达式就可以提取出每篇文章的内容
-regexArticle = re.compile(r'PMID[\s\S]*?PL  - ')
-#articles就是所有文章的集合
-articles = re.findall(regexArticle, f)
-
+#定义保存成xls文件的方法，最后遍历完成后调用
+def saveOuput():
+    save_data(r"E:\Users\lockon\Desktop\data644.xls", xls_data) 
+    
 #初始化excel的数据
 xls_data = OrderedDict()
-#初始化excel的第一个表达内容，这个属于xls_data的一部分
-sheet1 = []
-#第一行内容
-sheet1.append(["PMID", "TI", u"作者-机构", "PT"])
+sheet1 = [["PMID", "TI", u"作者-机构", "PT"]]
 
+articles = getArticles()
 #遍历所有文章的集合，一个个处理
 for article in articles:
     row_data = []
@@ -95,7 +97,9 @@ for article in articles:
             
     row_data = [pmid, ti, authorAffiliation, pt]
     sheet1.append(row_data)
+    
+#将整个表单sheet1更新到xls_data，命名为Result, xls_data就是excel的所有内容
 xls_data.update({u"Result": sheet1})
 
-# 保存成xls文件  
-save_data(r"E:\Users\lockon\Desktop\data3.xls", xls_data)  
+# 保存成xls文件
+saveOuput()
