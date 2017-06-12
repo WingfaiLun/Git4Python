@@ -1,7 +1,7 @@
 firstRow = [1, 2, 3, 5, 6]
 row = ["a", "b", "c", "e"]
 rod = ["a", "b", "c", "d", "e", "f", "g"]
-filePath = r'E:\Users\lockon\Desktop\'
+
 sheet = []
 sheet.append(row)
 sheet.append(row)
