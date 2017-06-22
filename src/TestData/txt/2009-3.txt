@@ -1,0 +1,66 @@
+﻿南京大学中国社会科学研究评价中心
+数字文献处理系统 版本：2.1
+版权所有 (C) 2000 - 2001 CSSCI Corp.
+
+
+【来源篇名】PPP在中国的再检验——基于ESTAR和ARB-STR模型
+【英文篇名】The Re-examination of PPP in China——Based on ESTAR and ARB-STR Models
+【来源作者】王成勇/艾春荣/王少平
+【基    金】上海财经大学“211工程”三期重点学科建设项目/上海市重点学科建设项目(B803)
+【期    刊】统计研究
+【第一机构】华中科技大学
+【机构名称】[王成勇]华中科技大学.经济学院/[艾春荣]华中科技大学./[王少平]华中科技大学.
+【第一作者】王成勇
+【中图类号】F222.3
+【年代卷期】2009,26(120):88-95
+【关 键 词】ESTAR模型/ARBSTR模型/BS效应/脉冲响应
+【基金类别】国家级其它基金/省（市）级基金/
+【参考文献】
+1.Taylor, M. P..Nonlinear mean-reversion in exchange rates: towards a solution to the purchasing power parity puzzles.International Economic Review.2001.(42)
+2.谢赤.基于STAR模型的人民币实际汇率行为的描述.金融研究.2005.（5）
+3.Oconnell, P. G..Market frictions and real exchange rates.Journal of International Money and Finance.1998.(17)
+4.Berka, M..General equilibrium model of arbitrage trade and real exchange rate persistence.CRIF Working Paper series.2002.(2)
+5.Michael, P..Transactions costs and nonlinear adjustment in real exchange rates: an empirical investigation.Journal of Political Economy.1997.(105)
+6.Clements, M. P..Evaluating forecasts from SETAR models of exchange rates.Journal of International Money and Finance.2001.(20)
+7.Peel, D. A..Purchasing power parity over two centuries: trends and nonlinearity.Applied Economics.2003.(35)
+8.Peel, D. A..Smooth transition models and arbitrage consistency.Economica.2005.(72)
+9.Lothian, J. R..Purchasing power parity over two centuries: strengthening the case for real exchange rate stability: A reply to Cuddington and Liang.Journal of International Money and Finance.2000.(19)
+10.王璐.汇率均值回复的非线性STAR模型.统计与信息论坛.2007.（4）
+11.刘柏.基于STAR模型的中国实际汇率非线性态势预测.数量经济技术经济研究.2008.（6）
+12.Terasvirta, T..Specification, estimation, and evaluation of smooth transition autoregressive models.Journal of the American Statistical Association.1994.(89)
+13.Van Dijk, D..Smooth transition autoregressive models-A survey of recent developments.Econometric Reviews.2002.(21)
+14.Luukkonen, R..Testing linearity against smooth transition autoregressive models.Biometrika.1988.75(3)
+15.Koop, G..Impulse response analysis in nonlinear multivariate models.Journal of Econometrics.1996.(74)
+16.Taylor, M. P..Nonlinear adjustment, long-run equilibrium and exchange rate fundamentals.Journal of International Money and Finance.2000.(19)
+-----------------------------------------------------------------------
+
+【来源篇名】上市公司投入产出表的设计
+【英文篇名】
+【来源作者】秦瑶/薛健
+【基    金】
+【期    刊】统计研究
+【第一机构】重庆市统计局
+【机构名称】[秦瑶]重庆市统计局./[薛健]重庆市统计局.
+【第一作者】秦瑶
+【中图类号】C812
+【年代卷期】2009,26(120):105-106
+【关 键 词】上市公司/投入产出表/编制方法
+【基金类别】
+【参考文献】
+-----------------------------------------------------------------------
+
+【来源篇名】层次分析法用于中药防龋药效综合评价的多指标权重研究
+【英文篇名】
+【来源作者】朱昞/李继遥/郝玉庆/周学东
+【基    金】
+【期    刊】统计研究
+【第一机构】首都医科大学附属北京口腔医院
+【机构名称】[朱昞]首都医科大学附属北京口腔医院./[李继遥]四川大学.口腔生物医学工程教育部重点实验室/[郝玉庆]四川大学.口腔生物医学工程教育部重点实验室/[周学东]四川大学.口腔生物医学工程教育部重点实验室
+【第一作者】朱昞
+【中图类号】C812
+【年代卷期】2009,26(120):106-107
+【关 键 词】层次分析法/中药防龋/多指标权重
+【基金类别】
+【参考文献】
+-----------------------------------------------------------------------
+

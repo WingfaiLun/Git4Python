@@ -1,0 +1,2594 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Grimmelikhuijsen, S
+   Tummers, L
+   Pandey, SK
+AF Grimmelikhuijsen, Stephan
+   Tummers, Lars
+   Pandey, Sanjay K.
+TI PROMOTING STATE-OF-THE-ART METHODS IN PUBLIC MANAGEMENT RESEARCH
+SO INTERNATIONAL PUBLIC MANAGEMENT JOURNAL
+LA English
+DT Article
+AB The field of public management is methodologically underdeveloped as compared to other disciplines. In order to derive the fullest benefits of methodological advancements, the field needs to invest in discussing and deliberating over the state of the art in methodological advances. Using state-of-the-art methods helps to produce knowledge that is useful for scholars and practitioners. This symposium aims to add to and improve the methodological toolkit available to public management scholars. We distinguish three categories that could strengthen the methodological toolkit: underutilized methods (such as ethnography), innovations in current methods (such as the synthetic control method for comparative case studies), and novel methods (such as natural language processing for content analysis). We hope that this symposium encourages scholars to seek for novel and improved methods to produce research that lives up to scientific scrutiny and is valuable for practitioners.
+C1 [Grimmelikhuijsen, Stephan; Tummers, Lars] Univ Utrecht, Sch Governance, NL-3508 TC Utrecht, Netherlands.
+   [Tummers, Lars] Erasmus Univ, Rotterdam, Netherlands.
+   [Tummers, Lars] Arizona State Univ, Tempe, AZ 85287 USA.
+   [Pandey, Sanjay K.] George Washington Univ, Trachtenberg Sch, Publ Policy & Publ Adm, Washington, DC 20052 USA.
+RP Grimmelikhuijsen, S (reprint author), Univ Utrecht, Sch Governance, NL-3508 TC Utrecht, Netherlands.
+EM s.g.grimmelikhuijsen@uu.nl; l.g.tummers@uu.nl; sanjay.k.pandey@gmail.com
+RI Tummers, Lars/B-4253-2014
+OI Tummers, Lars/0000-0001-9940-9874
+NR 26
+TC 3
+Z9 3
+U1 12
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1096-7494
+EI 1559-3169
+J9 INT PUBLIC MANAG J
+JI Int. Public Manag. J.
+PD NOV 1
+PY 2017
+VL 20
+IS 1
+BP 7
+EP 13
+DI 10.1080/10967494.2016.1169066
+PG 7
+WC Public Administration
+SC Public Administration
+GA EM0VI
+UT WOS:000395035400002
+ER
+
+PT J
+AU Pandey, S
+   Pandey, SK
+   Miller, L
+AF Pandey, Sheela
+   Pandey, Sanjay K.
+   Miller, Larry
+TI MEASURING INNOVATIVENESS OF PUBLIC ORGANIZATIONS: USING NATURAL LANGUAGE
+   PROCESSING TECHNIQUES IN COMPUTER-AIDED TEXTUAL ANALYSIS
+SO INTERNATIONAL PUBLIC MANAGEMENT JOURNAL
+LA English
+DT Article
+ID ENTREPRENEURIAL ORIENTATION; AMERICAN-STATES; COLLABORATIVE INNOVATION;
+   GOVERNMENT PERFORMANCE; EMPIRICAL-ANALYSIS; CHARTER SCHOOLS; RED TAPE;
+   MANAGEMENT; DIFFUSION; SERVICES
+AB We propose a new method for measuring innovativeness in the public sector using natural language processing techniques. Our approach extends traditional content analysis techniques by combining insights from linguistic theory and recent developments in computational techniques. We develop and employ phrase-level data dictionaries (using both noun phrases and verb phrases) from organizational documents. We use letters to the board of education from a sample of New Jersey school districts to develop measures of innovativenessone measure is based on expert assessments and the other is inductively derived. We perform rigorous tests of content validity, external validity, and predictive validity on these measures. We conclude with a discussion of implications of this new measurement approach and its potential applications to other public management contexts.
+C1 [Pandey, Sheela] George Washington Univ, Trachtenberg Sch, Washington, DC 20052 USA.
+   [Pandey, Sheela] Arizona State Univ, Ctr Org Res & Design CORD, Tempe, AZ 85287 USA.
+   [Pandey, Sanjay K.] George Washington Univ, Trachtenberg Sch, Publ Policy & Publ Adm, Washington, DC 20052 USA.
+   [Miller, Larry] Florida SouthWestern State Coll, Sch Educ & Charter Sch, Ft Myers, FL USA.
+RP Pandey, S (reprint author), George Washington Univ, Trachtenberg Sch, Washington, DC 20052 USA.; Pandey, S (reprint author), Arizona State Univ, Ctr Org Res & Design CORD, Tempe, AZ 85287 USA.
+EM spandeywrk@gmail.com; sanjay.k.pandey@gmail.com; larry.miller@fsw.edu
+NR 101
+TC 1
+Z9 1
+U1 833
+U2 833
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1096-7494
+EI 1559-3169
+J9 INT PUBLIC MANAG J
+JI Int. Public Manag. J.
+PD NOV 1
+PY 2017
+VL 20
+IS 1
+BP 78
+EP 107
+DI 10.1080/10967494.2016.1143424
+PG 30
+WC Public Administration
+SC Public Administration
+GA EM0VI
+UT WOS:000395035400005
+ER
+
+PT J
+AU Murthy, KR
+   Ghosh, A
+AF Murthy, K. Ramachandra
+   Ghosh, Ashish
+TI Noisy-free Length Discriminant Analysis with cosine hyperbolic framework
+   for dimensionality reduction
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Dimensionality reduction; Subspace learning; Discriminant analysis;
+   Relevant patterns; Cosine hyperbolic; Face recognition
+ID CLASSIFICATION; SELECTION; SYSTEMS; MATRIX
+AB Dimensionality Reduction (DR) is very useful and popular in many application areas of expert and intelligent systems, such as machine learning, finance, data and text mining, multimedia mining, image processing, anomaly detection, defense applications, bioinformatics and natural language processing. DR is widely applied for better data visualization and improving learning in all the above fields. In this manuscript, we propose a novel DR approach namely, Noisy-free Length Discriminant Analysis (NLDA) by developing Noisy-free Relevant Pattern Selection (NRPS). Traditional pattern selection methods discriminate boundary and non-boundary patterns with the help of class information and nearest neighbors. And these methods completely ignore noisy patterns which may degrade the performance of subsequent subspace learning. To overcome this, we develop Noisy-free Relevant Pattern Selection (NRPS), in which data instances are partitioned into boundary, non-boundary and noisy patterns. With the help of noisy free boundary and non-boundary patterns, Noisy-free Length Discriminant Analysis (NLDA) has been proposed by developing new within and between-class scatters. These scatters model discriminations between lengths (L-2-norms) of different class instances by considering only boundary and non-boundary patterns, while ignoring noisy patterns. A cosine hyperbolic frame work has been developed to formulate the objective of NLDA. Moreover, NLDA can also model the discrimination of multimodal data as different class data may consist of different lengths. Experimental study conducted on the synthesized data, UCI, and leeds butterfly databases. Moreover, an experimental study over human and computer interaction, i.e., face recognition (one of the application areas of expert and intelligent systems), has been performed. And, these studies prove that the proposed method can produce better discriminated subspace compare to the state-of-the-art methods. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Murthy, K. Ramachandra; Ghosh, Ashish] Indian Stat Inst, Machine Intelligence Unit, Kolkata 700108, India.
+RP Murthy, KR (reprint author), Indian Stat Inst, Machine Intelligence Unit, Kolkata 700108, India.
+EM k.ramachandra@isical.ac.in; ash@isical.ac.in
+FU Council of Scientific & Industrial Research (CSIR), India [9/93(159)
+   /2014 EMR-I]
+FX K. Ramachandra Murthy is grateful to Council of Scientific & Industrial
+   Research (CSIR), India for providing him a Research Associateship [No.
+   9/93(159) /2014 EMR-I].
+NR 47
+TC 0
+Z9 0
+U1 2
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD SEP 15
+PY 2017
+VL 81
+BP 88
+EP 107
+DI 10.1016/j.eswa.2017.03.034
+PG 20
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA EV2NV
+UT WOS:000401593300009
+ER
+
+PT J
+AU Espina, A
+   Figueroa, A
+AF Espina, Alexander
+   Figueroa, Alejandro
+TI Why was this asked? Automatically recognizing multiple motivations
+   behind community question-answering questions
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Community question answering; Question analysis; Natural language
+   processing; User analysis; Multi-label learning; Multi-label deep
+   learning
+ID CLASSIFICATION; SELECTION
+AB Community Question Answering (cQA) services encourage their members to ask any kind of question, which later on can get multiple answers from other community fellows. The research objective of this paper is understanding, and particularly automatically detecting, what motivates community members to ask questions to their unknown peers.
+   In so doing, we first crawled a set of cQA questions from Yahoo! Answers, each of which was manually labelled according to their multiple motivations afterwards. Thus, one of the innovative aspects of our work is exploring a wide variety of multi-label classification strategies for the automatic recognition of concurrent motivations behind cQA questions. In order to build effective models, high-dimensional feature spaces were constructed on top of assorted linguistic features, this way discovering some linguistic traits that characterize some of these combinations.
+   Overall, our experiments reveal that multi-label classification frameworks hold a real promise for this task. More precisely, our best configuration finished with a Hamming Score of 0.71. In terms of features, our outcomes unveil that the concurrence of motivations is likely to be signalled by the complexity in writing and the distribution of entity mentions across the entire question, ergo both question titles and bodies are required to be able to recognize their confluence. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Espina, Alexander; Figueroa, Alejandro] Univ Andres Bello, Fac Ingn, Dept Ciencias Ingn, Antonio Varas 880, Santiago, Chile.
+RP Figueroa, A (reprint author), Univ Andres Bello, Fac Ingn, Dept Ciencias Ingn, Antonio Varas 880, Santiago, Chile.
+EM al.espina@uandresbello.edu; alejandro.figueroa@unab.cl
+FU project FONDECYT "Bridging the Gap between Askers and Answers in
+   Community Question Answering Services" - Chilean Government [11130094]
+FX This work was partially supported by the project FONDECYT "Bridging the
+   Gap between Askers and Answers in Community Question Answering Services"
+   (11130094) funded by the Chilean Government.
+NR 70
+TC 0
+Z9 0
+U1 2
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD SEP 1
+PY 2017
+VL 80
+BP 126
+EP 135
+DI 10.1016/j.eswa.2017.03.014
+PG 10
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA EU0QU
+UT WOS:000400717200011
+ER
+
+PT J
+AU Shams, M
+   Baraani-Dastjerdi, A
+AF Shams, Mohammadreza
+   Baraani-Dastjerdi, Ahmad
+TI Enriched LDA (ELDA): Combination of latent Dirichlet allocation with
+   word co-occurrence analysis for aspect extraction
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Aspect extraction; Topic modeling; Sentiment analysis; Latent Dirichlet
+   Allocation (LDA); Co-occurrence relations
+ID PRODUCT FEATURE-EXTRACTION; SENTIMENT ANALYSIS; REVIEWS; INFORMATION
+AB Aspect extraction is one of the fundamental steps in analyzing the characteristics of opinions, feelings and emotions expressed in textual data provided for a certain topic. Current aspect extraction techniques are mostly based on topic models; however, employing only topic models causes incoherent aspects to be generated. Therefore, this paper aims to discover more precise aspects by incorporating co-occurrence relations as prior domain knowledge into the Latent Dirichlet Allocation (LDA) topic model. In the proposed method, first, the preliminary aspects are generated based on LDA. Then, in an iterative manner, the prior knowledge is extracted automatically from co-occurrence relations and similar aspects of relevant topics. Finally, the extracted knowledge is incorporated into the LDA model. The iterations improve the quality of the extracted aspects.
+   The competence of the proposed ELDA for the aspect extraction task is evaluated through experiments on two datasets in the English and Persian languages. The experimental results indicate that ELDA not only outperforms the state-of-the-art alternatives in terms of topic coherence and precision, but also has no particular dependency on the written language and can be applied to all languages with reasonable accuracy. Thus, ELDA can impact natural language processing applications, particularly in languages with limited linguistic resources. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Shams, Mohammadreza; Baraani-Dastjerdi, Ahmad] Univ Isfahan, Fac Comp Engn, Dept Software Engn, Esfahan, Iran.
+RP Baraani-Dastjerdi, A (reprint author), Univ Isfahan, Fac Comp Engn, Dept Software Engn, Esfahan, Iran.
+EM m.shams@eng.ui.ac.ir; ahmadb@eng.ui.ac.ir
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD SEP 1
+PY 2017
+VL 80
+BP 136
+EP 146
+DI 10.1016/j.eswa.2017.02.038
+PG 11
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA EU0QU
+UT WOS:000400717200012
+ER
+
+PT J
+AU Poria, S
+   Cambria, E
+   Bajpai, R
+   Hussain, A
+AF Poria, Soujanya
+   Cambria, Erik
+   Bajpai, Rajiv
+   Hussain, Amir
+TI A review of affective computing: From unimodal analysis to multimodal
+   fusion
+SO INFORMATION FUSION
+LA English
+DT Review
+DE Affective computing; Sentiment analysis; Multimodal affect analysis;
+   Multimodal fusion; Audio, visual and text information fusion
+ID FACIAL EXPRESSION RECOGNITION; SPEECH EMOTION RECOGNITION; AUDIOVISUAL
+   AFFECT RECOGNITION; LEVEL SENTIMENT ANALYSIS; SOCIAL DATA-ANALYSIS;
+   SHAPE TRANSFORMATIONS; AUTOMATIC-ANALYSIS; APPEARANCE MODELS;
+   NEURAL-NETWORK; CLASSIFICATION
+AB Affective computing is an emerging interdisciplinary research field bringing together researchers and practitioners from various fields, ranging from artificial intelligence, natural language processing, to cognitive and social sciences. With the proliferation of videos posted online (e.g., on YouTube, Facebook, Twitter) for product reviews, movie reviews, political views, and more, affective computing research has increasingly evolved from conventional unimodal analysis to more complex forms of multimodal analysis. This is the primary motivation behind our first of its kind, comprehensive literature review of the diverse field of affective computing. Furthermore, existing literature surveys lack a detailed discussion of state of the art in multimodal affect analysis frameworks, which this review aims to address. Multimodality is defined by the presence of more than one modality or channel, e.g., visual, audio, text, gestures, and eye gage. In this paper, we focus mainly on the use of audio, visual and text information for multimodal affect analysis, since around 90% of the relevant literature appears to cover these three modalities. Following an overview of different techniques for unimodal affect analysis, we outline existing methods for fusing information from different modalities. As part of this review, we carry out an extensive study of different categories of state-of-the-art fusion techniques, followed by a critical analysis of potential performance improvements with multimodal analysis compared to unimodal analysis. A comprehensive overview of these two complementary fields aims to form the building blocks for readers, to better understand this challenging and exciting research field. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Poria, Soujanya; Hussain, Amir] Univ Stirling, Sch Nat Sci, Stirling, Scotland.
+   [Bajpai, Rajiv] Nanyang Technol Univ, Temasek Labs, Singapore, Singapore.
+   [Cambria, Erik] Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, Singapore.
+RP Cambria, E (reprint author), Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, Singapore.
+EM cambria@ntu.edu.sg
+NR 299
+TC 0
+Z9 0
+U1 71
+U2 71
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1566-2535
+EI 1872-6305
+J9 INFORM FUSION
+JI Inf. Fusion
+PD SEP
+PY 2017
+VL 37
+BP 98
+EP 125
+DI 10.1016/j.inffus.2017.02.003
+PG 28
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA ES4PV
+UT WOS:000399518100009
+ER
+
+PT J
+AU Gali, N
+   Mariescu-Istodor, R
+   Franti, P
+AF Gali, Najlah
+   Mariescu-Istodor, Radu
+   Franti, Pasi
+TI Using linguistic features to automatically extract web page title
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Web content mining; Information extraction; Title extraction; Natural
+   language processing; Machine learning
+ID TEXT
+AB Existing methods for extracting titles from HTML web page mostly rely on visual and structural features. However, this approach fails in the case of service-based web pages because advertisements are often given more visual emphasize than the main headlines. To improve the current state-of-the-art, we propose a novel method that combines statistical features, linguistic knowledge, and text segmentation. Using annotated English corpus, we learn the morphosyntactic characteristics of known titles and define a part-of-speech tag patterns that help to extract candidate phrases from the web page. To evaluate the proposed method, we compared two datasets Titler and Mopsi and evaluated the extracted features using four classifiers: Naive Bayes, k-NN, SVM, and clustering. Experimental results show that the proposed method outperform the solution used by Google from 0.58 to 0.85 on Titler corpus and from 0.43 to 0.55 on Mopsi dataset, and offers a readily available solution for the title extraction problem. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Gali, Najlah; Mariescu-Istodor, Radu; Franti, Pasi] Univ Eastern Finland, Sch Comp, Machine Learning Grp, FI-80101 Joensuu, Finland.
+RP Gali, N (reprint author), Univ Eastern Finland, Sch Comp, Machine Learning Grp, FI-80101 Joensuu, Finland.
+EM najlaa@cs.uef.fi; radum@cs.uef.fi; franti@cs.uef.fi
+NR 37
+TC 1
+Z9 1
+U1 16
+U2 16
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD AUG 15
+PY 2017
+VL 79
+BP 296
+EP 312
+DI 10.1016/j.eswa.2017.02.045
+PG 17
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA ET4DG
+UT WOS:000400228900025
+ER
+
+PT J
+AU Zou, Y
+   Kiviniemi, A
+   Jones, SW
+AF Zou, Yang
+   Kiviniemi, Arto
+   Jones, Stephen W.
+TI Retrieving similar cases for construction project risk management using
+   Natural Language Processing techniques
+SO AUTOMATION IN CONSTRUCTION
+LA English
+DT Article
+DE Risk management; Case-based reasoning (CBR); Natural Language Processing
+   (NLP); Vector Space Model (VSM); Query expansion; Case retrieval
+ID QUERY EXPANSION; SAFETY; SYSTEM; TEXT; CLASSIFICATION; RELEVANCE;
+   DOCUMENTS; ONTOLOGY; CHECKING; RANKING
+AB Case-based reasoning (CBR) is an important approach in construction project risk management. It emphasises that previous knowledge and experience of accidents and risks are highly valuable and could contribute to avoiding similar risks in new situations. In the CBR cycle, retrieving useful information is the first and the most important step. To facilitate the CBR for practical use, some researchers and organisations have established construction accident databases and their size is growing. However, as those documents are written in everyday language using different ways of expression, how information in similar cases is retrieved quickly and accurately from the database is still a huge challenge. In order to improve the efficiency and performance of risk case retrieval, this paper proposes an approach of combining the use of two Natural Language Processing (NLP) techniques, i.e. Vector Space Model (VSM) and semantic query expansion, and outlines a framework for this Risk Case Retrieval System. A prototype system is developed using the Python programming language to support the implementation of the proposed method. Preliminary test results show that the proposed system is capable of retrieving similar cases automatically and returning, for example, the top 10 similar cases.
+C1 [Zou, Yang; Jones, Stephen W.] Univ Liverpool, Sch Engn, Brownlow Hill, Liverpool L69 3GH, Merseyside, England.
+   [Kiviniemi, Arto] Univ Liverpool, Sch Architecture, Leverhulme Bldg, Liverpool L69 7ZN, Merseyside, England.
+RP Zou, Y (reprint author), Univ Liverpool, Sch Engn, Brownlow Hill, Liverpool L69 3GH, Merseyside, England.
+EM yang.zou@liverpool.ac.uk
+FU University of Liverpool and China Scholarship Council [201408500090]
+FX This research is jointly funded by the University of Liverpool and China
+   Scholarship Council (Grant Number: 201408500090).
+NR 64
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0926-5805
+EI 1872-7891
+J9 AUTOMAT CONSTR
+JI Autom. Constr.
+PD AUG
+PY 2017
+VL 80
+BP 66
+EP 76
+DI 10.1016/j.autcon.2017.04.093
+PG 11
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+GA EU7MM
+UT WOS:000401218900006
+ER
+
+PT J
+AU Cacchiani, V
+   D'Ambrosio, C
+AF Cacchiani, Valentina
+   D'Ambrosio, Claudia
+TI A branch-and-bound based heuristic algorithm for convex multi-objective
+   MINLPs
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+LA English
+DT Article
+DE Multi-objective; Convex Mixed Integer Non-Linear; Programming; Heuristic
+   algorithm; Hydro unit commitment; Knapsack problem
+ID SPACE SEARCH ALGORITHM; OPTIMIZATION PROBLEMS; COMBINATORIAL
+   OPTIMIZATION; KNAPSACK-PROBLEM; EFFICIENT SET; FORMULATION; PROGRAMS
+AB We study convex multi-objective Mixed Integer Non-Linear Programming problems (MINLPs), which are characterized by multiple objective functions and non linearities, features that appear in real-world applications. To derive a good approximated set of non-dominated points for convex multi-objective MINLPs, we propose a heuristic based on a branch-and-bound algorithm. It starts with a set of feasible points, obtained, at the root node of the enumeration tree, by iteratively solving, with an 8-constraint method, a single objective model that incorporates the other objective functions as constraints. Lower bounds are derived by optimally solving Non-Linear Programming problems (NLPs). Each leaf node of the enumeration tree corresponds to a convex multi-objective NLP, which is solved heuristically by varying the weights in a weighted sum approach. In order to improve the obtained points and remove dominated ones, a tailored refinement procedure is designed. Although the proposed method makes no assumptions on the number of objective functions nor on the type of the variables, we test it on bi-objective mixed binary problems. In particular, as a proof-of-concept, we tested the proposed heuristic algorithm on instances of a real-world application concerning power generation, and instances of the convex biobjective Non-Linear Knapsack Problem. We compared the obtained results with those derived by well-known scalarization methods, showing the effectiveness of the proposed method. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Cacchiani, Valentina] Univ Bologna, DEI, Viale Risorgimento 2, I-40136 Bologna, Italy.
+   [D'Ambrosio, Claudia] Ecole Polytech, LIX CNRS UMR7161, F-91128 Palaiseau, France.
+RP Cacchiani, V (reprint author), Univ Bologna, DEI, Viale Risorgimento 2, I-40136 Bologna, Italy.
+EM valentina.cacchiani@unibo.it; dambrosio@lix.polytechnique.fr
+FU STSM Grant from COST Action [IS1207]; FMJH Program; EdF; EU [316647]
+FX This work was supported by a STSM Grant from COST Action IS1207. This
+   research benefited also from the support of the FMJH Program Gaspard
+   Monge in optimization and operation research and from the support to
+   this program from EdF. The work is also supported by the EU Grant
+   FP7-PEOPLE-2012- ITN No. 316647 Mixed-Integer Nonlinear Optimization. We
+   thank two anonymous referees for their useful comments and suggestions
+   that helped to significantly improve the paper.
+NR 59
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0377-2217
+EI 1872-6860
+J9 EUR J OPER RES
+JI Eur. J. Oper. Res.
+PD AUG 1
+PY 2017
+VL 260
+IS 3
+BP 920
+EP 933
+DI 10.1016/j.ejor.2016.10.015
+PG 14
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA ES6AL
+UT WOS:000399628200011
+ER
+
+PT J
+AU Ghanaatpishe, M
+   Fathy, HK
+AF Ghanaatpishe, Mohammad
+   Fathy, Hosam K.
+TI On the Structure of the Optimal Solution to a Periodic Drug-Delivery
+   Problem
+SO JOURNAL OF DYNAMIC SYSTEMS MEASUREMENT AND CONTROL-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article
+ID SINGULAR EXTREMALS; SYSTEMS; ORBITS
+AB This paper examines the shaping of a drug's delivery-in this case, nicotine-to maximize its efficacy. Previous research: (i) furnishes a pharmacokinetic-pharmacodynamic (PKPD) model of this drug's metabolism; (ii) shows that the drug-delivery problem is proper, meaning that its optimal solution is periodic; (iii) shows that the underlying PKPD model is differentially flat; and (iv) exploits differential flatness to solve the problem by optimizing the coefficients of a truncated Fourier expansion of the flat output trajectory. In contrast, the work in this article provides insight into the structure of the theoretical solution to this optimal periodic control (OPC) problem. First, we argue for the existence of a bijection between feasible periodic input and state trajectories of the problem. Second, we exploit Pontryagin's maximum principle to show that the optimal periodic solution has a bang-singular-bang structure. Building on these insights, this article proposes two different numerical methods for solving this OPC problem. One method uses nonlinear programming (NLP) to optimize the states at which the optimal solution transitions between the different solution arcs. The second method approximates the control input trajectory as piecewise constant and optimizes the discrete values of the input sequence. The paper concludes by discussing the computational costs of these two algorithms as well as the importance of the associated insights into the structure of the optimal solution trajectory.
+C1 [Ghanaatpishe, Mohammad; Fathy, Hosam K.] Penn State Univ, Dept Mech Engn, University Pk, PA 16802 USA.
+RP Fathy, HK (reprint author), Penn State Univ, Dept Mech Engn, University Pk, PA 16802 USA.
+EM mug198@psu.edu; hkf2@psu.edu
+FU National Science Foundation [1538300]
+FX This research was funded by the National Science Foundation under Grant
+   No. 1538300. The authors gratefully acknowledge this support.
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0022-0434
+EI 1528-9028
+J9 J DYN SYST-T ASME
+JI J. Dyn. Syst. Meas. Control-Trans. ASME
+PD JUL
+PY 2017
+VL 139
+IS 7
+AR 071001
+DI 10.1115/1.4035459
+PG 8
+WC Automation & Control Systems; Instruments & Instrumentation
+SC Automation & Control Systems; Instruments & Instrumentation
+GA EV5NX
+UT WOS:000401815100001
+ER
+
+PT J
+AU Finkelstein, A
+   Harman, M
+   Jia, Y
+   Martin, W
+   Sarro, F
+   Zhang, YY
+AF Finkelstein, Anthony
+   Harman, Mark
+   Jia, Yue
+   Martin, William
+   Sarro, Federica
+   Zhang, Yuanyuan
+TI Investigating the relationship between price, rating, and popularity in
+   the Blackberry World App Store
+SO INFORMATION AND SOFTWARE TECHNOLOGY
+LA English
+DT Article
+DE App store analysis; App features; Mobile apps; Data mining; Natural
+   language processing
+AB Context: App stores provide a software development space and a market place that are both different from those to which we have become accustomed for traditional software development: The granularity is finer and there is a far greater source of information available for research and analysis. Information is available on price, customer rating and, through the data mining approach presented in this paper, the features claimed by app developers. These attributes make app stores ideal for empirical software engineering analysis.
+   Objective: This paper(1) exploits App Store Analysis to understand the rich interplay between app customers and their developers.
+   Method: We use data mining to extract app descriptions, price, rating, and popularity information from the Blackberry World App Store, and natural language processing to elicit each apps' claimed features from its description.
+   Results: The findings reveal that there are strong correlations between customer rating and popularity (rank of app downloads). We found evidence for a mild correlation between app price and the number of features claimed for the app and also found that higher priced features tended to be lower rated by their users. We also found that free apps have significantly (p-value < 0.001) higher ratings than non free apps, with a moderately high effect size (<(A)over cap>(12) = 0.68). All data from our experiments and analysis are made available on-line to support further investigations. (C) 2017 The Authors. Published by Elsevier B.V.
+C1 [Finkelstein, Anthony; Harman, Mark; Jia, Yue; Martin, William; Sarro, Federica; Zhang, Yuanyuan] UCL, Dept Comp Sci, London, England.
+RP Sarro, F (reprint author), UCL, Dept Comp Sci, London, England.
+EM a.finkelstein@ucl.ac.uk; mark.harman@ucl.ac.uk; yue.jia@ucl.ac.uk;
+   w.martin@ucl.ac.uk; f.sarro@ucl.ac.uk; yuanyuan.zhang@ucl.ac.uk
+FU EPSRC CREST platform grant [EP/G060525]; DAASE programme grant
+   [EP/J017515]
+FX The research is funded by the EPSRC CREST platform grant (EP/G060525)
+   and DAASE programme grant (EP/J017515).
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0950-5849
+EI 1873-6025
+J9 INFORM SOFTWARE TECH
+JI Inf. Softw. Technol.
+PD JUL
+PY 2017
+VL 87
+BP 119
+EP 139
+DI 10.1016/j.infsof.2017.03.002
+PG 21
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+SC Computer Science
+GA EV2QD
+UT WOS:000401599300009
+ER
+
+PT J
+AU Augenstein, I
+   Derczynski, L
+   Bontcheva, K
+AF Augenstein, Isabelle
+   Derczynski, Leon
+   Bontcheva, Kalina
+TI Generalisation in named entity recognition: A quantitative analysis
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+DE Natural language processing; Information extraction; Named entity
+   recognition; Generalisation; Entity drift; Social media; Quantitative
+   study
+AB Named Entity Recognition (NER) is a key NLP task, which is all the more challenging on Web and user-generated content with their diverse and continuously changing language. This paper aims to quantify how this diversity impacts state-of-the-art NER methods, by measuring named entity (NE) and context variability, feature sparsity, and their effects on precision and recall. In particular, our findings indicate that NER approaches struggle to generalise in diverse genres with limited training data. Unseen NEs, in particular, play an important role, which have a higher incidence in diverse genres such as social media than in more regular genres such as newswire. Coupled with a higher incidence of unseen features more generally and the lack of large training corpora, this leads to significantly lower Fl scores for diverse genres as compared to more regular ones. We also find that leading systems rely heavily on surface forms found in training data, having problems generalising beyond these, and offer explanations for this observation. (C) 2017 The Authors. Published by Elsevier Ltd. This is an open access article article under the CC BY license.
+C1 [Augenstein, Isabelle; Derczynski, Leon; Bontcheva, Kalina] Univ Sheffield, Sheffield S1 4DP, S Yorkshire, England.
+RP Augenstein, I (reprint author), Univ Sheffield, Sheffield S1 4DP, S Yorkshire, England.
+EM i.augenstein@ucl.ac.uk
+FU UK EPSRC [EP/K017896/1 uComp<SUP>8</SUP>]; European Union [611233
+   PHEME.<SUP>9</SUP>]
+FX This work was partially supported by the UK EPSRC Grant no. EP/K017896/1
+   uComp<SUP>8</SUP> and by the European Union under Grant Agreement no.
+   611233 PHEME.<SUP>9</SUP>
+NR 62
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JUL
+PY 2017
+VL 44
+BP 61
+EP 83
+DI 10.1016/j.csl.2017.01.012
+PG 23
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA ES4ON
+UT WOS:000399514700004
+ER
+
+PT J
+AU Figueroa, A
+AF Figueroa, Alejandro
+TI Automatically generating effective search queries directly from
+   community question-answering questions for finding related questions
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Real-time intelligent automation; Expert systems; Knowledge bases;
+   Knowledge processing; Natural language processing; Community question
+   answering; Question analysis
+ID SELECTION
+AB Community Question-Answering platforms are massive knowledge bases of questions and answers pairs produced by their members. In other to provide a vibrant service, they are compelled to provide answers to new posted questions as soon as possible. However, since their dynamic requires their own users to answer questions, there is an inherent delay between posting time and the arrival of good answers. In fact, many of these new questions might be already asked and satisfactorily answered in the past. Ergo, one of the pressing needs of these services is capitalizing on good answers given to related resolved questions across their large-scale knowledge base. To that end, current approaches have studied the effectiveness of human-generated web queries across search logs in fetching related questions and potential good answers from these community archives. However, this kind of strategy is not suitable for questions without click-through data, in particular those recently posted, limiting their capability of providing them with real-time answers.
+   In this paper, we propose an approach to find related questions across the cQA knowledge base, which automatically generate effective search strings directly from question titles and bodies. In so doing, we automatically construct a massive corpus of related questions on top of the relationships yielded by their click-through graph, and generated candidate queries by inspecting dependency paths across the title and body of each question afterwards. Then, we utilize this corpus for automatically annotating the retrieval power of each of these candidates. With this labelled corpus, we study the effectiveness of several learning to rank models enriched with assorted linguistically-motivated properties. Thus deducing the linguistic structure of automatically generated search strings that are effective in finding related questions. Since these models are inferred solely from each question itself, they can be used when search log data (i.e., web queries) is unavailable.
+   Overall, our experiments underline the effectiveness of our approach, in particular our outcomes indicate that named entity recognition is instrumental in structuring and recognizing 2-5 terms effective queries. Furthermore, we carry out experiments considering and ignoring question bodies, and we show that profiting only from question titles is more promising, but most effective queries are harder to detect. Conversely, adding question bodies makes the retrieval of past related questions noisier, but their content helps to generalize models capable of identifying more effective candidates. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Figueroa, Alejandro] Univ Andres Bello, Fac Ingn, Dept Ciencias Ingn, Antonio Varas 880, Santiago, Chile.
+   [Figueroa, Alejandro] Yahoo Res Latin Amer, Blanco Encalada 2120, Santiago, Chile.
+RP Figueroa, A (reprint author), Yahoo Res Latin Amer, Blanco Encalada 2120, Santiago, Chile.
+EM alejandro.figueroa@unab.cl
+FU project Fondecyt "Bridging the Gap between Askers and Answers in
+   Community Question Answering Services"-Chilean Government [11130094]
+FX This work was partially supported by the project Fondecyt "Bridging the
+   Gap between Askers and Answers in Community Question Answering Services"
+   (11130094) funded by the Chilean Government.
+NR 31
+TC 1
+Z9 1
+U1 6
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD JUL 1
+PY 2017
+VL 77
+BP 11
+EP 19
+DI 10.1016/j.eswa.2017.01.041
+PG 9
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA EP9IN
+UT WOS:000397687400002
+ER
+
+PT J
+AU Araque, O
+   Corcuera-Platas, I
+   Sanchez-Rada, JF
+   Iglesias, CA
+AF Araque, Oscar
+   Corcuera-Platas, Ignacio
+   Sanchez-Rada, J. Fernando
+   Iglesias, Carlos A.
+TI Enhancing deep learning sentiment analysis with ensemble techniques in
+   social applications
+SO EXPERT SYSTEMS WITH APPLICATIONS
+LA English
+DT Article
+DE Ensemble; Deep learning; Sentiment analysis; Machine learning; Natural
+   language processing
+ID CLASSIFICATION; POLARITY
+AB Deep learning techniques for Sentiment Analysis have become very popular. They provide automatic feature extraction and both richer representation capabilities and better performance than traditional feature based techniques (i.e., surface methods). Traditional surface approaches are based on complex manually extracted features, and this extraction process is a fundamental question in feature driven methods. These long-established approaches can yield strong baselines, and their predictive capabilities can be used in conjunction with the arising deep learning methods. In this paper we seek to improve the performance of deep learning techniques integrating them with traditional surface approaches based on manually extracted features. The contributions of this paper are sixfold. First, we develop a deep learning based sentiment classifier using a word embeddings model and a linear machine learning algorithm. This classifier serves as a baseline to compare to subsequent results. Second, we propose two ensemble techniques which aggregate our baseline classifier with other surface classifiers widely used in Sentiment Analysis. Third, we also propose two models for combining both surface and deep features to merge information from several sources. Fourth, we introduce a taxonomy for classifying the different models found in the literature, as well as the ones we propose. Fifth, we conduct several experiments to compare the performance of these models with the deep learning baseline. For this, we use seven public datasets that were extracted from the microblogging and movie reviews domain. Finally, as a result, a statistical study confirms that the performance of these proposed models surpasses that of our original baseline on Fl-Score. (C) 2017 The Authors. Published by Elsevier Ltd.
+C1 [Araque, Oscar; Corcuera-Platas, Ignacio; Sanchez-Rada, J. Fernando; Iglesias, Carlos A.] Univ Politecn Madrid, Escuela Tecn Super Ingn Telecommun, Dept Ingn Sistemas Telemat, Ave Complutense 30, Madrid, Spain.
+RP Araque, O (reprint author), Univ Politecn Madrid, Escuela Tecn Super Ingn Telecommun, Dept Ingn Sistemas Telemat, Ave Complutense 30, Madrid, Spain.
+EM o.araque@upm.es; ignacio.cplatas@alumnos.upm.es; jfernando@dit.upm.es;
+   cif@gsi.dit.upm.es
+FU EC through the H2020 project MixedEmotions [141111]; Spanish Ministry of
+   Economy under the R&D project Semola [TEC201568284-R]; EmoSpaces
+   [RTC-2016-5053-7]; SOMEDI [15011]; MOSI-AGIL-CM [P2013/ICE3019]; FSE;
+   FEDER
+FX This research work is supported by the EC through the H2020 project
+   MixedEmotions (Grant Agreement no: 141111), the Spanish Ministry of
+   Economy under the R&D project Semola (TEC201568284-R) and the project
+   EmoSpaces (RTC-2016-5053-7); by ITEA3 project SOMEDI (15011); and by
+   MOSI-AGIL-CM (grant P2013/ICE3019, co-funded by EU Structural Funds FSE
+   and FEDER).
+NR 72
+TC 0
+Z9 0
+U1 62
+U2 62
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0957-4174
+EI 1873-6793
+J9 EXPERT SYST APPL
+JI Expert Syst. Appl.
+PD JUL 1
+PY 2017
+VL 77
+BP 236
+EP 246
+DI 10.1016/j.eswa.2017.02.002
+PG 11
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic; Operations Research & Management Science
+SC Computer Science; Engineering; Operations Research & Management Science
+GA EP9IN
+UT WOS:000397687400019
+ER
+
+PT J
+AU Sun, SL
+   Luo, C
+   Chen, JY
+AF Sun, Shiliang
+   Luo, Chen
+   Chen, Junyu
+TI A review of natural language processing techniques for opinion mining
+   systems
+SO INFORMATION FUSION
+LA English
+DT Review
+DE Opinion mining; Sentiment analysis; Natural language processing; Deep
+   learning; Machine learning
+ID SENTIMENT ANALYSIS INTRODUCTION; CLASSIFICATION
+AB As the prevalence of social media on the Internet, opinion mining has become an essential approach to analyzing so many data. Various applications appear in a wide range of industrial domains. Meanwhile, opinions have diverse expressions which bring along research challenges. Both of the practical demands and research challenges make opinion mining an active research area in recent years. In this paper, we present a review of Natural Language Processing (NLP) techniques for opinion mining. First, we introduce general NLP techniques which are required for text preprocessing. Second, we investigate the approaches of opinion mining for different levels and situations. Then we introduce comparative opinion mining and deep learning approaches for opinion mining. Opinion summarization and advanced topics are introduced later. Finally, we discuss some challenges and open problems related to opinion mining. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Sun, Shiliang; Luo, Chen; Chen, Junyu] East China Normal Univ, Dept Comp Sci & Technol, 500 Dongchuan Rd, Shanghai 200241, Peoples R China.
+RP Sun, SL (reprint author), East China Normal Univ, Dept Comp Sci & Technol, 500 Dongchuan Rd, Shanghai 200241, Peoples R China.
+EM shiliangsun@gmail.com
+FU National Natural Science Foundation of China [61673179, 61370175];
+   Shanghai Knowledge Service Platform Project [ZF1213]; Fundamental
+   Research Funds for the Central Universities
+FX This work is supported by the National Natural Science Foundation of
+   China under Projects 61673179 and 61370175, Shanghai Knowledge Service
+   Platform Project (No. ZF1213), and the Fundamental Research Funds for
+   the Central Universities.
+NR 155
+TC 0
+Z9 0
+U1 118
+U2 118
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1566-2535
+EI 1872-6305
+J9 INFORM FUSION
+JI Inf. Fusion
+PD JUL
+PY 2017
+VL 36
+BP 10
+EP 25
+DI 10.1016/j.inffus.2016.10.004
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA EK6XR
+UT WOS:000394070100002
+ER
+
+PT J
+AU Scott, F
+   Conejeros, R
+   Vassiliadis, VS
+AF Scott, Felipe
+   Conejeros, Raul
+   Vassiliadis, Vassilios S.
+TI Constrained NLP via gradient flow penalty continuation: Towards
+   self-tuning robust penalty schemes
+SO COMPUTERS & CHEMICAL ENGINEERING
+LA English
+DT Article
+DE Gradient flow; Nonlinear programming problem; Convergence analysis
+ID INTERIOR-POINT ALGORITHM; OPTIMIZATION; SYSTEMS
+AB This work presents a new numerical solution approach to nonlinear constrained optimization problems based on a gradient flow reformulation. The proposed solution schemes use self-tuning penalty parameters where the updating of the penalty parameter is directly embedded in the system of ODEs used in the reformulation, and its growth rate is linked to the violation of the constraints and variable bounds. The convergence properties of these schemes are analyzed, and it is shown that they converge to a local minimum asymptotically. Numerical experiments using a set of test problems, ranging from a few to several hundred variables, show that the proposed schemes are robust and converge to feasible points and local minima. Moreover, results suggest that the GF formulations were able to find the optimal solution to problems where conventional NLP solvers fail, and in less integration steps and time compared to a previously reported GF formulation. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Scott, Felipe] Univ Andes, Fac Ingn & Ciencias Aplicadas, Green Technol Res Grp, Mons Alvaro del Portillo 12455, Santiago 7620001, Chile.
+   [Conejeros, Raul] Pontificia Univ Catolica Valparaiso, Sch Biochem Engn, Av Brasil 2085, Valparaiso, Chile.
+   [Vassiliadis, Vassilios S.] Univ Cambridge, Dept Chem Engn & Biotechnol, Cambridge CB2 3RA, England.
+RP Vassiliadis, VS (reprint author), Univ Cambridge, Dept Chem Engn & Biotechnol, Cambridge CB2 3RA, England.
+EM vsv20@cam.ac.uk
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0098-1354
+EI 1873-4375
+J9 COMPUT CHEM ENG
+JI Comput. Chem. Eng.
+PD JUN 9
+PY 2017
+VL 101
+BP 243
+EP 258
+DI 10.1016/j.compchemeng.2017.01.034
+PG 16
+WC Computer Science, Interdisciplinary Applications; Engineering, Chemical
+SC Computer Science; Engineering
+GA ET3YT
+UT WOS:000400216600018
+ER
+
+PT J
+AU Djelassi, H
+   Mitsos, A
+AF Djelassi, Hatim
+   Mitsos, Alexander
+TI A hybrid discretization algorithm with guaranteed feasibility for the
+   global solution of semi-infinite programs
+SO JOURNAL OF GLOBAL OPTIMIZATION
+LA English
+DT Article
+DE SIP; NLP; Nonconvex; Feasible point method; Global optimization
+ID ADAPTIVE CONVEXIFICATION ALGORITHM; GENERALIZED SEMIINFINITE;
+   OPTIMIZATION; DESIGN
+AB A discretization-based algorithm for the global solution of semi-infinite programs (SIPs) is proposed, which is guaranteed to converge to a feasible, -optimal solution finitely under mild assumptions. The algorithm is based on the hybridization of two existing algorithms. The first algorithm (Mitsos in Optimization 60(10-11):1291-1308, 2011) is based on a restriction of the right-hand side of the constraints of a discretized SIP. The second algorithm (Tsoukalas and Rustem in Optim Lett 5(4):705-716, 2011) employs a discretized oracle problem and a binary search in the objective space. Hybridization of the approaches yields an algorithm, which leverages the strong convergence guarantees and the relatively tight upper bounding problem of the first approach while employing an oracle problem adapted from the second approach to generate cheap lower bounds and adaptive updates to the restriction of the first approach. These adaptive updates help in avoiding a dense population of the discretization. The hybrid algorithm is shown to be superior to its predecessors both theoretically and computationally. A proof of finite convergence is provided under weaker assumptions than the assumptions in the references. Numerical results from established SIP test cases are presented.
+C1 [Djelassi, Hatim; Mitsos, Alexander] Rhein Westfal TH Aachen, AVT Proc Syst Engn SVT, Aachen, Germany.
+RP Mitsos, A (reprint author), Rhein Westfal TH Aachen, AVT Proc Syst Engn SVT, Aachen, Germany.
+EM amitsos@alum.mit.edu
+FU Deutsche Forschungsgemeinschaft (German Research Foundation) [PAK 635/1,
+   MA1188/34-1]
+FX We gratefully acknowledge the financial support from Deutsche
+   Forschungsgemeinschaft (German Research Foundation) through the project
+   "Optimization-based Control of Uncertain Systems" PAK 635/1;
+   MA1188/34-1.
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0925-5001
+EI 1573-2916
+J9 J GLOBAL OPTIM
+JI J. Glob. Optim.
+PD JUN
+PY 2017
+VL 68
+IS 2
+BP 227
+EP 253
+DI 10.1007/s10898-016-0476-7
+PG 27
+WC Operations Research & Management Science; Mathematics, Applied
+SC Operations Research & Management Science; Mathematics
+GA EV0ZS
+UT WOS:000401476700001
+ER
+
+PT J
+AU Berisha, V
+   Wang, S
+   LaCross, A
+   Liss, J
+   Garcia-Filion, P
+AF Berisha, Visar
+   Wang, Shuai
+   LaCross, Amy
+   Liss, Julie
+   Garcia-Filion, Pamela
+TI Longitudinal changes in linguistic complexity among professional
+   football players
+SO BRAIN AND LANGUAGE
+LA English
+DT Article
+DE Chronic traumatic encephalopathy; Linguistic complexity; Natural
+   language processing; Type-to-token ratio; Lexical density
+ID TRAUMATIC BRAIN-INJURY; CONVERSATIONAL SPEECH; ALZHEIMERS-DISEASE; OLDER
+   ADULTS; LIFE-SPAN; DISCOURSE; DEMENTIA; MILD; LANGUAGE; NARRATIVES
+AB Reductions in spoken language complexity have been associated with the onset of various neurological disorders. The objective of this study is to analyze whether similar trends are found in professional football players who are at risk for chronic traumatic encephalopathy. We compare changes in linguistic complexity (as indexed by the type-to-token ratio and lexical density) measured from the interview transcripts of players in the National Football League (NFL) to those measured from interview transcripts of coaches and/or front-office NFL executives who have never played professional football. A multilevel mixed model analysis reveals that exposure to the high-impact sport (vs no exposure) was associated with an overall decline in language complexity scores over time. This trend persists even after controlling for age as a potential confound. The results set the stage for a prospective study to test the hypothesis that language complexity decline is a harbinger of chronic traumatic encephalopathy. (C) 2017 Elsevier Inc. All rights reserved.
+C1 [Berisha, Visar; Wang, Shuai; LaCross, Amy; Liss, Julie] Arizona State Univ, Dept Speech & Hearing Sci, Tempe, AZ 85284 USA.
+   [Berisha, Visar] Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85284 USA.
+   [Garcia-Filion, Pamela] Univ Arizona, Coll Med Phoenix, Dept Biomed Informat, Tucson, AZ 85721 USA.
+RP Berisha, V (reprint author), Arizona State Univ, Dept Speech & Hearing Sci, Tempe, AZ 85284 USA.; Berisha, V (reprint author), Arizona State Univ, Sch Elect Comp & Energy Engn, Tempe, AZ 85284 USA.
+EM visar@asu.edu
+FU NIH-NIDCD R21 Research Grant [1R21DC013812]; Arizona State University
+   Athletics Research Grant; NSF STTR Phase I Grant [1448184]
+FX The authors gratefully acknowledge partial support of this work by
+   NIH-NIDCD R21 Research Grant 1R21DC013812, NSF STTR Phase I Grant
+   1448184 awarded to Aural Analytics, LLC, and an Arizona State University
+   Athletics Research Grant.
+NR 31
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0093-934X
+EI 1090-2155
+J9 BRAIN LANG
+JI Brain Lang.
+PD JUN
+PY 2017
+VL 169
+BP 57
+EP 63
+DI 10.1016/j.bandl.2017.02.003
+PG 7
+WC Audiology & Speech-Language Pathology; Linguistics; Neurosciences;
+   Psychology, Experimental
+SC Audiology & Speech-Language Pathology; Linguistics; Neurosciences &
+   Neurology; Psychology
+GA EU9YR
+UT WOS:000401396100007
+PM 28327371
+ER
+
+PT J
+AU Yan, LW
+   Bai, B
+   Chen, W
+   Wu, DO
+AF Yan, Liwei
+   Bai, Bo
+   Chen, Wei
+   Wu, Dapeng Oliver
+TI New Word Extraction From Chinese Financial Documents
+SO IEEE SIGNAL PROCESSING LETTERS
+LA English
+DT Article
+DE Chinese new word extraction; iterative algorithm; natural language
+   processing; static/dynamic features; support vector machine
+AB With the tremendous development of data science, using unstructured documents to analyze marketing dynamics is attracting a great deal of attention. In this letter, we propose an iterative scheme to extract the new words, which is often a bottleneck for Chinese natural language processing (NLP) in financial markets analysis. In contrast to existing static features, the key novelty is the proposed dynamic features that characterize the similarity of context patterns. Via iteration, distinguishable seed context patterns are extracted. Tested on a 203 MB corpus, 19 291 words representing emerging industries, entities, projects, and products were extracted with a precision of 89.8% and recall of 88.9%, which outperforms most competitor methods.
+C1 [Yan, Liwei; Chen, Wei] Tsinghua Univ, Dept Elect Engn, Tsinghua Natl Lab Informat Sci & Technol, Beijing 100084, Peoples R China.
+   [Bai, Bo] Huawei Technol Co Ltd, Future Network Theory Lab, Shatin, Hong Kong, Peoples R China.
+   [Wu, Dapeng Oliver] Univ Florida, Dept Elect & Comp Engn, Gainesville, FL 32611 USA.
+RP Bai, B (reprint author), Huawei Technol Co Ltd, Future Network Theory Lab, Shatin, Hong Kong, Peoples R China.
+EM ylw13@mails.tsinghua.edu.cn; baibo8@huawei.com; wchen@tsinghua.edu.cn;
+   wu@ece.ufl.edu
+FU National Nature Science Foundation of China [61401249]
+FX This work was supported by the National Nature Science Foundation of
+   China under Grant 61401249. The associate editor coordinating the review
+   of this manuscript and approving it for publication was Prof. Peter
+   Willett. (Corresponding author: Bo Bai.)
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1070-9908
+EI 1558-2361
+J9 IEEE SIGNAL PROC LET
+JI IEEE Signal Process. Lett.
+PD JUN
+PY 2017
+VL 24
+IS 6
+BP 770
+EP 773
+DI 10.1109/LSP.2017.2690599
+PG 4
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA EU5RY
+UT WOS:000401092400009
+ER
+
+PT J
+AU Tsai, WY
+   Barch, DR
+   Cassidy, AS
+   DeBole, MV
+   Andreopoulos, A
+   Jackson, BL
+   Flickner, MD
+   Arthur, JV
+   Modha, DS
+   Sampson, J
+   Narayanan, V
+AF Tsai, Wei-Yu
+   Barch, Davis R.
+   Cassidy, Andrew S.
+   DeBole, Michael V.
+   Andreopoulos, Alexander
+   Jackson, Bryan L.
+   Flickner, Myron D.
+   Arthur, John V.
+   Modha, Dharmendra S.
+   Sampson, John
+   Narayanan, Vijaykrishnan
+TI Always-On Speech Recognition Using TrueNorth, a Reconfigurable,
+   Neurosynaptic Processor
+SO IEEE TRANSACTIONS ON COMPUTERS
+LA English
+DT Article
+DE Speech recognition; neuromorphic hardware; low-power; reconfigurability;
+   deep neural network
+ID AUDITORY NEURONS; INTERFACE
+AB Deep neural networks (DNN) have been shown to be very effective at solving challenging problems in several areas of computing, including vision, speech, and natural language processing. However, traditional platforms for implementing these DNNs are often very power hungry, which has lead to significant efforts in the development of configurable platforms capable of implementing these DNNs efficiently. One of these platforms, the IBM TrueNorth processor, has demonstrated very low operating power in performing visual computing and neural network classification tasks in real-time. The neuron computation, synaptic memory, and communication fabrics are all configurable, so that a wide range of network types and topologies can be mapped to TrueNorth. This reconfigurability translates into the capability to support a wide range of low-power functions in addition to feed-forward DNN classifiers, including for example, the audio processing functions presented here. In this work, we propose an end-to-end audio processing pipeline that is implemented entirely on a TrueNorth processor and designed to specifically leverage the highly-parallel, low-precision computing primitives TrueNorth offers. As part of this pipeline, we develop an audio feature extractor (LATTE) designed for implementation on TrueNorth, and explore the tradeoffs among several design variants in terms of accuracy, power, and performance. We customize the energy-efficient deep neuromorphic networks structures that our design utilizes as the classifier and show how classifier parameters can trade between power and accuracy. In addition to enabling a wide range of diverse functions, the reconfigurability of TrueNorth enables re-training and re-programming the system to satisfy varying energy, speed, area, and accuracy requirements. The resulting system's end-to-end power consumption can be as low as 14.43 mW, which would give up to 100 hours of continuous usage with button cell batteries (CR3023 1.5 Whr) or 450 hours with cellphone batteries (iPhone 6s 6.55 Whr).
+C1 [Tsai, Wei-Yu; Sampson, John; Narayanan, Vijaykrishnan] Penn State Univ, University Pk, PA 16802 USA.
+   [Barch, Davis R.; Cassidy, Andrew S.; DeBole, Michael V.; Andreopoulos, Alexander; Jackson, Bryan L.; Flickner, Myron D.; Arthur, John V.; Modha, Dharmendra S.] IBM Res, Almaden Res Ctr, San Jose, CA 95120 USA.
+RP Tsai, WY (reprint author), Penn State Univ, University Pk, PA 16802 USA.
+EM wzt114@psu.edu; drbarch@us.ibm.com; andrewca@us.ibm.com;
+   mvdebole@us.ibm.com; aandreo@us.ibm.com; bryanlj@us.ibm.com;
+   mdflickner@us.ibm.com; arthurjo@us.ibm.com; dmodha@us.ibm.com;
+   sampson@cse.psu.edu; vijay@cse.psu.edu
+FU US National Science Foundation Expeditions: Visual Cortex on Silicon
+   [CCF 1317560]; IBM internship at IBM Almaden Research Lab
+FX This work is supported in part by US National Science Foundation
+   Expeditions: Visual Cortex on Silicon CCF 1317560, as well as an IBM
+   internship at IBM Almaden Research Lab.
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0018-9340
+EI 1557-9956
+J9 IEEE T COMPUT
+JI IEEE Trans. Comput.
+PD JUN 1
+PY 2017
+VL 66
+IS 6
+BP 996
+EP 1007
+DI 10.1109/TC.2016.2630683
+PG 12
+WC Computer Science, Hardware & Architecture; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA EU5PK
+UT WOS:000401084600007
+ER
+
+PT J
+AU Hassanpour, S
+   Bay, G
+   Langlotz, CP
+AF Hassanpour, Saeed
+   Bay, Graham
+   Langlotz, Curtis P.
+TI Characterization of Change and Significance for Clinical Findings in
+   Radiology Reports Through Natural Language Processing
+SO JOURNAL OF DIGITAL IMAGING
+LA English
+DT Article
+DE Natural language processing; Radiology reports; Imaging informatics
+ID INFORMATION; PNEUMONIA
+AB We built a natural language processing (NLP) method to automatically extract clinical findings in radiology reports and characterize their level of change and significance according to a radiology-specific information model. We utilized a combination of machine learning and rule-based approaches for this purpose. Our method is unique in capturing different features and levels of abstractions at surface, entity, and discourse levels in text analysis. This combination has enabled us to recognize the underlying semantics of radiology report narratives for this task. We evaluated our method on radiology reports from four major healthcare organizations. Our evaluation showed the efficacy of our method in highlighting important changes (accuracy 99.2%, precision 96.3%, recall 93.5%, and F1 score 94.7%) and identifying significant observations (accuracy 75.8%, precision 75.2%, recall 75.7%, and F1 score 75.3%) to characterize radiology reports. This method can help clinicians quickly understand the key observations in radiology reports and facilitate clinical decision support, review prioritization, and disease surveillance.
+C1 [Hassanpour, Saeed] Dartmouth Coll, Hanover, NH 03755 USA.
+   [Bay, Graham] Univ Manitoba, Winnipeg, MB, Canada.
+   [Langlotz, Curtis P.] Stanford Univ, Stanford, CA 94305 USA.
+   [Hassanpour, Saeed] Med Ctr Dr,HB 7261, Lebanon, NH 03756 USA.
+RP Hassanpour, S (reprint author), Dartmouth Coll, Hanover, NH 03755 USA.; Hassanpour, S (reprint author), Med Ctr Dr,HB 7261, Lebanon, NH 03756 USA.
+EM saeed.hassanpour@dartmouth.edu
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0897-1889
+EI 1618-727X
+J9 J DIGIT IMAGING
+JI J. Digit. Imaging
+PD JUN
+PY 2017
+VL 30
+IS 3
+BP 314
+EP 322
+DI 10.1007/s10278-016-9931-8
+PG 9
+WC Radiology, Nuclear Medicine & Medical Imaging
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA EU4EF
+UT WOS:000400981900008
+PM 28050714
+ER
+
+PT J
+AU Pla, F
+   Hurtado, LF
+AF Pla, Ferran
+   Hurtado, Lluis-F.
+TI Language identification of multilingual posts from Twitter: a case study
+SO KNOWLEDGE AND INFORMATION SYSTEMS
+LA English
+DT Article
+DE Natural language processing; Language identification; Multi-label
+   classification; Support vector machines; Twitter
+AB This paper describes a method for handling multi-class and multi-label classification problems based on the support vector machine formalism. This method has been applied to the language identification problem in Twitter. The system evaluation was performed mainly on a Twitter data set developed in the TweetLID workshop. This data set contains bilingual tweets written in the most commonly used Iberian languages (i.e., Spanish, Portuguese, Catalan, Basque, and Galician) as well as the English language. We address the following problems: (1) social media texts. We propose a suitable tokenization that processes the peculiarities of Twitter; (2) multilingual tweets. Since a tweet can belong to more than one language, we need to use a multi-class and multi-label classifier; (3) similar languages. We study the main confusions among similar languages; and (4) unbalanced classes. We propose threshold-based strategy to favor classes with less data. We have also studied the use of Wikipedia and the addition of new tweets in order to increase the training data set. Additionally, we have tested our system on Bergsma corpus, a collection of tweets in nine languages, focusing on confusable languages using the Cyrillic, Arabic, and Devanagari alphabets. To our knowledge, we obtained the best results published on the TweetLID data set and results that are in line with the best results published on Bergsma data set.
+C1 [Pla, Ferran; Hurtado, Lluis-F.] Univ Politecn Valencia, Dept Sistemes Informat & Comp, Cami Vera S-N, E-46022 Valencia, Spain.
+RP Pla, F (reprint author), Univ Politecn Valencia, Dept Sistemes Informat & Comp, Cami Vera S-N, E-46022 Valencia, Spain.
+EM fpla@dsic.upv.es; lhurtado@dsic.upv.es
+FU project ASLP-MULAN: Audio, Speech and Language Processing for Multimedia
+   Analytics [MINECO TIN2014-54288-C4-3-R]
+FX This work has been partially funded by the project ASLP-MULAN: Audio,
+   Speech and Language Processing for Multimedia Analytics (MINECO
+   TIN2014-54288-C4-3-R).
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0219-1377
+EI 0219-3116
+J9 KNOWL INF SYST
+JI Knowl. Inf. Syst.
+PD JUN
+PY 2017
+VL 51
+IS 3
+BP 965
+EP 989
+DI 10.1007/s10115-016-0997-x
+PG 25
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems
+SC Computer Science
+GA EU1EW
+UT WOS:000400757700008
+ER
+
+PT J
+AU Ellis-Braithwaite, R
+   Lock, R
+   Dawson, R
+   King, T
+AF Ellis-Braithwaite, Richard
+   Lock, Russell
+   Dawson, Ray
+   King, Tim
+TI Repetition between stakeholder (user) and system requirements
+SO REQUIREMENTS ENGINEERING
+LA English
+DT Article
+DE User requirements; Stakeholder requirements; System requirements;
+   Duplicate detection; Redundancy
+ID MANAGEMENT
+AB Stakeholder requirements (also known as user requirements) are defined at an early stage of a software project to describe the problem(s) to be solved. At a later stage, abstract solutions to those problems are prescribed in system requirements. The quality of these requirements has long been linked to the quality of the software system and its development or procurement process. However, little is known about the quality defect of redundancy between these two sets of requirements. Previous literature is anecdotal rather than exploratory, and so this paper empirically investigates its occurrence and consequences with a case study from a UK defense contractor. We report on a survey of sixteen consultants to understand their perception of the problem, and on an analysis of real-world software requirements documents using natural language processing techniques. We found that three quarters of the consultants had seen repetition in at least half of their projects. Additionally, we found that on average, a third of the requirement pairs' (comprised of a system and its related stakeholder requirement) description fields were repeated such that one requirement in the pair added only trivial information. That is, solutions were described twice while their respective problems were not described, which ultimately lead to suboptimal decisions later in the development process, as well as reduced motivation to read the requirements set. Furthermore, the requirement fields considered to be secondary to the primary "description" field, such as the "rationale" or "fit criterion" fields, had considerably more repetition within UR-SysR pairs. Finally, given that the UR-SysR repetition phenomena received most of its discussion in the literature over a decade ago, it is interesting that the survey participants did not consider its occurrence to have declined since then. We provide recommendations on preventing the defect, and describe the freely available tool developed to automatically detect its occurrence and alleviate its consequences.
+C1 [Ellis-Braithwaite, Richard; Lock, Russell; Dawson, Ray] Loughborough Univ Technol, Comp Sci, Loughborough, Leics, England.
+   [King, Tim] LSC Grp, Lichfield, Staffs, England.
+RP Ellis-Braithwaite, R (reprint author), Loughborough Univ Technol, Comp Sci, Loughborough, Leics, England.
+EM richard.ellis.braithwaite@googlemail.com; r.lock@lboro.ac.uk;
+   r.j.dawson@lboro.ac.uk; tim.king@lsc.co.uk
+NR 109
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0947-3602
+EI 1432-010X
+J9 REQUIR ENG
+JI Requir. Eng.
+PD JUN
+PY 2017
+VL 22
+IS 2
+BP 167
+EP 190
+DI 10.1007/s00766-015-0239-x
+PG 24
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+SC Computer Science
+GA EU4NP
+UT WOS:000401006700001
+ER
+
+PT J
+AU Sannier, N
+   Adedjouma, M
+   Sabetzadeh, M
+   Briand, L
+AF Sannier, Nicolas
+   Adedjouma, Morayo
+   Sabetzadeh, Mehrdad
+   Briand, Lionel
+TI An automated framework for detection and resolution of cross references
+   in legal texts
+SO REQUIREMENTS ENGINEERING
+LA English
+DT Article
+DE Legal compliance; Natural language processing (NLP); Cross references;
+   Conceptual modeling
+AB When identifying and elaborating compliance requirements, analysts need to follow the cross references in legal texts and consider the additional information in the cited provisions. Enabling easier navigation and handling of cross references requires automated support for the detection of the natural language expressions used in cross references, the interpretation of cross references in their context, and the linkage of cross references to the targeted provisions. In this article, we propose an approach and tool support for automated detection and resolution of cross references. The approach leverages the structure of legal texts, formalized into a schema, and a set of natural language patterns for legal cross reference expressions. These patterns were developed based on an investigation of Luxembourg's legislation, written in French. To build confidence about their applicability beyond the context where they were observed, these patterns were validated against the Personal Health Information Protection Act (PHIPA) by the Government of Ontario, Canada, written in both French and English. We report on an empirical evaluation where we assess the accuracy and scalability of our framework over several Luxembourgish legislative texts as well as PHIPA.
+C1 [Sannier, Nicolas; Adedjouma, Morayo; Sabetzadeh, Mehrdad; Briand, Lionel] Univ Luxembourg, Interdisciplinary Ctr Secur Reliabil & Trust SnT, 4 Rue Alphonse Weicker, L-2721 Luxembourg, Luxembourg.
+RP Sabetzadeh, M (reprint author), Univ Luxembourg, Interdisciplinary Ctr Secur Reliabil & Trust SnT, 4 Rue Alphonse Weicker, L-2721 Luxembourg, Luxembourg.
+EM nicolas.sannier@uni.lu; morayo.adedjouma@uni.lu;
+   mehrdad.sabetzadeh@uni.lu; lionel.briand@uni.lu
+FU Luxembourg's National Centre of Information Technologies (CTIE);
+   Luxembourg's National Research Fund (FNR) [FNR/P10/03]
+FX Financial support for this work was provided by Luxembourg's National
+   Centre of Information Technologies (CTIE) and Luxembourg's National
+   Research Fund (FNR) under grant number FNR/P10/03. We are grateful to
+   members of Luxembourg Inland Revenue Office (ACD) and CTIE,
+   particularly, Thierry Prommenschenkel, Ludwig Balmer, Marc Blau, and
+   Michael Masseroni for sharing their valuable knowledge and insights with
+   us. We thank the anonymous reviewers of the RE Journal and the RE'14
+   conference for their insightful comments which helped us improve this
+   article.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0947-3602
+EI 1432-010X
+J9 REQUIR ENG
+JI Requir. Eng.
+PD JUN
+PY 2017
+VL 22
+IS 2
+BP 215
+EP 237
+DI 10.1007/s00766-015-0241-3
+PG 23
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+SC Computer Science
+GA EU4NP
+UT WOS:000401006700003
+ER
+
+PT J
+AU Zhou, GY
+   Huang, JXJ
+AF Zhou, Guangyou
+   Huang, Jimmy Xiangji
+TI Modeling and Learning Distributed Word Representation with Metadata for
+   Question Retrieval
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article
+DE Natural language processing; information retrieval; community question
+   answering; question retrieval; text mining
+AB Community question answering (cQA) has become an important issue due to the popularity of cQA archives on the Web. This paper focuses on addressing the lexical gap problem in question retrieval. Question retrieval in cQA archives aims to find the existing questions that are semantically equivalent or relevant to the queried questions. However, the lexical gap problem brings a new challenge for question retrieval in cQA. In this paper, we propose to model and learn distributed word representations with metadata of category information within cQA pages for question retrieval using two novel category powered models. One is a basic category powered model called MB-NET and the other one is an enhanced category powered model called ME-NET which can better learn the distributed word representations and alleviate the lexical gap problem. To deal with the variable size of word representation vectors, we employ the framework of fisher kernel to transform them into the fixed-length vectors. Experimental results on large-scale English and Chinese cQA data sets show that our proposed approaches can significantly outperform state-of-the-art retrieval models for question retrieval in cQA. Moreover, we further conduct our approaches on large-scale automatic evaluation experiments. The evaluation results show that promising and significant performance improvements can be achieved.
+C1 [Zhou, Guangyou; Huang, Jimmy Xiangji] Cent China Normal Univ, Sch Comp, Wuhan 430072, Hubei, Peoples R China.
+   [Zhou, Guangyou; Huang, Jimmy Xiangji] York Univ, Sch Informat Technol, Toronto, ON M3J 1P3, Canada.
+RP Zhou, GY (reprint author), Cent China Normal Univ, Sch Comp, Wuhan 430072, Hubei, Peoples R China.; Zhou, GY (reprint author), York Univ, Sch Informat Technol, Toronto, ON M3J 1P3, Canada.
+EM gyzhou@mail.ccnu.edu.cn; jhuang@yorku.ca
+FU National Natural Science Foundation of China [61573163]; Fundamental
+   Research Funds for the Central Universities [CCNU16A02024]; Wuhan Youth
+   Science and Technology plan; Natural Sciences and Engineering Research
+   Council (NSERC) of Canada; NSERC CREATE award in ADERSIM; York Research
+   Chairs (YRC) program; Ontario Research Fund-Research Excellence (ORF-RE)
+   award in BRAIN Alliance
+FX This work was supported by the National Natural Science Foundation of
+   China (No. 61573163), the Fundamental Research Funds for the Central
+   Universities (No. CCNU16A02024), the Wuhan Youth Science and Technology
+   plan, and also supported by the Natural Sciences and Engineering
+   Research Council (NSERC) of Canada, an NSERC CREATE award in
+   ADERSIM,<SUP>17</SUP> the York Research Chairs (YRC) program, and an
+   Ontario Research Fund-Research Excellence (ORF-RE) award in BRAIN
+   Alliance.<SUP>18</SUP> The authors also thank the anonymous reviewers
+   and the associate editor for their insightful comments. Guangyou Zhou is
+   the corresponding author.
+NR 68
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+EI 1558-2191
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD JUN 1
+PY 2017
+VL 29
+IS 6
+BP 1226
+EP 1239
+DI 10.1109/TKDE.2017.2665625
+PG 14
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA ET8BD
+UT WOS:000400522300007
+ER
+
+PT J
+AU Khan, FH
+   Qamar, U
+   Bashir, S
+AF Khan, Farhan Hassan
+   Qamar, Usman
+   Bashir, Saba
+TI Lexicon based semantic detection of sentiments using expected likelihood
+   estimate smoothed odds ratio
+SO ARTIFICIAL INTELLIGENCE REVIEW
+LA English
+DT Article
+DE Sentiment analysis; Natural language processing; Opinion mining; Machine
+   learning; Support vector machine
+ID CLASSIFICATION
+AB Sentiment analysis is an active research area in today's era due to the abundance of opinionated data present on online social networks. Semantic detection is a sub-category of sentiment analysis which deals with the identification of sentiment orientation in any text. Many sentiment applications rely on lexicons to supply features to a model. Various machine learning algorithms and sentiment lexicons have been proposed in research in order to improve sentiment categorization. Supervised machine learning algorithms and domain specific sentiment lexicons generally perform better as compared to the unsupervised or semi-supervised domain independent lexicon based approaches. The core hindrance in the application of supervised algorithms or domain specific sentiment lexicons is the unavailability of sentiment labeled training datasets for every domain. On the other hand, the performance of algorithms based on general purpose sentiment lexicons needs improvement. This research is focused on building a general purpose sentiment lexicon in a semi-supervised manner. The proposed lexicon defines word semantics based on Expected Likelihood Estimate Smoothed Odds Ratio that are then incorporated with supervised machine learning based model selection approach. A comprehensive performance comparison verifies the superiority of our proposed approach.
+C1 [Khan, Farhan Hassan; Qamar, Usman; Bashir, Saba] Natl Univ Sci & Technol, Coll Elect & Mech Engn, Dept Comp Engn, Islamabad, Pakistan.
+RP Khan, FH (reprint author), Natl Univ Sci & Technol, Coll Elect & Mech Engn, Dept Comp Engn, Islamabad, Pakistan.
+EM farhan.hassan@ceme.nust.edu.pk; usmanq@ceme.nust.edu.pk;
+   saba.bashir@ceme.nust.edu.pk
+NR 51
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0269-2821
+EI 1573-7462
+J9 ARTIF INTELL REV
+JI Artif. Intell. Rev.
+PD JUN
+PY 2017
+VL 48
+IS 1
+BP 113
+EP 138
+DI 10.1007/s10462-016-9496-4
+PG 26
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA ET6EJ
+UT WOS:000400383400004
+ER
+
+PT J
+AU Stiegelmeier, EW
+   Oliveira, VA
+   Silva, GN
+   Karam, D
+AF Stiegelmeier, Elenice W.
+   Oliveira, Vilma A.
+   Silva, Geraldo N.
+   Karam, Decio
+TI Optimal weed population control using nonlinear programming
+SO COMPUTATIONAL & APPLIED MATHEMATICS
+LA English
+DT Article
+DE Mathematical modeling; Population dynamics; Nonlinear programming; Weed
+   management
+ID BOUND-CONSTRAINED OPTIMIZATION; INVASIVE SPECIES MANAGEMENT; OPTIMAL
+   PEST-CONTROL; HERBICIDE RESISTANCE; EVOLUTION; DYNAMICS
+AB A dynamic optimization model for weed infestation control using selective herbicide application in a corn crop system is presented. The seed bank density of the weed population and frequency of dominant or recessive alleles are taken as state variables of the growing cycle. The control variable is taken as the dose-response function. The goal is to reduce herbicide usage, maximize profit in a pre-determined period of time and minimize the environmental impacts caused by excessive use of herbicides. The dynamic optimization model takes into account the decreased herbicide efficacy over time due to weed resistance evolution caused by selective pressure. The dynamic optimization problem involves discrete variables modeled as a nonlinear programming (NLP) problem which was solved by an active set algorithm (ASA) for box-constrained optimization. Numerical simulations for a case study illustrate the management of the Bidens subalternans in a corn crop by selecting a sequence of only one type of herbicide. The results on optimal control discussed here will give support to make decision on the herbicide usage in regions where weed resistance was reported by field observations.
+C1 [Stiegelmeier, Elenice W.] Univ Tecnol Fed Parana, Dept Math, BR-86300000 Cornelio Procopio, PR, Brazil.
+   [Oliveira, Vilma A.] Univ Sao Paulo, Dept Elect & Comp Engn, BR-13566590 Sao Carlos, SP, Brazil.
+   [Silva, Geraldo N.] Univ Estadual Paulista, Dept Appl Math, BR-15054000 Sao Jose Do Rio Preto, SP, Brazil.
+   [Karam, Decio] Empresa Brasileira Pesquisa Agr, BR-35701970 Sete Lagoas, MG, Brazil.
+RP Stiegelmeier, EW (reprint author), Univ Tecnol Fed Parana, Dept Math, BR-86300000 Cornelio Procopio, PR, Brazil.
+EM elenicew@utfpr.edu.br; vilmao@sc.usp.br; gsilva@ibilce.unesp.br;
+   decio.karam@embrapa.br
+FU Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq);
+   Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES)
+   under the Programa Nacional de Cooperacao Academica (PROCAD)
+FX The authors acknowledge the support given by the Conselho Nacional de
+   Desenvolvimento Cientifico e Tecnologico (CNPq) and the Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior (CAPES) under the Programa
+   Nacional de Cooperacao Academica (PROCAD).
+NR 42
+TC 0
+Z9 0
+U1 7
+U2 7
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0101-8205
+EI 1807-0302
+J9 COMPUT APPL MATH
+JI Comput. Appl. Math.
+PD JUN
+PY 2017
+VL 36
+IS 2
+BP 1043
+EP 1065
+DI 10.1007/s40314-015-0280-x
+PG 23
+WC Mathematics, Applied
+SC Mathematics
+GA ET4RK
+UT WOS:000400272300014
+ER
+
+PT J
+AU Zhang, L
+   Xu, LJ
+   Zhang, WH
+AF Zhang, Lun
+   Xu, Linjia
+   Zhang, Wenhao
+TI Social media as amplification station: factors that influence the speed
+   of online public response to health emergencies
+SO ASIAN JOURNAL OF COMMUNICATION
+LA English
+DT Article
+DE Response time; diffusion speed; social amplification of risk model;
+   natural language processing
+ID HIERARCHICAL LINEAR-MODELS; MICROBLOGGING SITES; INFORMATION-SYSTEM;
+   RISK; CHINA; MOTIVATION; COMMUNICATION; PERSONALITY; PERFORMANCE
+AB Online public response to health emergencies is a major and complex public health issue. This study employs hierarchical linear modeling to investigate the speed of online users' response to health emergency information on Chinese microblogging sites. The distribution of response speed for all posts is highly skewed. Only a minimal number of posts are forwarded in less than one minute. We further examine the effects of the characteristics of original messages as well as the effects of the factors of reposted messages and information transmitters, to determine the response time of messages on health emergencies. Original messages with different emotional orientations have different response times. The homophily of geographical location among dyadic information transmitters, the addressivity of reposted messages, and the degree of activity and popularity of information transmitters shorten the response time. This study expands the social amplification of risk model to an online context and contributes to the literature on information diffusion by identifying the effects of dyadic relationships among information transmitters. Practical implications are briefly discussed.
+C1 [Zhang, Lun] Beijing Normal Univ, Sch Arts & Commun, Beijing, Peoples R China.
+   [Xu, Linjia] Univ Int Business & Econ, Sch Chinese Language & Literature, 10 Huixin Dongjie, Beijing 100029, Peoples R China.
+   [Zhang, Wenhao] Doodod Technol Co Ltd, Beijing, Peoples R China.
+RP Xu, LJ (reprint author), Univ Int Business & Econ, Sch Chinese Language & Literature, 10 Huixin Dongjie, Beijing 100029, Peoples R China.
+EM xulinjia@uibe.edu.cn
+FU Fundamental Research Funds for the Central Universities in China of
+   China [310422120]; Young Scholar Program of National Social Science
+   Funds for Young Scholar Foundation of China [14CXW015]
+FX This work was supported by the Fundamental Research Funds for the
+   Central Universities in China of China [grant number 310422120] and
+   Young Scholar Program of National Social Science Funds for Young Scholar
+   Foundation of China [grant number 14CXW015].
+NR 53
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0129-2986
+EI 1742-0911
+J9 ASIAN J COMMUN
+JI Asian J. Commun.
+PD JUN
+PY 2017
+VL 27
+IS 3
+BP 322
+EP 338
+DI 10.1080/01292986.2017.1290124
+PG 17
+WC Communication
+SC Communication
+GA ES4BZ
+UT WOS:000399475400006
+ER
+
+PT J
+AU Liu, KH
+   Niu, YJ
+   Konishi, M
+   Wu, Y
+   Du, H
+   Chung, HS
+   Li, L
+   Boudsocq, M
+   McCormack, M
+   Maekawa, S
+   Ishida, T
+   Zhang, C
+   Shokat, K
+   Yanagisawa, S
+   Sheen, J
+AF Liu, Kun-hsiang
+   Niu, Yajie
+   Konishi, Mineko
+   Wu, Yue
+   Du, Hao
+   Chung, Hoo Sun
+   Li, Lei
+   Boudsocq, Marie
+   McCormack, Matthew
+   Maekawa, Shugo
+   Ishida, Tetsuya
+   Zhang, Chao
+   Shokat, Kevan
+   Yanagisawa, Shuichi
+   Sheen, Jen
+TI Discovery of nitrate-CPK-NLP signalling in central nutrient-growth
+   networks
+SO NATURE
+LA English
+DT Article
+ID TRANSIENT GENE-EXPRESSION; DEPENDENT PROTEIN-KINASES;
+   ARABIDOPSIS-THALIANA; TRANSCRIPTION FACTORS; ABSCISIC-ACID; CALCIUM;
+   NITROGEN; ROOTS; GLUCOSE; STRESS
+AB Nutrient signalling integrates and coordinates gene expression, metabolism and growth. However, its primary molecular mechanisms remain incompletely understood in plants and animals. Here we report unique Ca2+ signalling triggered by nitrate with live imaging of an ultrasensitive biosensor in Arabidopsis leaves and roots. A nitrate-sensitized and targeted functional genomic screen identifies subgroup III Ca2+-sensor protein kinases (CPKs) as master regulators that orchestrate primary nitrate responses. A chemical switch with the engineered mutant CPK10(M141G) circumvents embryo lethality and enables conditional analyses of cpk10 cpk30 cpk32 triple mutants to define comprehensive nitrate-associated regulatory and developmental programs. Nitrate-coupled CPK signalling phosphorylates conserved NIN-LIKE PROTEIN (NLP) transcription factors to specify the reprogramming of gene sets for downstream transcription factors, transporters, nitrogen assimilation, carbon/nitrogen metabolism, redox, signalling, hormones and proliferation. Conditional cpk10 cpk30 cpk32 and nlp7 mutants similarly impair nitrate-stimulated system-wide shoot growth and root establishment. The nutrient-coupled Ca2+ signalling network integrates transcriptome and cellular metabolism with shoot-root coordination and developmental plasticity in shaping organ biomass and architecture.
+C1 [Liu, Kun-hsiang; Niu, Yajie; Wu, Yue; Du, Hao; Chung, Hoo Sun; Li, Lei; Boudsocq, Marie; McCormack, Matthew; Sheen, Jen] Massachusetts Gen Hosp, Dept Mol Biol, Boston, MA 02114 USA.
+   [Liu, Kun-hsiang; Niu, Yajie; Wu, Yue; Du, Hao; Chung, Hoo Sun; Li, Lei; Boudsocq, Marie; McCormack, Matthew; Sheen, Jen] Massachusetts Gen Hosp, Ctr Computat & Integrat Biol, Boston, MA 02114 USA.
+   [Liu, Kun-hsiang; Niu, Yajie; Wu, Yue; Du, Hao; Chung, Hoo Sun; Li, Lei; Boudsocq, Marie; McCormack, Matthew; Sheen, Jen] Harvard Med Sch, Dept Genet, Boston, MA 02114 USA.
+   [Liu, Kun-hsiang] Fujian Agr & Forestry Univ, Basic Forestry & Prote Res Ctr, Fuzhou 350002, Fujian, Peoples R China.
+   [Konishi, Mineko; Maekawa, Shugo; Ishida, Tetsuya; Yanagisawa, Shuichi] Univ Tokyo, Biotechnol Res Ctr, Bunkyo Ku, Yayoi 1-1-1, Tokyo 1138657, Japan.
+   [Boudsocq, Marie] Univ Paris Saclay, Univ Paris Sud, Univ Evry Val Essonne,Sorbonne Paris Cite, Inst Plant Sci Paris Saclay IPS2,CNRS,INRA,Univ P, Batiment 630, F-91405 Orsay, France.
+   [Zhang, Chao; Shokat, Kevan] UCSF, Howard Hughes Med Inst, 600 16th St, San Francisco, CA 94143 USA.
+   [Zhang, Chao; Shokat, Kevan] UCSF, Dept Cellular & Mol Pharmacol, 600 16th St, San Francisco, CA 94143 USA.
+RP Liu, KH; Sheen, J (reprint author), Massachusetts Gen Hosp, Dept Mol Biol, Boston, MA 02114 USA.; Liu, KH; Sheen, J (reprint author), Massachusetts Gen Hosp, Ctr Computat & Integrat Biol, Boston, MA 02114 USA.; Liu, KH; Sheen, J (reprint author), Harvard Med Sch, Dept Genet, Boston, MA 02114 USA.; Liu, KH (reprint author), Fujian Agr & Forestry Univ, Basic Forestry & Prote Res Ctr, Fuzhou 350002, Fujian, Peoples R China.; Yanagisawa, S (reprint author), Univ Tokyo, Biotechnol Res Ctr, Bunkyo Ku, Yayoi 1-1-1, Tokyo 1138657, Japan.
+EM khliu@molbio.mgh.harvard.edu; asyanagi@mail.ecc.u-tokyo.ac.jp;
+   sheen@molbio.mgh.harvard.edu
+FU NIH; NSF; WJC Special Project RDA-Korea [PJ009106]; JST
+   [CREST-JPMJCR15O5]; JSPS-KAKENHI [25252014/26221103, 15H05616]; NSFC
+   [31670246]
+FX We thank T. Asai for the pNLP7-NLP7-GFP and pNLP7-NLP7(S205A)-GFP
+   constructs, X. Y. Liu and R. Q. Ye for the pUBQ10-NLS-TdTomato
+   construct, X. C. Zhang and M. R. Knight for the aequorin transgenic
+   line, J. Bush for management of the plant facilities, Q. Hall for advice
+   on embryo analysis, ABRC, NASC and the Salk Institute for T-DNA
+   insertion lines, K. Holton and H. Lee for advice on statistics analyses,
+   and L. Shi, J. Bush and A. Diener for comments. K.S. thanks F.
+   Rutaganira for help with characterization of 3MBiP. The Research is
+   supported by the NIH, NSF and WJC Special Project (PJ009106) RDA-Korea
+   to J.S., and by CREST-JPMJCR15O5, JST and JSPS-KAKENHI grants
+   25252014/26221103 to S.Y. and 15H05616 to M.K., and the NSFC grant
+   31670246 to K.L.
+NR 67
+TC 0
+Z9 0
+U1 5
+U2 5
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD MAY 18
+PY 2017
+VL 545
+IS 7654
+BP 311
+EP +
+DI 10.1038/nature22077
+PG 23
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EV0WF
+UT WOS:000401466500055
+PM 28489820
+ER
+
+PT J
+AU Kibis, EY
+   Buyuktahtakin, IE
+AF Kibis, Eyyub Y.
+   Buyuktahtakin, I. Esra
+TI Optimizing invasive species management: A mixed-integer linear
+   programming approach
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+LA English
+DT Article
+DE (S) Complexity theory; Spatially explicit large-scale optimization;
+   Mixed-integer programming (MIP); Linearization; Big-M
+ID LESPEDEZA-CUNEATA; OPTIMIZATION APPROACH; BIOLOGICAL INVASIONS; ECONOMIC
+   COSTS; UNITED-STATES; FOREST; STRATEGIES; HERBIVORY; MODEL
+AB Controlling invasive species is a highly complex problem. The intricacy of the problem stems from the nonlinearity that is inherent in biological systems, consequently impeding researchers to obtain timely and cost-efficient treatment strategies over a planning horizon. To cope with the complexity of the invasive species problem, we develop a mixed-integer programming (MIP) model that handles the problem as a full dynamic optimization model and solves it to optimality for the first time. We demonstrate the applicability of the model on a case study of sericea (Lespedeza cuneata) infestation by optimizing a spatially explicit model on a heterogeneous 10-by-10 grid landscape for a seven-year time period. We evaluate the solution quality of five different linearization methods that are used to obtain the MIP model, We also compare the model with its mixed-integer nonlinear programming (MINLP) equivalent and nonlinear programming (NLP) relaxation in terms of solution quality. The computational superiority and realism of the proposed MIP model demonstrate that our model has the potential to constitute the basis for future decision-support tools in invasive species management. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Kibis, Eyyub Y.; Buyuktahtakin, I. Esra] Wichita State Univ, Dept Ind & Mfg Engn, 1845 N Fairmount, Wichita, KS 67260 USA.
+RP Buyuktahtakin, IE (reprint author), Wichita State Univ, Dept Ind & Mfg Engn, 1845 N Fairmount, Wichita, KS 67260 USA.
+EM esra.b@wichita.edu
+FU National Science Foundation [CBET-1554018]
+FX We gratefully acknowledge the support of the National Science Foundation
+   CAREER Award under Grant # CBET-1554018. We also thank the Editor, Roman
+   Slowinski, and five anonymous referees, for their invaluable suggestions
+   for improving the presentation and contribution of this paper. In
+   addition, we would like to acknowledge the help of Dr. Paul Rubin with
+   the fifth linearization method.
+NR 47
+TC 1
+Z9 1
+U1 85
+U2 85
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0377-2217
+EI 1872-6860
+J9 EUR J OPER RES
+JI Eur. J. Oper. Res.
+PD MAY 16
+PY 2017
+VL 259
+IS 1
+BP 308
+EP 321
+DI 10.1016/j.ejor.2016.09.049
+PG 14
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA EJ9ES
+UT WOS:000393530000025
+ER
+
+PT J
+AU Bocanegra, CLS
+   Ramos, JLS
+   Rizo, C
+   Civit, A
+   Fernandez-Luque, L
+AF Sanchez Bocanegra, Carlos Luis
+   Sevillano Ramos, Jose Luis
+   Rizo, Carlos
+   Civit, Anton
+   Fernandez-Luque, Luis
+TI HealthRecSys: A semantic content-based recommender system to complement
+   health videos
+SO BMC MEDICAL INFORMATICS AND DECISION MAKING
+LA English
+DT Article
+DE Patient Education; Health Recommender System; Natural Language
+   Processing; Information Retrieval
+ID OF-THE-ART; INFORMATION-SEEKING; INTERNET; RECORDS; WEB; REQUIREMENTS;
+   CHALLENGES; BEHAVIOR; CARE
+AB Background: The Internet, and its popularity, continues to grow at an unprecedented pace. Watching videos online is very popular; it is estimated that 500 h of video are uploaded onto YouTube, a video-sharing service, every minute and that, by 2019, video formats will comprise more than 80% of Internet traffic. Health-related videos are very popular on YouTube, but their quality is always a matter of concern. One approach to enhancing the quality of online videos is to provide additional educational health content, such as websites, to support health consumers. This study investigates the feasibility of building a content-based recommender system that links health consumers to reputable health educational websites from MedlinePlus for a given health video from YouTube.
+   Methods: The dataset for this study includes a collection of health-related videos and their available metadata. Semantic technologies (such as SNOMED-CT and Bio-ontology) were used to recommend health websites from MedlinePlus. A total of 26 healths professionals participated in evaluating 253 recommended links for a total of 53 videos about general health, hypertension, or diabetes. The relevance of the recommended health websites from MedlinePlus to the videos was measured using information retrieval metrics such as the normalized discounted cumulative gain and precision at K.
+   Results: The majority of websites recommended by our system for health videos were relevant, based on ratings by health professionals. The normalized discounted cumulative gain was between 46% and 90% for the different topics.
+   Conclusions: Our study demonstrates the feasibility of using a semantic content-based recommender system to enrich YouTube health videos. Evaluation with end-users, in addition to healthcare professionals, will be required to identify the acceptance of these recommendations in a nonsimulated information-seeking context.
+C1 [Sanchez Bocanegra, Carlos Luis; Sevillano Ramos, Jose Luis; Civit, Anton] Univ Seville, Dept Architecture & Comp Technol, Seville, Spain.
+   [Fernandez-Luque, Luis] Hamad Bin Khalifa Univ, Qatar Fdn, Qatar Comp Res Inst, POB 5825, Doha, Qatar.
+RP Fernandez-Luque, L (reprint author), Hamad Bin Khalifa Univ, Qatar Fdn, Qatar Comp Res Inst, POB 5825, Doha, Qatar.
+EM lluque@qf.org.qa
+FU University of Tromso (Norway); SmokeFreeBrain Project of the European
+   Union's Horizon 2020 Research and Innovation Programme [681120]
+FX This research was co-funded by a HealthTrust research grant from the
+   University of Tromso (Norway). This study was also co-funded by the
+   SmokeFreeBrain Project of the European Union's Horizon 2020 Research and
+   Innovation Programme under Grant No. 681120. The funding sources did not
+   have any role in the execution of the study.
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6947
+J9 BMC MED INFORM DECIS
+JI BMC Med. Inform. Decis. Mak.
+PD MAY 15
+PY 2017
+VL 17
+AR 63
+DI 10.1186/s12911-017-0431-7
+PG 10
+WC Medical Informatics
+SC Medical Informatics
+GA EU8LR
+UT WOS:000401290900001
+ER
+
+PT J
+AU Gui, L
+   Zhou, Y
+   Xu, RF
+   He, YL
+   Lu, Q
+AF Gui, Lin
+   Zhou, Yu
+   Xu, Ruifeng
+   He, Yulan
+   Lu, Qin
+TI Learning representations from heterogeneous network for sentiment
+   classification of product reviews
+SO KNOWLEDGE-BASED SYSTEMS
+LA English
+DT Review
+DE Sentiment classification; Representation learning; Network embedding;
+   Product reviews
+AB There have been increasing interests in natural language processing to explore effective methods in learning better representations of text for sentiment classification in product reviews. However, most existing methods do not consider subtle interplays among words appeared in review text, authors of reviews and products the reviews are associated with. In this paper, we make use of a heterogeneous network to model the shared polarity in product reviews and learn representations of users, products they commented on and words they used simultaneously. The basic idea is to first construct a heterogeneous network which links users, products, words appeared in product reviews, as well as the polarities of the words. Based on the constructed network, representations of nodes are learned using a network embedding method, which are subsequently incorporated into a convolutional neural network for sentiment analysis. Evaluations on the product reviews, including IMDB, Yelp 2013 and Yelp 2014 datasets, show that the proposed approach achieves the state-of-the-art performance. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Gui, Lin; Zhou, Yu; Xu, Ruifeng] Harbin Inst Technol, Shenzhen Grad Sch, Sch Comp Sci & Technol, Shenzhen, Peoples R China.
+   [Gui, Lin; He, Yulan] Aston Univ, Sch Engn & Appl Sci, Birmingham, W Midlands, England.
+   [Lu, Qin] Hong Kong Polytech Univ, Dept Comp, Hong Kong, Hong Kong, Peoples R China.
+RP Xu, RF (reprint author), Harbin Inst Technol, Shenzhen Grad Sch, Sch Comp Sci & Technol, Shenzhen, Peoples R China.
+EM guilin.nlp@gmail.com; zhouyu.nlp@gmail.com; xuruifeng@hit.edu.cn;
+   y.he9@aston.ac.uk; csluoin@comp.polyu.edu.hk
+FU National Natural Science Foundation of China [61370165, U1636103,
+   61632011]; National 863 Program of China [2015AA015405]; Shenzhen
+   Foundational Research [JCYJ20150625142543470]; Guangdong Provincial
+   Engineering Technology Research Center [2016KF09]
+FX This work was supported by the National Natural Science Foundation of
+   China 61370165, U1636103, 61632011, National 863 Program of China
+   2015AA015405, Shenzhen Foundational Research Funding
+   JCYJ20150625142543470 and Guangdong Provincial Engineering Technology
+   Research Center for Data Science 2016KF09.
+NR 35
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0950-7051
+EI 1872-7409
+J9 KNOWL-BASED SYST
+JI Knowledge-Based Syst.
+PD MAY 15
+PY 2017
+VL 124
+BP 34
+EP 45
+DI 10.1016/j.knosys.2017.02.030
+PG 12
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA ET4DH
+UT WOS:000400229000004
+ER
+
+PT J
+AU Li, SH
+   Zhu, J
+   Miao, CY
+AF Li, Shaohua
+   Zhu, Jun
+   Miao, Chunyan
+TI PSDVec: A toolbox for incremental and scalable word embedding
+SO NEUROCOMPUTING
+LA English
+DT Article
+DE Word embedding; Matrix factorization; Incremental learning
+AB PSDVec is a Python/Perl toolbox that learns word embeddings, i.e. the mapping of words in a natural language to continuous vectors which encode the semantic/syntactic regularities between the words. PSDVec implements a word embedding learning method based on a weighted low-rank positive semi definite approximation. To scale up the learning process, we implement a blockwise online learning algorithm to learn the embeddings incrementally. This strategy greatly reduces the learning time of word embeddings on a large vocabulary, and can learn the embeddings of new words without re-learning the whole vocabulary. On 9 word similarity/analogy benchmark sets and 2 Natural Language Processing(NLP) tasks, PSDVec produces embeddings that has the best average performance among popular word embedding tools. PSDVec provides a new option for NLP practitioners. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Li, Shaohua; Miao, Chunyan] Nanyang Technol Univ, Joint NTU UBC Res Ctr Excellence Act Living Elder, Singapore, Singapore.
+   [Zhu, Jun] Tsinghua Univ, Beijing, Peoples R China.
+RP Li, SH (reprint author), Nanyang Technol Univ, Joint NTU UBC Res Ctr Excellence Act Living Elder, Singapore, Singapore.
+EM shaohua@gmail.com; dcszj@tsinghua.edu.cn; ascymiao@ntu.edu.sg
+FU National Research Foundation Singapore; National NSF of China [61322308]
+FX This research is supported by the National Research Foundation Singapore
+   under its Interactive Digital Media (IDM) Strategic Research Programme.
+   Part of the work was conceived when Shaohua Li was visiting Tsinghua.
+   Jun Zhu is supported by National NSF of China (No. 61322308) and the
+   Youth Top-notch Talent Support Program.
+NR 15
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0925-2312
+EI 1872-8286
+J9 NEUROCOMPUTING
+JI Neurocomputing
+PD MAY 10
+PY 2017
+VL 237
+BP 405
+EP 409
+DI 10.1016/j.neucom.2016.05.093
+PG 5
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA EP4NH
+UT WOS:000397356700038
+ER
+
+PT J
+AU Chinniyan, K
+   Gangadharan, S
+   Sabanaikam, K
+AF Chinniyan, Kavitha
+   Gangadharan, Sudha
+   Sabanaikam, Kiruthika
+TI Semantic Similarity based Web Document Classification Using Support
+   Vector Machine
+SO INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY
+LA English
+DT Article
+DE Document classification; text mining; SVM; latent semantic indexing
+ID TEXT CATEGORIZATION
+AB With the rapid growth of information on the World Wide Web (WWW), classification of web documents has become important for efficient information retrieval. Relevancy of information retrieved can also be improved by considering semantic relatedness between words which is a basic research area in fields of natural language processing, intelligent retrieval, document clustering and classification, word sense disambiguation etc. The web search engine based semantic relationship from huge web corpus can improve classification of documents. This paper proposes an approach for web document classification that exploits information, including both page count and snippets. To identify the semantic relations between the query words, a lexical pattern extraction algorithm is applied on snippets. A sequential pattern clustering algorithm is used to form clusters of different patterns. The page count based measures are combined with the clustered patterns to define the features extracted from the word-pairs. These features are used to train the Support Vector Machine (SVM), in order to classify the web documents. Experimental results demonstrate 5% and 9% improvement in F1 measure for Reuters 21578 and 20 Newsgroup datasets in the classifier performance.
+C1 [Chinniyan, Kavitha; Gangadharan, Sudha; Sabanaikam, Kiruthika] PSG Coll Technol, Dept Comp Sci & Engn, Coimbatore, Tamil Nadu, India.
+RP Chinniyan, K (reprint author), PSG Coll Technol, Dept Comp Sci & Engn, Coimbatore, Tamil Nadu, India.
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ZARKA PRIVATE UNIV
+PI ZARQA
+PA COLLEGE COMPUTING & INFORMATION TECHNOLOGY, PO BOX 2000, ZARQA, 13110,
+   JORDAN
+SN 1683-3198
+J9 INT ARAB J INF TECHN
+JI Int. Arab J. Inf. Technol.
+PD MAY
+PY 2017
+VL 14
+IS 3
+BP 285
+EP 292
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA EV3VG
+UT WOS:000401686600002
+ER
+
+PT J
+AU Karaa, W
+   Slimani, T
+AF Karaa, Wahiba
+   Slimani, Thabet
+TI A New Approach for Arabic Named Entity Recognition
+SO INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY
+LA English
+DT Article
+DE Arabic NE; machine learning; web document; information retrieval;
+   information extraction
+AB A Named Entity Recognition (NER) plays a noteworthy role in Natural Language Processing (NLP) research, since it makes available the detection of proper nouns in unstructured texts. NER makes easier searching, retrieving, and extracting information seeing as the significant information in texts is usually sited around proper names. This paper suggests an efficient approach that can identify Named Entities (NE) in Arabic texts without the need for morphological or syntactic analysis or gazetteers. The goal of our approach is to provide a general framework for Arabic NE recognition. Within this framework; the system learns the recognition of NE automatically and induces NE systematically, starting from sample NE instances as seeds. This method takes advantage from the web, the approach learns from a web corpus. The seeds are used to identify the contexts in the web denoting NE and then the contexts identify new NE. Thorough experimental evaluation of our approach, the performances measured by recall, precision and f-measure conducted to recognize NE are promising. We obtained an overall rate of F-measure equal to 83%.
+C1 [Karaa, Wahiba; Slimani, Thabet] Taif Univ, Coll Comp & Informat Technol, At Taif, Saudi Arabia.
+RP Karaa, W (reprint author), Taif Univ, Coll Comp & Informat Technol, At Taif, Saudi Arabia.
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ZARKA PRIVATE UNIV
+PI ZARQA
+PA COLLEGE COMPUTING & INFORMATION TECHNOLOGY, PO BOX 2000, ZARQA, 13110,
+   JORDAN
+SN 1683-3198
+J9 INT ARAB J INF TECHN
+JI Int. Arab J. Inf. Technol.
+PD MAY
+PY 2017
+VL 14
+IS 3
+BP 332
+EP 338
+PG 7
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA EV3VG
+UT WOS:000401686600008
+ER
+
+PT J
+AU Singh, S
+   Sharma, DK
+   Bhatia, S
+   Singh, A
+AF Singh, S.
+   Sharma, D. K.
+   Bhatia, S.
+   Singh, A.
+TI Effect of various plant powders on rice weevil (Sitophilus oryzae Linn.)
+   in stored wheat
+SO JOURNAL OF ENVIRONMENTAL BIOLOGY
+LA English
+DT Article
+DE Plant powder; Sitophilus oryzae; Rice weevil; Stored wheat
+ID PROTECTION
+AB Aim: Now-a-days usage of chemical insecticides has become more restricted and creating many environmental problems. Therefore, objective of the present study was to evaluate the alternative control measures in form of botanicals against rice weevil (Sitophilus oryzae L.) on stored wheat.
+   Methodology: Six botanicals in powder form viz., neem leaf powder (NLP), neem kernel powder (NKP), dharek leaf powder (DLP), dharek kernel powder (DKP), castor leaf powder (CLP) and castor kernel powder (CKP) each at the rate of 1.0, 1.5 and 2.0 % (wlw) were tested by directly mixing into wheat grains against S. oryzae. An aliquot of 100g wheat sample was used in each treatment for maximum of 3 replications. Three jars were also kept for untreated control. Three jars of Deltamethrin 2.8 EC were also kept as standard check. Five pairs of 1-2 week old adult insects (1:1 female to male ratio) were released into each jar. The open tops of all the jars were covered with muslin and kept inside BOD incubator at 27 +/- 1 degrees C and 70 5 % R.H.
+   Results: Deltamethrin 2.8 EC was highly effective as all the adult insects were died within 24 hours after their release. Among various powders, NKP at 2% was found best as it showed minimum grain damage (3.84%), weight loss (1.15%) and adult emergence (16.17), while maximum inhibition rate (92.58%) over the untreated control with maximum grain damage (21.16%), weight loss (13.83%) and adult emergence (157.58 adults). The NKP was followed by DKP, NLP, DLP, CKP and CLP. Seed viability was not adversely affected by any of the plant powders used in the studies.
+   Interpretation: This study showed that 2% NKP the most effective compound over the other compounds and untreated control, and it can be used as botanical against S. oryzae in stored wheat.
+C1 [Singh, S.] Punjab Agr Univ, Dept Entomol, Ludhiana 141004, Punjab, India.
+   [Sharma, D. K.; Bhatia, S.] Punjab Agr Univ, Dept Proc & Food Engn, Ludhiana 141004, Punjab, India.
+   [Singh, A.] Punjab Agr Univ, Dept Plant Pathol, Ludhiana 141004, Punjab, India.
+RP Singh, S (reprint author), Punjab Agr Univ, Dept Entomol, Ludhiana 141004, Punjab, India.
+EM subashent@gmail.com
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TRIVENI ENTERPRISES
+PI LUCKNOW
+PA C/O KIRAN DALELA, 1/206 VIKAS NAGAR, KURSI RD, LUCKNOW 226 022, INDIA
+SN 0254-8704
+J9 J ENVIRON BIOL
+JI J.Environ.Biol.
+PD MAY
+PY 2017
+VL 38
+IS 3
+BP 501
+EP 508
+DI 10.22438/jeb/38/3/MS-164
+PG 8
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA EU3JQ
+UT WOS:000400925700021
+ER
+
+PT J
+AU Galeota, E
+   Pelizzola, M
+AF Galeota, Eugenia
+   Pelizzola, Mattia
+TI Ontology-based annotations and semantic relations in large-scale
+   (epi)genomics data
+SO BRIEFINGS IN BIOINFORMATICS
+LA English
+DT Article
+DE semantic annotation; semantic similarity; epigenetics; transcription
+   factor; high-throughput sequencing; natural language processing
+ID SIMILARITY; RELATEDNESS; PERSPECTIVE; EXPRESSION; RESOURCE; PROJECT;
+   GROWTH; UMLS
+AB Public repositories of large-scale biological data currently contain hundreds of thousands of experiments, including high-throughput sequencing and microarray data. The potential of using these resources to assemble data sets combining samples previously not associated is vastly unexplored. This requires the ability to associate samples with clear annotations and to relate experiments matched with different annotation terms. In this study, we illustrate the semantic annotation of Gene Expression Omnibus samples metadata using concepts from biomedical ontologies, focusing on the association of thousands of chromatin immunoprecipitation followed by high-throughput sequencing (ChIP-seq) samples with a given target, tissue and disease state. Next, we demonstrate the feasibility of quantitatively measuring the semantic similarity between different samples, with the aim of combining experiments associated with the same or similar semantic annotations, thus allowing the generation of large data sets without the need of additional experiments. We compared tools based on Unified Medical Language System with tools that use topic-specific ontologies, showing that the second approach outperforms the first both in the annotation process and in the computation of semantic similarity measures. Finally, we demonstrated the potential of this approach by identifying semantically homogeneous groups of ChIP-seq samples targeting the Myc transcription factor, and expanding this data set with semantically coherent epigenetic samples. The semantic information of these data sets proved to be coherent with the ChIP-seq signal and with the current knowledge about this transcription factor.
+C1 [Galeota, Eugenia] Fdn Ist Italiano Tecnol, Ctr Genom Sci IIT SEMM, Milan, Italy.
+   [Pelizzola, Mattia] Fdn Ist Italiano Tecnol, Ctr Genom Sci IIT SEMM, Computat Epigen Unit, Milan, Italy.
+RP Pelizzola, M (reprint author), Fdn Ist Italiano Tecnol IIT, Ctr Genom Sci IIT SEMM, Via Adamello 16, I-20139 Milan, Italy.
+EM mattia.pelizzola@iit.it
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1467-5463
+EI 1477-4054
+J9 BRIEF BIOINFORM
+JI Brief. Bioinform.
+PD MAY
+PY 2017
+VL 18
+IS 3
+BP 403
+EP 412
+DI 10.1093/bib/bbw036
+PG 10
+WC Biochemical Research Methods; Mathematical & Computational Biology
+SC Biochemistry & Molecular Biology; Mathematical & Computational Biology
+GA EU3YW
+UT WOS:000400968000005
+PM 27142216
+ER
+
+PT J
+AU Yang, HT
+   Ju, JH
+   Wong, YT
+   Shmulevich, I
+   Chiang, JH
+AF Yang, Hsih-Te
+   Ju, Jiun-Huang
+   Wong, Yue-Ting
+   Shmulevich, Ilya
+   Chiang, Jung-Hsien
+TI Literature-based discovery of new candidates for drug repurposing
+SO BRIEFINGS IN BIOINFORMATICS
+LA English
+DT Article
+DE text-mining; ABC model; drug repurposing; information extraction;
+   natural language processing; drug target discovery
+ID GENE NORMALIZATION; CANCER; KNOWLEDGE; UPDATE; CONNECTIONS; THALIDOMIDE;
+   INTEGRATION; CARCINOMA; TAMOXIFEN; ASPIRIN
+AB Drug development is an expensive and time-consuming process; these could be reduced if the existing resources could be used to identify candidates for drug repurposing. This study sought to do this by text mining a large-scale literature repository to curate repurposed drug lists for different cancers. We devised a pattern-based relationship extraction method to extract disease-gene and gene-drug direct relationships from the literature. These direct relationships are used to infer indirect relationships using the ABC model. A gene-shared ranking method based on drug target similarity was then proposed to prioritize the indirect relationships. Our method of assessing drug target similarity correlated to existing anatomical therapeutic chemical code-based methods with a Pearson correlation coefficient of 0.9311. The indirect relationships ranking method achieved a significant mean average precision score of top 100 most common diseases. We also confirmed the suitability of candidates identified for repurposing as anticancer drugs by conducting a manual review of the literature and the clinical trials. Eventually, for visualization and enrichment of huge amount of repurposed drug information, a chord diagram was demonstrated to rapidly identify two novel indications for further biological evaluations.
+C1 [Ju, Jiun-Huang; Wong, Yue-Ting] Natl Cheng Kung Univ, Dept Comp Sci & Informat Engn, Tainan, Taiwan.
+   [Yang, Hsih-Te; Chiang, Jung-Hsien] Natl Cheng Kung Univ, Dept Comp Sci & Informat Engn, Inst Med Informat, Tainan, Taiwan.
+   [Yang, Hsih-Te] Natl Cheng Kung Univ, Inst Oral Med, Tainan, Taiwan.
+   [Shmulevich, Ilya] Inst Syst Biol, Seattle, WA USA.
+   [Shmulevich, Ilya] Genome Data Anal Ctr, Seattle, WA USA.
+RP Chiang, JH (reprint author), Natl Cheng Kung Univ, Dept Comp Sci & Informat Engn, Tainan, Taiwan.
+EM jchiang@mail.ncku.edu.tw
+FU Ministry of Science and Technology of Taiwan
+   [MOST103-2221-E-006-254-MY2, MOST 104-2923-E-006-003-MY3]
+FX This work was supported by the Ministry of Science and Technology of
+   Taiwan (MOST103-2221-E-006-254-MY2 and MOST 104-2923-E-006-003-MY3).
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1467-5463
+EI 1477-4054
+J9 BRIEF BIOINFORM
+JI Brief. Bioinform.
+PD MAY
+PY 2017
+VL 18
+IS 3
+BP 488
+EP 497
+DI 10.1093/bib/bbw030
+PG 10
+WC Biochemical Research Methods; Mathematical & Computational Biology
+SC Biochemistry & Molecular Biology; Mathematical & Computational Biology
+GA EU3YW
+UT WOS:000400968000013
+PM 27113728
+ER
+
+PT J
+AU Stewart, SA
+   Abidi, SSR
+AF Stewart, Samuel Alan
+   Abidi, Syed Sibte Raza
+TI Leveraging medical taxonomies to improve knowledge management within
+   online communities of practice: The knowledge maps system
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+LA English
+DT Article
+DE Knowledge management; Medical taxonomies; Online communities; Natural
+   language processing; Semantic mapping
+AB Background and Objective: Online communities of practice contain a wealth of information, stored in the free text of shared communications between community members. The Knowledge Maps (KMaps) system is designed to facilitate Knowledge Translation in online communities through multi-level analyses of the shared messages of these communications.
+   Methods: Using state-of-the-art semantic mapping technologies (Metamap) the contents of the messages shared within an online community are mapped to terms from the MeSH medical lexicon, providing a multi-level topic-specific summary of the knowledge being shared within the community. Using the inherent hierarchical structure of the lexicon important insights can be found within the community.
+   Results: The KMaps system was applied to two medical mailing lists, the PPML (archives from 2009-02 to 2013-02) and SURGINET (archives from 2012-01 to 2013-04), identifying 27,924 and 50,597 medical terms respectively. KMaps identified content areas where both communities found interest, specifically around Diseases, 22% and 24% of the total terms, while also identifying field-specific areas that were more popular: SURGINET expressed an interest in Anatomy (14% vs 4%) while the PPML was more interested in Drugs (19% vs 9%). At the level of the individual KMaps identified 6 PPML users and 9 SURGINET users that had noticeably more contributions to the community than their peers, and investigated their personal areas of interest.
+   Conclusion: The KMaps system provides valuable insights into the structure of both communities, identifying topics of interest/shared content areas and defining content-profiles for individual community members. The system provides a valuable addition to the online KT process. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Stewart, Samuel Alan] Fac Med, Dept Community Hlth & Epidemiol, Med Informat, Halifax, NS, Canada.
+   [Abidi, Syed Sibte Raza] Dalhousie Univ, Fac Comp Sci, NICHE Res Grp, Halifax, NS, Canada.
+RP Stewart, SA (reprint author), Dalhousie Univ, Ctr Clin Res, 5790 Univ Ave, Halifax, NS B3H 1V7, Canada.
+EM sam.stewart@dal.ca
+NR 19
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0169-2607
+EI 1872-7565
+J9 COMPUT METH PROG BIO
+JI Comput. Meth. Programs Biomed.
+PD MAY
+PY 2017
+VL 143
+BP 121
+EP 127
+DI 10.1016/j.cmpb.2017.03.003
+PG 7
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods; Engineering, Biomedical; Medical Informatics
+SC Computer Science; Engineering; Medical Informatics
+GA ET8EP
+UT WOS:000400531900013
+PM 28391809
+ER
+
+PT J
+AU Swartz, J
+   Koziatek, C
+   Theobald, J
+   Smith, S
+   Iturrate, E
+AF Swartz, Jordan
+   Koziatek, Christian
+   Theobald, Jason
+   Smith, Silas
+   Iturrate, Eduardo
+TI Creation of a simple natural language processing tool to support an
+   imaging utilization quality dashboard
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+LA English
+DT Article
+DE Natural language processing; Automated text classification; Pulmonary
+   embolism; Deep venous thrombosis; Practice variation; Benchmarking
+ID DECISION-SUPPORT; CLASSIFICATION; RADIOLOGY; ALGORITHM; TRIAL; RULE
+AB Background: Testing for venous thromboembolism (VTE) is associated with cost and risk to patients (e.g. radiation). To assess the appropriateness of imaging utilization at the provider level, it is important to know that provider's diagnostic yield (percentage of tests positive for the diagnostic entity of interest). However, determining diagnostic yield typically requires either time-consuming, manual review of radiology reports or the use of complex and/or proprietary natural language processing software.
+   Objectives: The objectives of this study were twofold: 1) to develop and implement a simple, user configurable, and open-source natural language processing tool to classify radiology reports with high accuracy and 2) to use the results of the tool to design a provider-specific VTE imaging dashboard, consisting of both utilization rate and diagnostic yield.
+   Methods: Two physicians reviewed a training set of 400 lower extremity ultrasound (UTZ) and computed tomography pulmonary angiogram (CTPA) reports to understand the language used in VTE-positive and VTE-negative reports. The insights from this review informed the arguments to the five modifiable parameters of the NLP tool. A validation set of 2,000 studies was then independently classified by the reviewers and by the tool; the classifications were compared and the performance of the tool was calculated. Results: The tool was highly accurate in classifying the presence and absence of VTE for both the UTZ (sensitivity 95.7%; 95% CI 91.5-99.8, specificity 100%; 95% CI 100-100) and CTPA reports (sensitivity 97.1%; 95% CI 94.3-99.9, specificity 98.6%; 95% CI 97.8-99.4). The diagnostic yield was then calculated at the individual provider level and the imaging dashboard was created.
+   Conclusions: We have created a novel NLP tool designed for users without a background in computer programming, which has been used to classify venous thromboembolism reports with a high degree of accuracy. The tool is open-source and available for download at http://iturrate.comisimpleNLP. Results obtained using this tool can be applied to enhance quality by presenting information about utilization and yield to providers via an imaging dashboard. (c) 2017 Elsevier B.V. All rights reserved.
+C1 [Swartz, Jordan; Koziatek, Christian; Smith, Silas] NYU, Sch Med, Ronald O Perelman Dept Emergency Med, New York, NY USA.
+   [Theobald, Jason] Mt Sinai St Lukes Hosp, Mt Sinai West Hosp, Dept Emergency Med, New York, NY USA.
+   [Iturrate, Eduardo] NYU, Sch Med, Dept Internal Med, New York, NY USA.
+RP Swartz, J (reprint author), 462 First Ave,Room A345A, New York, NY 10016 USA.
+EM Jordan.Swartz@nyumc.org
+FU Fridolin Charitable Trust; Ronald O. Perelman Department of Emergency
+   Medicine Safety Program
+FX This work was supported by a grant from the Fridolin Charitable Trust to
+   SWS and the Ronald O. Perelman Department of Emergency Medicine Safety
+   Program.
+NR 23
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1386-5056
+EI 1872-8243
+J9 INT J MED INFORM
+JI Int. J. Med. Inform.
+PD MAY
+PY 2017
+VL 101
+BP 93
+EP 99
+DI 10.1016/j.ijmedinf.2017.02.011
+PG 7
+WC Computer Science, Information Systems; Health Care Sciences & Services;
+   Medical Informatics
+SC Computer Science; Health Care Sciences & Services; Medical Informatics
+GA ET6XQ
+UT WOS:000400437200012
+PM 28347453
+ER
+
+PT J
+AU Cunha, SR
+   Garofalo, SA
+   Scaramucci, T
+   Zezell, DM
+   Aranha, ACC
+AF Cunha, Sandra Ribeiro
+   Garofalo, Stephanie Assimakopoulos
+   Scaramucci, Tais
+   Zezell, Denise Maria
+   Correa Aranha, Ana Cecilia
+TI The association between Nd:YAG laser and desensitizing dentifrices for
+   the treatment of dentin hypersensitivity
+SO LASERS IN MEDICAL SCIENCE
+LA English
+DT Article
+DE Dentin; Dentin hypersensitivity; Laser; Nd:YAG; Dentifrices;
+   Desensitizers
+ID ND-YAG LASER; SCANNING-ELECTRON-MICROSCOPY; TUBULE OCCLUSION; IN-VITRO;
+   PROPHYLAXIS PASTE; CALCIUM-CARBONATE; IRRADIATION; ARGININE; AGENTS;
+   TOOTHPASTES
+AB This study aims to evaluate the association between Nd: YAG laser (with and without a photoabsorber) and two desensitizing dentifrices containing 15% NovaMin or 8% arginine, as potential treatments for dentin hypersensitivity (DH). DH was simulated by EDTA application for 2 min. Specimens were then analyzed with an environmental scanning electron microscope (ESEM) to ensure open dentin tubules (ODT), counted by using ImageJ software. Specimens were randomized into eight groups (n = 10): Laser (L), Laser+ Photoabsorber (LP), Arginine (A), Arginine+Laser (AL), Arginine+Laser+Photoabsorber (ALP), NovaMin (N), NovaMin+Laser (NL), and NovaMin+ Laser+ Photoabsorber (NLP). Laser irradiation was performed with 1 W, 100 mJ, 10 Hz, congruent to 85 J/cm(2); 4 irradiations of 10 s each, with 10 s intervals between them. After treatment, specimens were again analyzed by ESEM and submitted to erosive/abrasive cycling for 5 days. A final ESEM analysis was performed. Data were analyzed with two-way repeated measure ANOVA and Tukey tests (alpha = 0.05). After treatment, groups N, NL, and NLP presented the lower number of ODT, but they did not different from LP, ALP, and AL. Group A presented the highest number of ODT and it did not differ from group L. Groups L, AL, ALP, and LP presented intermediate results, without differing from each other. After cycling, group A presented the highest number of ODT and did not differ significantly from the other groups, except NLP. None of the associations tested presented better tubule occlusion than NovaMin by itself. Arginine was the only treatment that presented improved tubule occlusion when associated with Nd: YAG laser.
+C1 [Cunha, Sandra Ribeiro; Garofalo, Stephanie Assimakopoulos; Scaramucci, Tais; Correa Aranha, Ana Cecilia] Univ Sao Paulo, Sch Dent, Dept Restorat Dent, Ave Prof Lineu Prestes 2227, Sao Paulo, SP, Brazil.
+   [Zezell, Denise Maria] Univ Sao Paulo, Inst Nucl Res IPEN, IPEN CNEN, Ave Prof Lineu Prestes 2242, Sao Paulo, SP, Brazil.
+   [Correa Aranha, Ana Cecilia] Univ Sao Paulo, Sch Dent, Dept Restorat Dent, Special Lab Lasers Dent, Ave Prof Lineu Prestes 2227, BR-05508000 Sao Paulo, SP, Brazil.
+RP Aranha, ACC (reprint author), Univ Sao Paulo, Sch Dent, Dept Restorat Dent, Ave Prof Lineu Prestes 2227, Sao Paulo, SP, Brazil.; Aranha, ACC (reprint author), Univ Sao Paulo, Sch Dent, Dept Restorat Dent, Special Lab Lasers Dent, Ave Prof Lineu Prestes 2227, BR-05508000 Sao Paulo, SP, Brazil.
+EM acca@usp.br
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0268-8921
+EI 1435-604X
+J9 LASER MED SCI
+JI Lasers Med. Sci.
+PD MAY
+PY 2017
+VL 32
+IS 4
+BP 873
+EP 880
+DI 10.1007/s10103-017-2187-9
+PG 8
+WC Engineering, Biomedical; Surgery
+SC Engineering; Surgery
+GA ES9NF
+UT WOS:000399885100017
+PM 28293873
+ER
+
+PT J
+AU Glanzel, W
+   Thijs, B
+AF Glanzel, Wolfgang
+   Thijs, Bart
+TI Using hybrid methods and 'core documents' for the representation of
+   clusters and topics: the astronomy dataset
+SO SCIENTOMETRICS
+LA English
+DT Article
+DE Astronomy; Astrophysics; Clustering; NLP; Bibliographic coupling; Hybrid
+   clustering; Core documents
+ID COCITATION ANALYSIS; INFORMATION; SCIENCE; NETWORK; TOOL
+AB Based on a dataset on Astronomy and Astrophysics, hybrid cluster analyses have been conducted. In order to obtain an optimum solution and to analyse possible issues resulting from the bibliometric methodologies used, we have systematically studied three models and, within these models, two scenarios each. The hybrid clustering was based on a combination of bibliographic coupling and textual similarities using the Louvain method at two resolution levels. The procedure resulted in three clearly hierarchical structures with six and thirteen, seven and thirteen and finally five and eleven clusters, respectively. These structures are analysed with the help of a concordance table. The statistics reflect a high quality of classification. The results of these three models are presented, discussed and compared with each other. For labelling and interpreting clusters, core documents representing the obtained clusters are used. Furthermore, these core documents help depict the internal structure of the complete network and the clusters. This work has been done as part of the international project 'Measuring the Diversity of Research' and in the framework a special workshop on the comparative analysis of algorithms for the identification of topics in science organised in Berlin in August 2014.
+C1 [Glanzel, Wolfgang; Thijs, Bart] Katholieke Univ Leuven, ECOOM, Louvain, Belgium.
+   [Glanzel, Wolfgang; Thijs, Bart] Katholieke Univ Leuven, Dept MSI, Louvain, Belgium.
+   [Glanzel, Wolfgang] Lib Hungarian Acad Sci, Dept Sci Policy & Scientometr, Budapest, Hungary.
+RP Glanzel, W (reprint author), Katholieke Univ Leuven, ECOOM, Louvain, Belgium.; Glanzel, W (reprint author), Katholieke Univ Leuven, Dept MSI, Louvain, Belgium.; Glanzel, W (reprint author), Lib Hungarian Acad Sci, Dept Sci Policy & Scientometr, Budapest, Hungary.
+EM wolfgang.glanzel@kuleuven.be
+NR 24
+TC 3
+Z9 3
+U1 2
+U2 2
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0138-9130
+EI 1588-2861
+J9 SCIENTOMETRICS
+JI Scientometrics
+PD MAY
+PY 2017
+VL 111
+IS 2
+BP 1071
+EP 1087
+DI 10.1007/s11192-017-2301-6
+PG 17
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science
+SC Computer Science; Information Science & Library Science
+GA ES9JC
+UT WOS:000399871500024
+ER
+
+PT J
+AU Mrachko, AA
+   Kaczmarek, LA
+AF Mrachko, Alicia A.
+   Kaczmarek, Louise A.
+TI Examining Paraprofessional Interventions to Increase Social
+   Communication for Young Children With ASD
+SO TOPICS IN EARLY CHILDHOOD SPECIAL EDUCATION
+LA English
+DT Article
+DE autism; paraprofessional; social communication; naturalistic behavioral
+   intervention; treatment fidelity
+ID PIVOTAL RESPONSE TREATMENT; NATURAL-LANGUAGE PARADIGM; AUTISM SPECTRUM
+   DISORDERS; TRAINING PARAPROFESSIONALS; SKILLS; STAFF; FEEDBACK;
+   PRESCHOOLERS; DISABILITIES; INDIVIDUALS
+AB Social communication skills are considered a core deficit in children diagnosed with autism spectrum disorder (ASD). Evidence-based practices that have emerged to address these critical skills in children with ASD have largely been implemented by researchers, teachers, and parents. Only recently have researchers studied paraprofessionals as implementers of these interventions. The following review examines studies in which paraprofessionals were taught to implement social communication interventions with young children with ASD. The seven articles that met inclusion criteria were evaluated with respect to (a) type of social communication intervention, (b) evidence of effectiveness, (c) training methods and components, (d) child outcomes. The primary intervention studies included pivotal response training (PRT), natural language paradigm (NLP), and incidental teaching strategies as well as mand training and general antecedent/consequent interventions. All studies reported improvements in paraprofessional implementation fidelity for the chosen intervention, five of which also reported corresponding improvements in child outcomes. Four studies provided definitive evidence of effectiveness for paraprofessional training. Feedback was the only training component used in all seven studies, in conjunction with at least one other component.
+C1 [Mrachko, Alicia A.] Bowling Green State Univ, 427 Educ Bldg, Bowling Green, OH 43403 USA.
+   [Kaczmarek, Louise A.] Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RP Mrachko, AA (reprint author), Bowling Green State Univ, 427 Educ Bldg, Bowling Green, OH 43403 USA.
+EM mrachka@bgsu.edu
+NR 56
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0271-1214
+EI 1538-4845
+J9 TOP EARLY CHILD SPEC
+JI Top. Early Child. Spec. Educ.
+PD MAY
+PY 2017
+VL 37
+IS 1
+BP 4
+EP 15
+DI 10.1177/0271121416662870
+PG 12
+WC Education, Special
+SC Education & Educational Research
+GA ET0BI
+UT WOS:000399926000001
+ER
+
+PT J
+AU Natarajan, S
+   Bangera, V
+   Khot, T
+   Picado, J
+   Wazalwar, A
+   Costa, VS
+   Page, D
+   Caldwell, M
+AF Natarajan, Sriraam
+   Bangera, Vishal
+   Khot, Tushar
+   Picado, Jose
+   Wazalwar, Anurag
+   Costa, Vitor Santos
+   Page, David
+   Caldwell, Michael
+TI Markov logic networks for adverse drug event extraction from text
+SO KNOWLEDGE AND INFORMATION SYSTEMS
+LA English
+DT Article
+DE Natural language processing; Adverse drug event extraction; Markov logic
+   networks; Statistical relational learning
+ID SAFETY
+AB Adverse drug events (ADEs) are a major concern and point of emphasis for the medical profession, government, and society. A diverse set of techniques from epidemiology, statistics, and computer science are being proposed and studied for ADE discovery from observational health data (e.g., EHR and claims data), social network data (e.g., Google and Twitter posts), and other information sources. Methodologies are needed for evaluating, quantitatively measuring and comparing the ability of these various approaches to accurately discover ADEs. This work is motivated by the observation that text sources such as the Medline/Medinfo library provide a wealth of information on human health. Unfortunately, ADEs often result from unexpected interactions, and the connection between conditions and drugs is not explicit in these sources. Thus, in this work, we address the question of whether we can quantitatively estimate relationships between drugs and conditions from the medical literature. This paper proposes and studies a state-of-the-art NLP-based extraction of ADEs from text.
+C1 [Natarajan, Sriraam; Bangera, Vishal; Wazalwar, Anurag] Indiana Univ, Bloomington, IN 47405 USA.
+   [Khot, Tushar; Page, David] Univ Wisconsin Madison, Madison, WI USA.
+   [Picado, Jose] Oregon State Univ, Corvallis, OR 97331 USA.
+   [Costa, Vitor Santos] Univ Porto, Oporto, Portugal.
+   [Caldwell, Michael] Marshfield Clin Fdn Med Res & Educ, Marshfield, WI USA.
+RP Natarajan, S (reprint author), Indiana Univ, Bloomington, IN 47405 USA.
+EM natarasr@indiana.edu
+FU National Institute of Health [NIGMS 5R01GM097618]
+FX The authors gratefully acknowledge National Institute of Health Grant
+   Number NIGMS 5R01GM097618 for the support.
+NR 39
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0219-1377
+EI 0219-3116
+J9 KNOWL INF SYST
+JI Knowl. Inf. Syst.
+PD MAY
+PY 2017
+VL 51
+IS 2
+BP 435
+EP 457
+DI 10.1007/s10115-016-0980-6
+PG 23
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems
+SC Computer Science
+GA ES3DM
+UT WOS:000399408200004
+ER
+
+PT J
+AU Kocon, J
+   Marcinczuk, M
+AF Kocon, Jan
+   Marcinczuk, Michal
+TI Supervised approach to recognise Polish temporal expressions and
+   rule-based interpretation of timexes
+SO NATURAL LANGUAGE ENGINEERING
+LA English
+DT Article
+ID NATURAL-LANGUAGE; INFORMATION; ALGORITHMS; SELECTION; FEATURES
+AB A key challenge of the Information Extraction in Natural Language Processing is the ability to recognise and classify temporal expressions (timexes). It is a crucial source of information about when something happens, how often something occurs or how long something lasts. Timexes extracted automatically from text, play a major role in many Information Extraction systems, such as question answering or event recognition. We prepared a broad specification of Polish timexes - PLIMEX. It is based on the state-of-the-art annotation guidelines for English, mainly TIMEX2 and TIMEX3 (a part of TimeML - Markup Language for Temporal and Event Expressions). We have expanded our specification for a description of the local meaning of timexes, based on LTIMEX annotation guidelines for English. Temporal description supports further event identification and extends event description model, focussing on anchoring events in time, events ordering and reasoning about the persistence of events. We prepared the specification, which is designed to address these issues, and we annotated all documents in Polish Corpus of Wroclaw University of Technology (KPWr) using our annotation guidelines. We also adapted our Liner2 machine learning system to recognise Polish timexes and we propose two-phase method to select a subset of features for Conditional Random Fields sequence labelling method. This article presents the whole process of corpus annotation, evaluation of inter-annotator agreement, extending Liner2 system with new features and evaluation of the recognition models before and after feature selection with the analysis of statistical significance of differences. Liner2 with presented models is available as open source software under the GNU General Public License.
+C1 [Kocon, Jan; Marcinczuk, Michal] Wroclaw Univ Technol, Dept Computat Intelligence, Wybrzeze Wyspianskiego 27, Wroclaw, Poland.
+RP Kocon, J (reprint author), Wroclaw Univ Technol, Dept Computat Intelligence, Wybrzeze Wyspianskiego 27, Wroclaw, Poland.
+EM jan.kocon@pwr.edu.pl; michal.marcinczuk@pwr.edu.pl
+FU Polish Ministry of Science and Higher Education
+FX Work financed as part of the investment in the CLARIN-PL research
+   infrastructure funded by the Polish Ministry of Science and Higher
+   Education.
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1351-3249
+EI 1469-8110
+J9 NAT LANG ENG
+JI Nat. Lang. Eng.
+PD MAY
+PY 2017
+VL 23
+IS 3
+BP 385
+EP 418
+DI 10.1017/S1351324916000255
+PG 34
+WC Computer Science, Artificial Intelligence; Linguistics; Language &
+   Linguistics
+SC Computer Science; Linguistics
+GA ES2ZH
+UT WOS:000399396000003
+ER
+
+PT J
+AU Oudah, M
+   Shaalan, K
+AF Oudah, Mai
+   Shaalan, Khaled
+TI NERA 2.0: Improving coverage and performance of rule-based named entity
+   recognition for Arabic
+SO NATURAL LANGUAGE ENGINEERING
+LA English
+DT Article
+AB Named Entity Recognition (NER) is an essential task for many natural language processing systems, which makes use of various linguistic resources. NER becomes more complicated when the language in use is morphologically rich and structurally complex, such as Arabic. This language has a set of characteristics that makes it particularly challenging to handle. In a previous work, we have proposed an Arabic NER system that follows the hybrid approach, i.e. integrates both rule-based and machine learning-based NER approaches. Our hybrid NER system is the state-of-the-art in Arabic NER according to its performance on standard evaluation datasets. In this article, we discuss a novel methodology for overcoming the coverage drawback of rule-based NER systems in order to improve their performance and allow for automated rule update. The presented mechanism utilizes the recognition decisions made by the hybrid NER system in order to identify the weaknesses of the rule-based component and derive new linguistic rules aiming at enhancing the rule base, which will help in achieving more reliable and accurate results. We used ACE 2004 Newswire standard dataset as a resource for extracting and analyzing new linguistic rules for person, location and organization names recognition. We formulate each new rule based on two distinctive feature groups, i.e. Gazetteers of each type of named entities and Part-of-Speech tags, in particular noun and proper noun. Fourteen new patterns are derived, formulated as grammar rules, and evaluated in terms of coverage. The conducted experiments exploit a POS tagged version of the ACE 2004 NW dataset. The empirical results show that the performance of the enhanced rule-based system, i.e. NERA 2.0, improves the coverage of the previously misclassified person, location and organization named entities types by 69.93 per cent, 57.09 per cent and 54.28 per cent, respectively.
+C1 [Oudah, Mai] Masdar Inst Sci & Technol, Abu Dhabi, U Arab Emirates.
+   [Shaalan, Khaled] British Univ Dubai, Dubai Int Acad City, Dubai, U Arab Emirates.
+RP Oudah, M (reprint author), Masdar Inst Sci & Technol, Abu Dhabi, U Arab Emirates.
+EM moudah@masdar.ac.ae; khaled.shaalan@buid.ac.ae
+FU British University in Dubai [INF004]
+FX This research was partially funded by the British University in Dubai
+   (Grant No. INF004-Using machine learning to improve Arabic named entity
+   recognition).
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1351-3249
+EI 1469-8110
+J9 NAT LANG ENG
+JI Nat. Lang. Eng.
+PD MAY
+PY 2017
+VL 23
+IS 3
+BP 441
+EP 472
+DI 10.1017/S1351324916000097
+PG 32
+WC Computer Science, Artificial Intelligence; Linguistics; Language &
+   Linguistics
+SC Computer Science; Linguistics
+GA ES2ZH
+UT WOS:000399396000005
+ER
+
+PT J
+AU Al-Smadi, M
+   Jaradat, Z
+   Al-Ayyoub, M
+   Jararweh, Y
+AF Al-Smadi, Mohammad
+   Jaradat, Zain
+   Al-Ayyoub, Mahmoud
+   Jararweh, Yaser
+TI Paraphrase identification and semantic text similarity analysis in
+   Arabic news tweets using lexical, syntactic, and semantic features
+SO INFORMATION PROCESSING & MANAGEMENT
+LA English
+DT Article
+DE Paraphrase identification; Semantic text similarity; Semantic analysis;
+   Arabic language; Natural language processing
+AB The rapid growth in digital information has raised considerable challenges in particular when it comes to automated content analysis. Social media such as twitter share a lot of its users' information about their events, opinions, personalities, etc. Paraphrase Identification (PI) is concerned with recognizing whether two texts have the same/similar meaning, whereas the Semantic Text Similarity (STS) is concerned with the degree of that similarity. This research proposes a state-of-the-art approach for paraphrase identification and semantic text similarity analysis in Arabic news tweets. The approach adopts several phases of text processing, features extraction and text classification. Lexical, syntactic, and semantic features are extracted to overcome the weakness and limitations of the current technologies in solving these tasks for the Arabic language. Maximum Entropy (MaxEnt) and Support Vector Regression (SVR) classifiers are trained using these features and are evaluated using a dataset prepared for this research. The experimentation results show that the approach achieves good results in comparison to the baseline results. (c) 2017 Elsevier Ltd. All rights reserved.
+C1 [Al-Smadi, Mohammad; Jaradat, Zain; Al-Ayyoub, Mahmoud; Jararweh, Yaser] Jordan Univ Sci & Technol, Dept Comp Sci, POB 3030, Irbid 22110, Jordan.
+RP Al-Smadi, M (reprint author), Jordan Univ Sci & Technol, Dept Comp Sci, POB 3030, Irbid 22110, Jordan.
+EM maalsmadi9@just.edu.jo
+NR 66
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-4573
+EI 1873-5371
+J9 INFORM PROCESS MANAG
+JI Inf. Process. Manage.
+PD MAY
+PY 2017
+VL 53
+IS 3
+BP 640
+EP 652
+DI 10.1016/j.ipm.2017.01.002
+PG 13
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+SC Computer Science; Information Science & Library Science
+GA EO8WX
+UT WOS:000396972300006
+ER
+
+PT J
+AU Abdallah, ZS
+   Carman, M
+   Haffari, G
+AF Abdallah, Zahraa S.
+   Carman, Mark
+   Haffari, Gholamreza
+TI Multi-domain evaluation framework for named entity recognition tools
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+DE Named entity recognition; Multi-domain evaluation; Qualitative data
+   analysis; Benchmark evaluation
+AB Extracting structured information from unstructured text is important for the qualitative data analysis. Leveraging NLP techniques for qualitative data analysis will effectively accelerate the annotation process, allow for large-scale analysis and provide more insights into the text to improve the performance. The first step for gaining insights from the text is Named Entity Recognition (NER). A significant challenge that directly impacts the performance of the NER process is the domain diversity in qualitative data. The represented text varies according to its domain in many aspects including taxonomies, length, formality and format. In this paper we discuss and analyse the performance of state-of-the-art tools across domains to elaborate their robustness and reliability. In order to do that, we developed a standard, expandable and flexible framework to analyse and test tools performance using corpora representing text across various domains. We performed extensive analysis and comparison of tools across various domains and from various perspectives. The resulting comparison and analysis are of significant importance for providing a holistic illustration of the state-of-the-art tools. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Abdallah, Zahraa S.; Carman, Mark; Haffari, Gholamreza] Monash Univ, Sch Informat Technol, Clayton, Vic, Australia.
+RP Abdallah, ZS (reprint author), Monash Univ, Sch Informat Technol, Clayton, Vic, Australia.
+EM zahraa.s.abdallah@gmail.com
+OI Abdallah, Zahraa/0000-0002-1291-2918
+NR 31
+TC 0
+Z9 0
+U1 11
+U2 11
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD MAY
+PY 2017
+VL 43
+BP 34
+EP 55
+DI 10.1016/j.csl.2016.10.003
+PG 22
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA EJ5OB
+UT WOS:000393266500003
+ER
+
+PT J
+AU Cardinal, RN
+AF Cardinal, Rudolf N.
+TI Clinical records anonymisation and text extraction (CRATE): an
+   open-source software system
+SO BMC MEDICAL INFORMATICS AND DECISION MAKING
+LA English
+DT Review
+DE Anonymisation; De-identification; Clinical informatics; Electronic
+   medical records; Open-source software; Pseudonymisation; Psychiatry
+ID AUTOMATIC DE-IDENTIFICATION
+AB Background: Electronic medical records contain information of value for research, but contain identifiable and often highly sensitive confidential information. Patient-identifiable information cannot in general be shared outside clinical care teams without explicit consent, but anonymisation/de-identification allows research uses of clinical data without explicit consent.
+   Results: This article presents CRATE (Clinical Records Anonymisation and Text Extraction), an open-source software system with separable functions: (1) it anonymises or de-identifies arbitrary relational databases, with sensitivity and precision similar to previous comparable systems; (2) it uses public secure cryptographic methods to map patient identifiers to research identifiers (pseudonyms); (3) it connects relational databases to external tools for natural language processing; (4) it provides a web front end for research and administrative functions; and (5) it supports a specific model through which patients may consent to be contacted about research.
+   Conclusions: Creation and management of a research database from sensitive clinical records with secure pseudonym generation, full-text indexing, and a consent-to-contact process is possible and practical using entirely free and open-source software.
+C1 [Cardinal, Rudolf N.] Univ Cambridge, Behavioural & Clin Neurosci Inst, Dept Psychiat, Sir William Hardy Bldg,Downing Site, Cambridge CB2 3EB, England.
+   [Cardinal, Rudolf N.] Cambridgeshire & Peterborough NHS Fdn Trust, Box 190,Cambridge Biomed Campus, Cambridge CB2 0QQ, England.
+   [Cardinal, Rudolf N.] Univ Cambridge, Hosp NHS Fdn Trust, Liaison Psychiat Serv, Box 190,Cambridge Biomed Campus, Cambridge CB2 0QQ, England.
+RP Cardinal, RN (reprint author), Univ Cambridge, Behavioural & Clin Neurosci Inst, Dept Psychiat, Sir William Hardy Bldg,Downing Site, Cambridge CB2 3EB, England.; Cardinal, RN (reprint author), Cambridgeshire & Peterborough NHS Fdn Trust, Box 190,Cambridge Biomed Campus, Cambridge CB2 0QQ, England.; Cardinal, RN (reprint author), Univ Cambridge, Hosp NHS Fdn Trust, Liaison Psychiat Serv, Box 190,Cambridge Biomed Campus, Cambridge CB2 0QQ, England.
+EM rudolf@pobox.com
+FU UK National Institute of Health Research Cambridge Biomedical Research
+   Centre; Wellcome Trust; UK Medical Research Council
+FX The project was funded in part by the UK National Institute of Health
+   Research Cambridge Biomedical Research Centre. The work was conducted
+   within the Behavioural and Clinical Neuroscience Institute, University
+   of Cambridge, supported by the Wellcome Trust and the UK Medical
+   Research Council.
+NR 43
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6947
+J9 BMC MED INFORM DECIS
+JI BMC Med. Inform. Decis. Mak.
+PD APR 26
+PY 2017
+VL 17
+AR 50
+DI 10.1186/s12911-017-0437-1
+PG 12
+WC Medical Informatics
+SC Medical Informatics
+GA EU8LD
+UT WOS:000401289500001
+PM 28441940
+ER
+
+PT J
+AU Kizilcec, RF
+   Cohen, GL
+AF Kizilcec, Rene F.
+   Cohen, Geoffrey L.
+TI Eight-minute self-regulation intervention raises educational attainment
+   at scale in individualist but not collectivist cultures
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE motivation; goal pursuit; culture; education; field experiment
+ID IMPLEMENTATION INTENTIONS; GOAL-PURSUIT; FUTURE THOUGHT; BEHAVIOR;
+   MOTIVATION; COGNITION; REALITY
+AB Academic credentials open up a wealth of opportunities. However, many people drop out of educational programs, such as community college and online courses. Prior research found that a brief self-regulation strategy can improve self-discipline and academic outcomes. Could this strategy support learners at large scale? Mental contrasting with implementation intentions (MCII) involves writing about positive outcomes associated with a goal, the obstacles to achieving it, and concrete if-then plans to overcome them. The strategy was developed in Western countries (United States, Germany) and appeals to individualist tendencies, which may reduce its efficacy in collectivist cultures such as India or China. We tested this hypothesis in two randomized controlled experiments in online courses (n = 17,963). Learners in individualist cultures were 32%(first experiment) and 15% (second experiment) more likely to complete the course following the MCII intervention than a control activity. In contrast, learners in collectivist cultures were unaffected by MCII. Natural language processing of written responses revealed that MCII was effective when a learner's primary obstacle was predictable and surmountable, such as everyday work or family obligations but not a practical constraint (e.g., Internet access) or a lack of time. By revealing heterogeneity in MCII's effectiveness, this research advances theory on self-regulation and illuminates how even highly efficacious interventions may be culturally bounded in their effects.
+C1 [Kizilcec, Rene F.] Stanford Univ, Dept Commun, Stanford, CA 94305 USA.
+   [Cohen, Geoffrey L.] Stanford Univ, Dept Psychol, Stanford, CA 94305 USA.
+RP Kizilcec, RF (reprint author), Stanford Univ, Dept Commun, Stanford, CA 94305 USA.
+EM kizilcec@stanford.edu
+FU Computational Social Science Fellowship by Stanford's Institute for
+   Research in the Social Sciences
+FX We thank two anonymous reviewers for constructive feedback. This
+   research was supported by a Computational Social Science Fellowship
+   awarded to R.F.K. by Stanford's Institute for Research in the Social
+   Sciences.
+NR 48
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 25
+PY 2017
+VL 114
+IS 17
+BP 4348
+EP 4353
+DI 10.1073/pnas.1611898114
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA ET0ZR
+UT WOS:000399995600042
+PM 28396404
+ER
+
+EF

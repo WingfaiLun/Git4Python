@@ -5,7 +5,7 @@ import re
 
 #以utf-8编码读取源文件的所有字节
 def getArticles():
-    f = open(r"E:\Users\lockon\Desktop\644.txt", 'r', encoding='utf-8').read()
+    f = open(r"E:\Users\lockon\Desktop\pubmed_result.txt", 'r', encoding='utf-8').read()
     regexArticle = re.compile(r'PMID[\s\S]*?PL  - ')
     #articles就是所有文章的集合
     articles = re.findall(regexArticle, f)
@@ -13,7 +13,7 @@ def getArticles():
 
 #定义保存成xls文件的方法，最后遍历完成后调用
 def saveOuput():
-    save_data(r"E:\Users\lockon\Desktop\data644.xls", xls_data) 
+    save_data(r"E:\Users\lockon\Desktop\apubmed_result.xls", xls_data) 
     
 #初始化excel的数据
 xls_data = OrderedDict()

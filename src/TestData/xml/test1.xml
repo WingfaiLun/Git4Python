@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28380686</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2047-2927</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Andrology</Title>
+                <ISOAbbreviation>Andrology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of treatment with pseudoephedrine in men with retrograde ejaculation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/andr.12361</ELocationID>
+            <Abstract>
+                <AbstractText>The use of pseudoephedrine, an alpha agonist, for the treatment of retrograde ejaculation is well-known, however, there is no clear consensus from the literature regarding its efficacy and treatment protocol. We evaluated the efficacy of pseudoephedrine treatment in patients with retrograde ejaculation, utilizing a yet undescribed short-period treatment protocol. Twenty men were medically treated with pseudoephedrine for retrograde ejaculation between January 2010 and May 2016 (12 with complete retrograde ejaculation and 8 with partial retrograde ejaculation). All patients had a semen analysis and post-ejaculatory urinalysis before and after treatment. The treatment protocol consisted of 60 mg of pseudoephedrine every 6 h on the day before semen analysis and two more 60 mg doses on the day of the semen analysis. Diabetes was the most common etiology for complete retrograde ejaculation (60%), whereas an idiopathic cause was the most common etiology for partial retrograde ejaculation (82%). Of the 12 complete retrograde ejaculation patients treated with pseudoephedrine prior to semen analysis, 7 (58.3%) recovered spermatozoa in the antegrade ejaculate, with a mean total sperm count of 273.5 ± 172.5 million. Of the eight patients with partial retrograde ejaculation, five (62.5%) had a �?0% increase in the antegrade total sperm count. In this group, the mean total sperm count increased from 26.9 ± 8.5 million before treatment to 84.2 ± 24.6 million after treatment, whereas the percentage of spermatozoa in the urine declined from 43.2 ± 9% to 17 ± 10%, respectively (both p &lt; 0.05). Overall, in men with retrograde ejaculation treated with a pseudoephedrine regimen prior to ejaculation, some improvement in seminal parameters occurred in 14 (70%) patients, with 10 patients (38.5% of all patients) achieving antegrade total sperm counts over 39 million.</AbstractText>
+                <CopyrightInformation>© 2017 American Society of Andrology and European Academy of Andrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shoshany</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4211-6277</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Illinois at Chicago, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abhyankar</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Illinois at Chicago, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elyaguov</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State University of New York Upstate Medical University, Syracuse, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niederberger</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, University of Illinois at Chicago, Chicago, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Andrology</MedlineTA>
+            <NlmUniqueID>101585129</NlmUniqueID>
+            <ISSNLinking>2047-2919</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">male infertility</Keyword>
+            <Keyword MajorTopicYN="N">post-ejaculatory urinalysis</Keyword>
+            <Keyword MajorTopicYN="N">pseudoephedrine</Keyword>
+            <Keyword MajorTopicYN="N">retrograde ejaculation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28380686</ArticleId>
+            <ArticleId IdType="doi">10.1111/andr.12361</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

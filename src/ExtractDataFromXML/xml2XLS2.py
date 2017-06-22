@@ -9,12 +9,12 @@ path = r"E:\Users\lockon\Desktop\\"
 
 #读取xml文件，如果xml文件编码有问题可能会读取出错
 def getTree():
-    tree = ET.parse(path + r"644.xml")
+    tree = ET.parse(path + r"\pubmed_result.xml")
     return tree
     
 #定义保存成xls文件的方法，最后遍历完成后调用
 def saveOuput():
-    save_data(path + r"644.xls", xls_data)  
+    save_data(path + r"\644.xls", xls_data)  
 
 #Excel文件的内容用一个有序词典xls_data存放
 xls_data = OrderedDict()
@@ -78,10 +78,11 @@ for pubmedArticle in pubmedArticles:
                 if abstractList is not None:
                     #摘要
                     for abstractItem in abstractList: 
-                        if len(abstractText) > 0:
-                            abstractText = abstractText + '\n' + abstractItem.text
-                        else:
-                            abstractText = abstractItem.text
+                        if abstractItem.text is not None:
+                            if len(abstractText) > 0:
+                                abstractText = abstractText + '\n' + abstractItem.text
+                            else:
+                                abstractText = abstractItem.text
         
             if article.find('AuthorList') is not None:
                 if article.find('AuthorList').findall('Author') is not None:    

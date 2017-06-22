@@ -1,0 +1,3032 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Mozaffarian, D
+   Benjamin, EJ
+   Go, AS
+   Arnett, DK
+   Blaha, MJ
+   Cushman, M
+   de Ferranti, S
+   Despres, JP
+   Fullerton, HJ
+   Howard, VJ
+   Huffman, MD
+   Judd, SE
+   Kissela, BM
+   Lackland, DT
+   Lichtman, JH
+   Lisabeth, LD
+   Liu, SM
+   Mackey, RH
+   Matchar, DB
+   McGuire, DK
+   Mohler, ER
+   Moy, CS
+   Muntner, P
+   Mussolino, ME
+   Nasir, K
+   Neumar, RW
+   Nichol, G
+   Palaniappan, L
+   Pandey, DK
+   Reeves, MJ
+   Rodriguez, CJ
+   Sorlie, PD
+   Stein, J
+   Towfighi, A
+   Turan, TN
+   Virani, SS
+   Willey, JZ
+   Woo, D
+   Yeh, RW
+   Turner, MB
+AF Mozaffarian, Dariush
+   Benjamin, Emelia J.
+   Go, Alan S.
+   Arnett, Donna K.
+   Blaha, Michael J.
+   Cushman, Mary
+   de Ferranti, Sarah
+   Despres, Jean-Pierre
+   Fullerton, Heather J.
+   Howard, Virginia J.
+   Huffman, Mark D.
+   Judd, Suzanne E.
+   Kissela, Brett M.
+   Lackland, Daniel T.
+   Lichtman, Judith H.
+   Lisabeth, Lynda D.
+   Liu, Simin
+   Mackey, Rachel H.
+   Matchar, David B.
+   McGuire, Darren K.
+   Mohler, Emile R., III
+   Moy, Claudia S.
+   Muntner, Paul
+   Mussolino, Michael E.
+   Nasir, Khurram
+   Neumar, Robert W.
+   Nichol, Graham
+   Palaniappan, Latha
+   Pandey, Dilip K.
+   Reeves, Mathew J.
+   Rodriguez, Carlos J.
+   Sorlie, Paul D.
+   Stein, Joel
+   Towfighi, Amytis
+   Turan, Tanya N.
+   Virani, Salim S.
+   Willey, Joshua Z.
+   Woo, Daniel
+   Yeh, Robert W.
+   Turner, Melanie B.
+CA Amer Heart Assoc Stat Comm
+   Stroke Stat Subcomm
+TI Heart Disease and Stroke Statistics-2015 Update A Report From the
+   American Heart Association
+SO CIRCULATION
+LA English
+DT Article
+ID PERIPHERAL ARTERIAL-DISEASE; CHRONIC KIDNEY-DISEASE; BODY-MASS INDEX;
+   NUTRITION-EXAMINATION-SURVEY; ACUTE MYOCARDIAL-INFARCTION; SUDDEN
+   CARDIAC DEATH; CARDIOVASCULAR RISK-FACTORS; TYPE-2 DIABETES-MELLITUS;
+   TRANSIENT ISCHEMIC ATTACK; ALL-CAUSE MORTALITY
+C1 [Mozaffarian, Dariush] Tufts Univ, Medford, MA 02155 USA.
+   [Arnett, Donna K.; Howard, Virginia J.; Judd, Suzanne E.; Muntner, Paul] Univ Alabama Birmingham, Birmingham, AL USA.
+   [Benjamin, Emelia J.] Boston Univ, Sch Med, Boston, MA 02215 USA.
+   [Blaha, Michael J.] Johns Hopkins Univ, Sch Med, Baltimore, MD 21218 USA.
+   [Cushman, Mary] Univ Vermont, Burlington, VT 05405 USA.
+   [de Ferranti, Sarah] Childrens Hosp Boston, Boston, MA USA.
+   [Despres, Jean-Pierre] Inst Univ Cardiol & Pneumol Quebec, Ctr Rech, Quebec City, PQ, Canada.
+   [Fullerton, Heather J.] Univ Calif San Francisco, San Francisco, CA 94143 USA.
+   [Go, Alan S.] Kaiser Permanente, Oakland, CA USA.
+   [Huffman, Mark D.] Northwestern Univ, Evanston, IL 60208 USA.
+   [Kissela, Brett M.] Univ Cincinnati, Acad Hlth Ctr, Cincinnati, OH 45221 USA.
+   [Lackland, Daniel T.; Turan, Tanya N.] Med Univ S Carolina, Charleston, SC USA.
+   [Lichtman, Judith H.] Yale Univ, Sch Publ Hlth, New Haven, CT 06520 USA.
+   [Lisabeth, Lynda D.; Neumar, Robert W.] Univ Michigan, Ann Arbor, MI 48109 USA.
+   [Liu, Simin] Brown Univ, Providence, RI 02912 USA.
+   [Mackey, Rachel H.] Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+   [Matchar, David B.] Duke Univ, Durham, NC 27706 USA.
+   [McGuire, Darren K.] Univ Texas Southwestern Med Ctr, Houston, TX USA.
+   [Mohler, Emile R., III] Univ Penn, Philadelphia, PA 19104 USA.
+   [Mussolino, Michael E.] NIH, Bethesda, MD USA.
+   [Nasir, Khurram] Baptist Hlth Med Grp, Houston, TX USA.
+   [Nichol, Graham] Univ Washington, Seattle, WA 98195 USA.
+   [Palaniappan, Latha] Stanford Univ, Sch Med, Stanford, CA 94305 USA.
+   [Pandey, Dilip K.] Univ Illinois, Chicago, IL USA.
+   [Reeves, Mathew J.] Michigan State Univ, E Lansing, MI 48824 USA.
+   [Rodriguez, Carlos J.] Wake Forest Univ, Winston Salem, NC 27109 USA.
+   [Sorlie, Paul D.] NHLBI, Bethesda, MD USA.
+   [Stein, Joel; Willey, Joshua Z.] Columbia Univ, New York, NY 10027 USA.
+   [Towfighi, Amytis] Univ So Calif, Los Angeles, CA 90089 USA.
+   [Turner, Melanie B.] Amer Heart Assoc, Houston, TX USA.
+   [Virani, Salim S.] Baylor Coll Med, Michael E DeBakey VA Med Ctr, Hlth Serv Res & Dev Ctr Innovat, Methodist DeBakey Heart & Vasc Ctr,Michael E DeBa, Houston, TX 77030 USA.
+   [Woo, Daniel] Univ Cincinnati, Cincinnati, OH 45221 USA.
+   [Yeh, Robert W.] Massachusetts Gen Hosp, Boston, MA 02114 USA.
+RP Mozaffarian, D (reprint author), Tufts Univ, Medford, MA 02155 USA.
+OI Mackey, Rachel/0000-0001-6088-2664; Turan, Tanya/0000-0001-5399-8845;
+   Huffman, Mark/0000-0001-7412-2519; Benjamin, Emelia/0000-0003-4076-2336;
+   Virani, Salim/0000-0001-9541-6954; Kissela, Brett/0000-0002-9773-4013
+FU NCATS NIH HHS [UL1 TR000077, UL1 TR001425]; NHLBI NIH HHS [R01
+   HL104199]; NINDS NIH HHS [K23 NS073104]
+NR 1605
+TC 2122
+Z9 2174
+U1 71
+U2 339
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0009-7322
+EI 1524-4539
+J9 CIRCULATION
+JI Circulation
+PD JAN 27
+PY 2015
+VL 131
+IS 4
+BP E29
+EP E322
+DI 10.1161/CIR.0000000000000152
+PG 294
+WC Cardiac & Cardiovascular Systems; Peripheral Vascular Disease
+SC Cardiovascular System & Cardiology
+GA AZ7YR
+UT WOS:000348432100002
+PM 25520374
+ER
+
+PT J
+AU Naghavi, M
+   Wang, HD
+   Lozano, R
+   Davis, A
+   Liang, XF
+   Zhou, MG
+   Vollset, SE
+   Ozgoren, AA
+   Abdalla, S
+   Abd-Allah, F
+   Aziz, MIA
+   Abera, SF
+   Aboyans, V
+   Abraham, B
+   Abraham, JP
+   Abuabara, KE
+   Abubakar, I
+   Abu-Raddad, LJ
+   Abu-Rmeileh, NME
+   Achoki, T
+   Adelekan, A
+   Ademi, ZN
+   Adofo, K
+   Adou, AK
+   Adsuar, JC
+   Aernlov, J
+   Agardh, EE
+   Akena, D
+   Al Khabouri, MJ
+   Alasfoor, D
+   Albittar, M
+   Alegretti, MA
+   Aleman, AV
+   Alemu, ZA
+   Alfonso-Cristancho, R
+   Alhabib, S
+   Ali, MK
+   Ali, R
+   Alla, F
+   Al Lami, F
+   Allebeck, P
+   AlMazroa, MA
+   Salman, RAS
+   Alsharif, U
+   Alvarez, E
+   Alviz-Guzman, N
+   Amankwaa, AA
+   Amare, AT
+   Ameli, O
+   Amini, H
+   Ammar, W
+   Anderson, HR
+   Anderson, BO
+   Antonio, CAT
+   Anwari, P
+   Apfel, H
+   Cunningham, SA
+   Arsenijevic, VSA
+   Al Artaman
+   Asad, MM
+   Asghar, RJ
+   Assadi, R
+   Atkins, LS
+   Atkinson, C
+   Badawi, A
+   Bahit, MC
+   Bakfalouni, T
+   Balakrishnan, K
+   Balalla, S
+   Banerjee, A
+   Barber, RM
+   Barker-Collo, SL
+   Barquera, S
+   Barregard, L
+   Barrero, LH
+   Barrientos-Gutierrez, T
+   Basu, A
+   Basu, S
+   Basulaiman, MO
+   Beardsley, J
+   Bedi, N
+   Beghi, E
+   Bekele, T
+   Bell, ML
+   Benjet, C
+   Bennett, DA
+   Bensenor, IM
+   Benzian, H
+   Bertozzi-Villa, A
+   Beyene, TJ
+   Bhala, N
+   Bhalla, A
+   Bhutta, ZA
+   Bikbov, B
+   Bin Abdulhak, A
+   Biryukov, S
+   Blore, JD
+   Blyth, FM
+   Bohensky, MA
+   Borges, G
+   Bose, D
+   Boufous, S
+   Bourne, RR
+   Boyers, LN
+   Brainin, M
+   Brauer, M
+   Brayne, CEG
+   Brazinova, A
+   Breitborde, N
+   Brenner, H
+   Briggs, ADM
+   Brown, JC
+   Brugha, TS
+   Buckle, GC
+   Bui, LN
+   Bukhman, G
+   Burch, M
+   Nonato, IRC
+   Carabin, H
+   Cardenas, R
+   Carapetis, J
+   Carpenter, DO
+   Caso, V
+   Castaneda-Orjuela, CA
+   Castro, RE
+   Catala-Lopez, F
+   Cavalleri, F
+   Chang, JC
+   Charlson, FC
+   Che, X
+   Chen, HL
+   Chen, YY
+   Chen, JS
+   Chen, ZM
+   Chiang, PPC
+   Chimed-Ochir, O
+   Chowdhury, R
+   Christensen, H
+   Christophi, CA
+   Chuang, TW
+   Chugh, SS
+   Cirillo, M
+   Coates, MM
+   Coffeng, LE
+   Coggeshall, MS
+   Cohen, A
+   Colistro, V
+   Colquhoun, SM
+   Colomar, M
+   Cooper, LT
+   Cooper, C
+   Coppola, LM
+   Cortinovis, M
+   Courville, K
+   Cowie, BC
+   Criqui, MH
+   Crump, JA
+   Cuevas-Nasu, L
+   Leite, IDC
+   Dabhadkar, KC
+   Dandona, L
+   Dandona, R
+   Dansereau, E
+   Dargan, PI
+   Dayama, A
+   De la Cruz-Gongora, V
+   de la Vega, SF
+   De Leo, D
+   Degenhardt, L
+   del Pozo-Cruz, B
+   Dellavalle, RP
+   Deribe, K
+   Jarlais, DCD
+   Dessalegn, M
+   deVeber, GA
+   Dharmaratne, SD
+   Dherani, M
+   Diaz-Ortega, JL
+   Diaz-Torne, C
+   Dicker, D
+   Ding, EL
+   Dokova, K
+   Dorsey, ER
+   Driscoll, TR
+   Duan, LL
+   Duber, HC
+   Durrani, AM
+   Ebel, BE
+   Edmond, KM
+   Ellenbogen, RG
+   Elshrek, Y
+   Ermakov, SP
+   Erskine, HE
+   Eshrati, B
+   Esteghamati, A
+   Estep, K
+   Furst, T
+   Fahimi, S
+   Fahrion, AS
+   Faraon, EJA
+   Farzadfar, F
+   Fay, DFJ
+   Feigl, AB
+   Feigin, VL
+   Felicio, MM
+   Fereshtehnejad, SM
+   Fernandes, JG
+   Ferrari, AJ
+   Fleming, TD
+   Foigt, N
+   Foreman, K
+   Forouzanfar, MH
+   Fowkes, FGR
+   Paleo, UF
+   Franklin, RC
+   Futran, ND
+   Gaffikin, L
+   Gambashidze, K
+   Gankpe, FG
+   Garcia-Guerra, FA
+   Garcia, AC
+   Geleijnse, JM
+   Gessner, BD
+   Gibney, KB
+   Gillum, RF
+   Gilmour, S
+   Abdelmageem, I
+   Ginawi, M
+   Giroud, M
+   Glaser, EL
+   Goenka, S
+   Dantes, HG
+   Gona, P
+   Gonzalez-Medina, D
+   Guinovart, C
+   Gupta, R
+   Gupta, R
+   Gosselin, RA
+   Gotay, CC
+   Goto, A
+   Gowda, HN
+   Graetz, N
+   Greenwell, KF
+   Gugnani, HC
+   Gunnell, D
+   Gutierrez, RA
+   Haagsma, J
+   Hafezi-Nejad, N
+   Hagan, H
+   Hagstromer, M
+   Halasa, YA
+   Hamadeh, RR
+   Hamavid, H
+   Hammami, M
+   Hancock, J
+   Hankey, GJ
+   Hansen, GM
+   Harb, HL
+   Harewood, H
+   Haro, JM
+   Havmoeller, R
+   Hay, RJ
+   Hay, SI
+   Hedayati, MT
+   Pi, IBH
+   Heuton, KR
+   Heydarpour, P
+   Higashi, H
+   Hijar, M
+   Hoek, HW
+   Hoffman, HJ
+   Hornberger, JC
+   Hosgood, HD
+   Hossain, M
+   Hotez, PJ
+   Hoy, DG
+   Hsairi, M
+   Hu, GQ
+   Huang, JJ
+   Huffman, MD
+   Hughes, AJ
+   Husseini, A
+   Huynh, C
+   Iannarone, M
+   Iburg, KM
+   Idrisov, BT
+   Ikeda, N
+   Innos, K
+   Inoue, M
+   Islami, F
+   Ismayilova, S
+   Jacobsen, KH
+   Jassal, S
+   Jayaraman, SP
+   Jensen, PN
+   Jha, V
+   Jiang, GH
+   Jiang, Y
+   Jonas, JB
+   Joseph, J
+   Juel, K
+   Kabagambe, EK
+   Kan, HD
+   Karch, A
+   Karimkhani, C
+   Karthikeyan, G
+   Kassebaum, N
+   Kaul, A
+   Kawakami, N
+   Kazanjan, K
+   Kazi, DS
+   Kemp, AH
+   Kengne, AP
+   Keren, A
+   Kereselidze, M
+   Khader, YS
+   Khalifa, SEAH
+   Khan, EA
+   Khan, G
+   Khang, YH
+   Kieling, C
+   Kinfu, Y
+   Kinge, JM
+   Kim, D
+   Kim, S
+   Kivipelto, M
+   Knibbs, L
+   Knudsen, AK
+   Kokubo, Y
+   Kosen, S
+   Kotagal, M
+   Kravchenko, MA
+   Krishnaswami, S
+   Krueger, H
+   Defo, BK
+   Kuipers, EJ
+   Bicer, BK
+   Kulkarni, C
+   Kulkarni, VS
+   Kumar, K
+   Kumar, RB
+   Kwan, GF
+   Kyu, H
+   Lai, T
+   Balaji, AL
+   Lalloo, R
+   Lallukka, T
+   Lam, H
+   Lan, Q
+   Lansingh, VC
+   Larson, HJ
+   Larsson, A
+   Lavados, PM
+   Lawrynowicz, AEB
+   Leasher, JL
+   Lee, JT
+   Leigh, J
+   Leinsalu, M
+   Leung, R
+   Levitz, C
+   Li, B
+   Li, YC
+   Li, YM
+   Liddell, C
+   Lim, SS
+   de Lima, GMF
+   Lind, ML
+   Lipshultz, SE
+   Liu, SW
+   Liu, Y
+   Lloyd, BK
+   Lofgren, KT
+   Logroscino, G
+   London, SJ
+   Lortet-Tieulent, J
+   Lotufo, PA
+   Lucas, RM
+   Lunevicius, R
+   Lyons, RA
+   Ma, S
+   Machado, VMP
+   MacIntyre, MF
+   Mackay, MT
+   MacLachlan, JH
+   Magis-Rodriguez, C
+   Mahdi, AA
+   Majdan, M
+   Malekzadeh, R
+   Mangalam, S
+   Mapoma, CC
+   Marape, M
+   Marcenes, W
+   Margono, C
+   Marks, GB
+   Marzan, MB
+   Masci, JR
+   Mashal, MTQ
+   Masiye, F
+   Mason-Jones, AJ
+   Matzopolous, R
+   Mayosi, BM
+   Mazorodze, TT
+   McGrath, JJ
+   Mckay, AC
+   Mckee, M
+   McLain, A
+   Meaney, PA
+   Mehndiratta, MM
+   Mejia-Rodriguez, F
+   Melaku, YA
+   Meltzer, M
+   Memish, ZA
+   Mendoza, W
+   Mensah, GA
+   Meretoja, A
+   Mhimbira, FA
+   Miller, TR
+   Mills, EJ
+   Misganaw, A
+   Mishra, SK
+   Mock, CN
+   Moffitt, TE
+   Ibrahim, NM
+   Mohammad, KA
+   Mokdad, AH
+   Mola, GL
+   Monasta, L
+   Monis, JD
+   Hernandez, JCM
+   Montico, M
+   Montine, TJ
+   Mooney, MD
+   Moore, AR
+   Moradi-Lakeh, M
+   Moran, AE
+   Mori, R
+   Moschandreas, J
+   Moturi, WN
+   Moyer, ML
+   Mozaffarian, D
+   Mueller, UO
+   Mukaigawara, M
+   Mullany, EC
+   Murray, J
+   Mustapha, A
+   Naghavi, P
+   Naheed, A
+   Naidoo, KS
+   Naldi, L
+   Nand, D
+   Nangia, V
+   Narayan, KMV
+   Nash, D
+   Nasher, J
+   Nejjari, C
+   Nelson, RG
+   Neuhouser, M
+   Neupane, SP
+   Newcomb, PA
+   Newman, L
+   Newton, CR
+   Ng, M
+   Ngalesoni, FN
+   Nguyen, G
+   Nguyen, NTT
+   Nisar, MI
+   Nolte, S
+   Norheim, OF
+   Norman, RE
+   Norrving, B
+   Nyakarahuka, L
+   Odell, S
+   O'Donnell, M
+   Ohkubo, T
+   Ohno, SL
+   Olusanya, BO
+   Omer, SB
+   Opio, JN
+   Orisakwe, OE
+   Ortblad, KF
+   Ortiz, A
+   Otayza, MLK
+   Pain, AW
+   Pandian, JD
+   Panelo, CI
+   Panniyammakal, J
+   Papachristou, C
+   Caicedo, AJP
+   Patten, SB
+   Patton, GC
+   Paul, VK
+   Pavlin, B
+   Pearce, N
+   Pellegrini, CA
+   Pereira, DM
+   Peresson, SC
+   Perez-Padilla, R
+   Perez-Ruiz, FP
+   Perico, N
+   Pervaiz, A
+   Pesudovs, K
+   Peterson, CB
+   Petzold, M
+   Phillips, BK
+   Phillips, DE
+   Phillips, MR
+   Plass, D
+   Piel, FB
+   Poenaru, D
+   Polinder, S
+   Popova, S
+   Poulton, RG
+   Pourmalek, F
+   Prabhakaran, D
+   Qato, D
+   Quezada, AD
+   Quistberg, DA
+   Rabito, F
+   Rafay, A
+   Rahimi, K
+   Rahimi-Movaghar, V
+   Rahman, SUR
+   Raju, M
+   Rakovac, I
+   Rana, SM
+   Refaat, A
+   Remuzzi, G
+   Ribeiro, AL
+   Ricci, S
+   Riccio, PM
+   Richardson, L
+   Richardus, JH
+   Roberts, B
+   Roberts, DA
+   Robinson, M
+   Roca, A
+   Rodriguez, A
+   Rojas-Rueda, D
+   Ronfani, L
+   Room, R
+   Roth, GA
+   Rothenbacher, D
+   Rothstein, DH
+   Rowley, JT
+   Roy, N
+   Ruhago, GM
+   Rushton, L
+   Sambandam, S
+   Soreide, K
+   Saeedi, MY
+   Saha, S
+   Sahathevan, R
+   Sahraian, MA
+   Sahle, BW
+   Salomon, JA
+   Salvo, D
+   Samonte, GMJ
+   Sampson, U
+   Sanabria, JR
+   Sandar, L
+   Santos, IS
+   Satpathy, M
+   Sawhney, M
+   Saylan, M
+   Scarborough, P
+   Schottker, B
+   Schmidt, JC
+   Schneider, IJC
+   Schumacher, AE
+   Schwebel, DC
+   Scott, JG
+   Sepanlou, SG
+   Servan-Mori, EE
+   Shackelford, K
+   Shaheen, A
+   Shahraz, S
+   Shakh-Nazarova, M
+   Shangguan, S
+   She, J
+   Sheikhbahaei, S
+   Shepard, DS
+   Shibuya, K
+   Shinohara, Y
+   Shishani, K
+   Shiue, I
+   Shivakoti, R
+   Shrime, MG
+   Sigfusdottir, ID
+   Silberberg, DH
+   Silva, AP
+   Simard, EP
+   Sindi, S
+   Singh, JA
+   Singh, L
+   Sioson, E
+   Skirbekk, V
+   Sliwa, K
+   So, S
+   Soljak, M
+   Soneji, S
+   Soshnikov, SS
+   Sposato, LA
+   Sreeramareddy, CT
+   Stanaway, JRD
+   Stathopoulou, VK
+   Steenland, K
+   Stein, C
+   Steiner, C
+   Stevens, A
+   Stoeckl, H
+   Straif, K
+   Stroumpoulis, K
+   Sturua, L
+   Sunguya, BF
+   Swaminathan, S
+   Swaroop, M
+   Sykes, BL
+   Tabb, KM
+   Takahashi, K
+   Talongwa, RT
+   Tan, F
+   Tanne, D
+   Tanner, M
+   Tavakkoli, M
+   Ao, BT
+   Teixeira, CM
+   Templin, T
+   Tenkorang, EY
+   Terkawi, AS
+   Thomas, BA
+   Thorne-Lyman, AL
+   Thrift, AG
+   Thurston, GD
+   Tillmann, T
+   Tirschwell, DL
+   Tleyjeh, IM
+   Tonelli, M
+   Topouzis, F
+   Towbin, JA
+   Toyoshima, H
+   Traebert, J
+   Tran, BX
+   Truelsen, T
+   Trujillo, U
+   Trillini, M
+   Dimbuene, ZT
+   Tsilimbaris, M
+   Tuzcu, EM
+   Ubeda, C
+   Uchendu, US
+   Ukwaja, KN
+   Undurraga, EA
+   Vallely, AJ
+   van de Vijver, S
+   van Gool, CH
+   Varakin, YY
+   Vasankari, TJ
+   Vasconcelos, AMN
+   Vavilala, MS
+   Venketasubramanian, N
+   Vijayakumar, L
+   Villalpando, S
+   Violante, FS
+   Vlassov, VV
+   Wagner, GR
+   Waller, SG
+   Wang, JL
+   Wang, L
+   Wang, XR
+   Wang, YP
+   Warouw, TS
+   Weichenthal, S
+   Weiderpass, E
+   Weintraub, RG
+   Wenzhi, W
+   Werdecker, A
+   Wessells, KRR
+   Westerman, R
+   Whiteford, HA
+   Wilkinson, JD
+   Williams, TN
+   Woldeyohannes, SM
+   Wolfe, CDA
+   Wolock, TM
+   Woolf, AD
+   Wong, JQ
+   Wright, JL
+   Wulf, S
+   Wurtz, B
+   Xu, GL
+   Yang, YC
+   Yano, Y
+   Yatsuya, H
+   Yip, P
+   Yonemoto, N
+   Yoon, SJ
+   Younis, M
+   Yu, CH
+   Jin, KY
+   Zaki, MES
+   Zamakhshary, MF
+   Zeeb, H
+   Zhang, Y
+   Zhao, Y
+   Zheng, YF
+   Zhu, J
+   Zhu, S
+   Zonies, D
+   Zou, XN
+   Zunt, JR
+   Vos, T
+   Lopez, AD
+   Murray, CJL
+AF Naghavi, Mohsen
+   Wang, Haidong
+   Lozano, Rafael
+   Davis, Adrian
+   Liang, Xiaofeng
+   Zhou, Maigeng
+   Vollset, Stein Emil
+   Ozgoren, Ayse Abbasoglu
+   Abdalla, Safa
+   Abd-Allah, Foad
+   Aziz, Muna I. Abdel
+   Abera, Semaw Ferede
+   Aboyans, Victor
+   Abraham, Biju
+   Abraham, Jerry P.
+   Abuabara, Katrina E.
+   Abubakar, Ibrahim
+   Abu-Raddad, Laith J.
+   Abu-Rmeileh, Niveen M. E.
+   Achoki, Tom
+   Adelekan, Ademola
+   Ademi, Zanfi Na
+   Adofo, Koranteng
+   Adou, Arsene Kouablan
+   Adsuar, Jose C.
+   Aernlov, Johan
+   Agardh, Emilie Elisabet
+   Akena, Dickens
+   Al Khabouri, Mazin J.
+   Alasfoor, Deena
+   Albittar, Mohammed
+   Alegretti, Miguel Angel
+   Aleman, Alicia V.
+   Alemu, Zewdie Aderaw
+   Alfonso-Cristancho, Rafael
+   Alhabib, Samia
+   Ali, Mohammed K.
+   Ali, Raghib
+   Alla, Francois
+   Al Lami, Faris
+   Allebeck, Peter
+   AlMazroa, Mohammad A.
+   Salman, Rustam Al-Shahi
+   Alsharif, Ubai
+   Alvarez, Elena
+   Alviz-Guzman, Nelson
+   Amankwaa, Adansi A.
+   Amare, Azmeraw T.
+   Ameli, Omid
+   Amini, Hassan
+   Ammar, Walid
+   Anderson, H. Ross
+   Anderson, Benjamin O.
+   Antonio, Carl Abelardo T.
+   Anwari, Palwasha
+   Apfel, Henry
+   Cunningham, Solveig Argeseanu
+   Arsenijevic, Valentina S. Arsic
+   Al Artaman
+   Asad, Majed Masoud
+   Asghar, Rana J.
+   Assadi, Reza
+   Atkins, Lydia S.
+   Atkinson, Charles
+   Badawi, Alaa
+   Bahit, Maria C.
+   Bakfalouni, Talal
+   Balakrishnan, Kalpana
+   Balalla, Shivanthi
+   Banerjee, Amitava
+   Barber, Ryan M.
+   Barker-Collo, Suzanne L.
+   Barquera, Simon
+   Barregard, Lars
+   Barrero, Lope H.
+   Barrientos-Gutierrez, Tonatiuh
+   Basu, Arindam
+   Basu, Sanjay
+   Basulaiman, Mohammed Omar
+   Beardsley, Justin
+   Bedi, Neeraj
+   Beghi, Ettore
+   Bekele, Tolesa
+   Bell, Michelle L.
+   Benjet, Corina
+   Bennett, Derrick A.
+   Bensenor, Isabela M.
+   Benzian, Habib
+   Bertozzi-Villa, Amelia
+   Beyene, Tariku Jibat
+   Bhala, Neeraj
+   Bhalla, Ashish
+   Bhutta, Zulfiqar A.
+   Bikbov, Boris
+   Bin Abdulhak, Aref
+   Biryukov, Stan
+   Blore, Jed D.
+   Blyth, Fiona M.
+   Bohensky, Megan A.
+   Borges, Guilherme
+   Bose, Dipan
+   Boufous, Soufiane
+   Bourne, Rupert R.
+   Boyers, Lindsay N.
+   Brainin, Michael
+   Brauer, Michael
+   Brayne, Carol E. G.
+   Brazinova, Alexandra
+   Breitborde, Nicholas
+   Brenner, Hermann
+   Briggs, Adam D. M.
+   Brown, Jonathan C.
+   Brugha, Traolach S.
+   Buckle, Geoffrey C.
+   Bui, Linh Ngoc
+   Bukhman, Gene
+   Burch, Michael
+   Nonato, Ismael Ricardo Campos
+   Carabin, Helesne
+   Cardenas, Rosario
+   Carapetis, Jonathan
+   Carpenter, David O.
+   Caso, Valeria
+   Castaneda-Orjuela, Carlos A.
+   Castro, Ruben Estanislao
+   Catala-Lopez, Ferrn
+   Cavalleri, Fiorella
+   Chang, Jung-Chen
+   Charlson, Fiona C.
+   Che, Xuan
+   Chen, Honglei
+   Chen, Yingyao
+   Chen, Jian Sheng
+   Chen, Zhengming
+   Chiang, Peggy Pei-Chia
+   Chimed-Ochir, Odgerel
+   Chowdhury, Rajiv
+   Christensen, Hanne
+   Christophi, Costas A.
+   Chuang, Ting-Wu
+   Chugh, Sumeet S.
+   Cirillo, Massimo
+   Coates, Matthew M.
+   Coffeng, Luc Edgar
+   Coggeshall, Megan S.
+   Cohen, Aaron
+   Colistro, Valentina
+   Colquhoun, Samantha M.
+   Colomar, Mercedes
+   Cooper, Leslie Trumbull
+   Cooper, Cyrus
+   Coppola, Luis M.
+   Cortinovis, Monica
+   Courville, Karen
+   Cowie, Benjamin C.
+   Criqui, Michael H.
+   Crump, John A.
+   Cuevas-Nasu, Lucia
+   Leite, Iuri da Costa
+   Dabhadkar, Kaustubh C.
+   Dandona, Lalit
+   Dandona, Rakhi
+   Dansereau, Emily
+   Dargan, Paul I.
+   Dayama, Anand
+   De la Cruz-Gongora, Vanessa
+   de la Vega, Shelley F.
+   De Leo, Diego
+   Degenhardt, Louisa
+   del Pozo-Cruz, Borja
+   Dellavalle, Robert P.
+   Deribe, Kebede
+   Jarlais, Don C. Des
+   Dessalegn, Muluken
+   deVeber, Gabrielle A.
+   Dharmaratne, Samath D.
+   Dherani, Mukesh
+   Diaz-Ortega, Jose-Luis
+   Diaz-Torne, Cesar
+   Dicker, Daniel
+   Ding, Eric L.
+   Dokova, Klara
+   Dorsey, E. Ray
+   Driscoll, Tim R.
+   Duan, Leilei
+   Duber, Herbert C.
+   Durrani, Adnan M.
+   Ebel, Beth E.
+   Edmond, Karen M.
+   Ellenbogen, Richard G.
+   Elshrek, Yousef
+   Ermakov, Sergey Petrovich
+   Erskine, Holly E.
+   Eshrati, Babak
+   Esteghamati, Alireza
+   Estep, Kara
+   Fuerst, Thomas
+   Fahimi, Saman
+   Fahrion, Anna S.
+   Faraon, Emerito Jose A.
+   Farzadfar, Farshad
+   Fay, Derek F. J.
+   Feigl, Andrea B.
+   Feigin, Valery L.
+   Felicio, Manuela Mendonca
+   Fereshtehnejad, Seyed-Mohammad
+   Fernandes, Jefferson G.
+   Ferrari, Alize J.
+   Fleming, Thomas D.
+   Foigt, Nataliya
+   Foreman, Kyle
+   Forouzanfar, Mohammad H.
+   Fowkes, F. Gerry R.
+   Fra Paleo, Urbano
+   Franklin, Richard C.
+   Futran, Neal D.
+   Gaffikin, Lynne
+   Gambashidze, Ketevan
+   Gankpe, Fortune Gbetoho
+   Garcia-Guerra, Francisco Armando
+   Garcia, Ana Cristina
+   Geleijnse, Johanna M.
+   Gessner, Bradford D.
+   Gibney, Katherine B.
+   Gillum, Richard F.
+   Gilmour, Stuart
+   Abdelmageem, Ibrahim
+   Ginawi, Mohamed
+   Giroud, Maurice
+   Glaser, Elizabeth L.
+   Goenka, Shifalika
+   Dantes, Hector Gomez
+   Gona, Philimon
+   Gonzalez-Medina, Diego
+   Guinovart, Caterina
+   Gupta, Rahul
+   Gupta, Rajeev
+   Gosselin, Richard A.
+   Gotay, Carolyn C.
+   Goto, Atsushi
+   Gowda, Hube N.
+   Graetz, Nicholas
+   Greenwell, K. Fern
+   Gugnani, Harish Chander
+   Gunnell, David
+   Gutierrez, Reyna A.
+   Haagsma, Juanita
+   Hafezi-Nejad, Nima
+   Hagan, Holly
+   Hagstromer, Maria
+   Halasa, Yara A.
+   Hamadeh, Randah Ribhi
+   Hamavid, Hannah
+   Hammami, Mouhanad
+   Hancock, Jamie
+   Hankey, Graeme J.
+   Hansen, Gillian M.
+   Harb, Hilda L.
+   Harewood, Heather
+   Haro, Josep Maria
+   Havmoeller, Rasmus
+   Hay, Roderick J.
+   Hay, Simon I.
+   Hedayati, Mohammad T.
+   Pi, Ileana B. Heredia
+   Heuton, Kyle R.
+   Heydarpour, Pouria
+   Higashi, Hideki
+   Hijar, Martha
+   Hoek, Hans W.
+   Hoffman, Howard J.
+   Hornberger, John C.
+   Hosgood, H. Dean
+   Hossain, Mazeda
+   Hotez, Peter J.
+   Hoy, Damian G.
+   Hsairi, Mohamed
+   Hu, Guoqing
+   Huang, John J.
+   Huffman, Mark D.
+   Hughes, Andrew J.
+   Husseini, Abdullatif
+   Huynh, Chantal
+   Iannarone, Marissa
+   Iburg, Kim M.
+   Idrisov, Bulat T.
+   Ikeda, Nayu
+   Innos, Kaire
+   Inoue, Manami
+   Islami, Farhad
+   Ismayilova, Samaya
+   Jacobsen, Kathryn H.
+   Jassal, Simerjot
+   Jayaraman, Sudha P.
+   Jensen, Paul N.
+   Jha, Vivekanand
+   Jiang, Guohong
+   Jiang, Ying
+   Jonas, Jost B.
+   Joseph, Jonathan
+   Juel, Knud
+   Kabagambe, Edmond Kato
+   Kan, Haidong
+   Karch, Andre
+   Karimkhani, Chante
+   Karthikeyan, Ganesan
+   Kassebaum, Nicholas
+   Kaul, Anil
+   Kawakami, Norito
+   Kazanjan, Konstantin
+   Kazi, Dhruv S.
+   Kemp, Andrew H.
+   Kengne, Andre Pascal
+   Keren, Andre
+   Kereselidze, Maia
+   Khader, Yousef Saleh
+   Khalifa, Shams Eldin Ali Hassan
+   Khan, Ejaz Ahmed
+   Khan, Gulfaraz
+   Khang, Young-Ho
+   Kieling, Christian
+   Kinfu, Yohannes
+   Kinge, Jonas M.
+   Kim, Daniel
+   Kim, Sungroul
+   Kivipelto, Miia
+   Knibbs, Luke
+   Knudsen, Ann Kristin
+   Kokubo, Yoshihiro
+   Kosen, Sowarta
+   Kotagal, Meera
+   Kravchenko, Michael A.
+   Krishnaswami, Sanjay
+   Krueger, Hans
+   Defo, Barthelemy Kuate
+   Kuipers, Ernst J.
+   Bicer, Burcu Kucuk
+   Kulkarni, Chanda
+   Kulkarni, Veena S.
+   Kumar, Kaushalendra
+   Kumar, Ravi B.
+   Kwan, Gene F.
+   Kyu, Hmwe
+   Lai, Taavi
+   Balaji, Arjun Lakshmana
+   Lalloo, Ratilal
+   Lallukka, Tea
+   Lam, Hilton
+   Lan, Qing
+   Lansingh, Van C.
+   Larson, Heidi J.
+   Larsson, Anders
+   Lavados, Pablo M.
+   Lawrynowicz, Alicia E. B.
+   Leasher, Janet L.
+   Lee, Jong-Tae
+   Leigh, James
+   Leinsalu, Mall
+   Leung, Ricky
+   Levitz, Carly
+   Li, Bin
+   Li, Yichong
+   Li, Yongmei
+   Liddell, Chelsea
+   Lim, Stephen S.
+   de Lima, Graca Maria Ferreira
+   Lind, Maggie L.
+   Lipshultz, Steven E.
+   Liu, Shiwei
+   Liu, Yang
+   Lloyd, Belinda K.
+   Lofgren, Katherine T.
+   Logroscino, Giancarlo
+   London, Stephanie J.
+   Lortet-Tieulent, Joannie
+   Lotufo, Paulo A.
+   Lucas, Robyn M.
+   Lunevicius, Raimundas
+   Lyons, Ronan Anthony
+   Ma, Stefan
+   Machado, Vasco Manuel Pedro
+   MacIntyre, Michael F.
+   Mackay, Mark T.
+   MacLachlan, Jennifer H.
+   Magis-Rodriguez, Carlos
+   Mahdi, Abbas A.
+   Majdan, Marek
+   Malekzadeh, Reza
+   Mangalam, Srikanth
+   Mapoma, Christopher Chabila
+   Marape, Marape
+   Marcenes, Wagner
+   Margono, Christopher
+   Marks, Guy B.
+   Marzan, Melvin Barrientos
+   Masci, Joseph R.
+   Mashal, Mohammad Taufi Q.
+   Masiye, Felix
+   Mason-Jones, Amanda J.
+   Matzopolous, Richard
+   Mayosi, Bongani M.
+   Mazorodze, Tasara T.
+   McGrath, John J.
+   Mckay, Abigail C.
+   Mckee, Martin
+   McLain, Abigail
+   Meaney, Peter A.
+   Mehndiratta, Man Mohan
+   Mejia-Rodriguez, Fabiola
+   Melaku, Yohannes Adama
+   Meltzer, Michele
+   Memish, Ziad A.
+   Mendoza, Walter
+   Mensah, George A.
+   Meretoja, Atte
+   Mhimbira, Francis A.
+   Miller, Ted R.
+   Mills, Edward J.
+   Misganaw, Awoke
+   Mishra, Santosh K.
+   Mock, Charles N.
+   Moffitt, Terrie E.
+   Ibrahim, Norlinah Mohamed
+   Mohammad, Karzan Abdulmuhsin
+   Mokdad, Ali H.
+   Mola, Glen Liddell
+   Monasta, Lorenzo
+   Monis, Jonathan de la Cruz
+   Hernandez, Julio C. Montaez
+   Montico, Marcella
+   Montine, Thomas J.
+   Mooney, Meghan D.
+   Moore, Ami R.
+   Moradi-Lakeh, Maziar
+   Moran, Andrew E.
+   Mori, Rintaro
+   Moschandreas, Joanna
+   Moturi, Wilkister Nyaora
+   Moyer, Madeline L.
+   Mozaffarian, Dariush
+   Mueller, Ulrich O.
+   Mukaigawara, Mitsuru
+   Mullany, Erin C.
+   Murray, Joseph
+   Mustapha, Adetoun
+   Naghavi, Paria
+   Naheed, Aliya
+   Naidoo, Kovin S.
+   Naldi, Luigi
+   Nand, Devina
+   Nangia, Vinay
+   Narayan, K. M. Venkat
+   Nash, Denis
+   Nasher, Jamal
+   Nejjari, Chakib
+   Nelson, Robert G.
+   Neuhouser, Marian
+   Neupane, Sudan Prasad
+   Newcomb, Polly A.
+   Newman, Lori
+   Newton, Charles R.
+   Ng, Marie
+   Ngalesoni, Frida Namnyak
+   Nguyen, Grant
+   Nhung Thi Trang Nguyen
+   Nisar, Muhammad Imran
+   Nolte, Sandra
+   Norheim, Ole F.
+   Norman, Rosana E.
+   Norrving, Bo
+   Nyakarahuka, Luke
+   Odell, Shaun
+   O'Donnell, Martin
+   Ohkubo, Takayoshi
+   Ohno, Summer Lockett
+   Olusanya, Bolajoko O.
+   Omer, Saad B.
+   Opio, John Nelson
+   Orisakwe, Orish Ebere
+   Ortblad, Katrina F.
+   Ortiz, Alberto
+   Otayza, Maria Lourdes K.
+   Pain, Amanda W.
+   Pandian, Jeyaraj D.
+   Panelo, Carlo Irwin
+   Panniyammakal, Jeemon
+   Papachristou, Christina
+   Paternina Caicedo, Angel J.
+   Patten, Scott B.
+   Patton, George C.
+   Paul, Vinod K.
+   Pavlin, Boris
+   Pearce, Neil
+   Pellegrini, Carlos A.
+   Pereira, David M.
+   Peresson, Sophie C.
+   Perez-Padilla, Rogelio
+   Perez-Ruiz, Fernando P.
+   Perico, Norberto
+   Pervaiz, Aslam
+   Pesudovs, Konrad
+   Peterson, Carrie B.
+   Petzold, Max
+   Phillips, Bryan K.
+   Phillips, David E.
+   Phillips, Michael R.
+   Plass, Dietrich
+   Piel, Frederic Bernard
+   Poenaru, Dan
+   Polinder, Suzanne
+   Popova, Svetlana
+   Poulton, Richie G.
+   Pourmalek, Farshad
+   Prabhakaran, Dorairaj
+   Qato, Dima
+   Quezada, Amado D.
+   Quistberg, D. Alex
+   Rabito, Felicia
+   Rafay, Anwar
+   Rahimi, Kazem
+   Rahimi-Movaghar, Vafa
+   Rahman, Sajjad U. R.
+   Raju, Murugesan
+   Rakovac, Ivo
+   Rana, Saleem M.
+   Refaat, Amany
+   Remuzzi, Giuseppe
+   Ribeiro, Antonio L.
+   Ricci, Stefano
+   Riccio, Patricia M.
+   Richardson, Lee
+   Richardus, Jan Hendrik
+   Roberts, Bayard
+   Roberts, D. Allen
+   Robinson, Margaret
+   Roca, Anna
+   Rodriguez, Alina
+   Rojas-Rueda, David
+   Ronfani, Luca
+   Room, Robin
+   Roth, Gregory A.
+   Rothenbacher, Dietrich
+   Rothstein, David H.
+   Rowley, Jane Tf
+   Roy, Nobhojit
+   Ruhago, George M.
+   Rushton, Lesley
+   Sambandam, Sankar
+   Soreide, Kjetil
+   Saeedi, Mohammad Yahya
+   Saha, Sukanta
+   Sahathevan, Ramesh
+   Sahraian, Mohammad Ali
+   Sahle, Berhe Weldearegawi
+   Salomon, Joshua A.
+   Salvo, Deborah
+   Samonte, Genesis May J.
+   Sampson, Uchechukwu
+   Sanabria, Juan Ramon
+   Sandar, Logan
+   Santos, Itamar S.
+   Satpathy, Maheswar
+   Sawhney, Monika
+   Saylan, Mete
+   Scarborough, Peter
+   Schoettker, Ben
+   Schmidt, Juergen C.
+   Schneider, Ione J. C.
+   Schumacher, Austin E.
+   Schwebel, David C.
+   Scott, James G.
+   Sepanlou, Sadaf G.
+   Servan-Mori, Edson E.
+   Shackelford, Katya
+   Shaheen, Amira
+   Shahraz, Saeid
+   Shakh-Nazarova, Marina
+   Shangguan, Siyi
+   She, Jun
+   Sheikhbahaei, Sara
+   Shepard, Donald S.
+   Shibuya, Kenji
+   Shinohara, Yukito
+   Shishani, Kawkab
+   Shiue, Ivy
+   Shivakoti, Rupak
+   Shrime, Mark G.
+   Sigfusdottir, Inga Dora
+   Silberberg, Donald H.
+   Silva, Andrea P.
+   Simard, Edgar P.
+   Sindi, Shireen
+   Singh, Jasvinder A.
+   Singh, Lavanya
+   Sioson, Edgar
+   Skirbekk, Vegard
+   Sliwa, Karen
+   So, Samuel
+   Soljak, Michael
+   Soneji, Samir
+   Soshnikov, Sergey S.
+   Sposato, Luciano A.
+   Sreeramareddy, Chandrashekhar T.
+   Stanaway, Jeff Rey D.
+   Stathopoulou, Vasiliki Kalliopi
+   Steenland, Kyle
+   Stein, Claudia
+   Steiner, Caitlyn
+   Stevens, Antony
+   Stoeckl, Heidi
+   Straif, Kurt
+   Stroumpoulis, Konstantinos
+   Sturua, Lela
+   Sunguya, Bruno F.
+   Swaminathan, Soumya
+   Swaroop, Mamta
+   Sykes, Bryan L.
+   Tabb, Karen M.
+   Takahashi, Ken
+   Talongwa, Roberto Tchio
+   Tan, Feng
+   Tanne, David
+   Tanner, Marcel
+   Tavakkoli, Mohammad
+   Ao, Braden Te
+   Teixeira, Carolina Maria
+   Templin, Tara
+   Tenkorang, Eric Yeboah
+   Terkawi, Abdullah Sulieman
+   Thomas, Bernadette A.
+   Thorne-Lyman, Andrew L.
+   Thrift, Amanda G.
+   Thurston, George D.
+   Tillmann, Taavi
+   Tirschwell, David L.
+   Tleyjeh, Imad M.
+   Tonelli, Marcello
+   Topouzis, Fotis
+   Towbin, Jeffrey A.
+   Toyoshima, Hideaki
+   Traebert, Jefferson
+   Tran, Bach X.
+   Truelsen, Thomas
+   Trujillo, Ulises
+   Trillini, Matias
+   Dimbuene, Zacharie Tsala
+   Tsilimbaris, Miltiadis
+   Tuzcu, E. Murat
+   Ubeda, Clotilde
+   Uchendu, Uche S.
+   Ukwaja, Kingsley N.
+   Undurraga, Eduardo A.
+   Vallely, Andrew J.
+   van de Vijver, Steven
+   van Gool, Coen H.
+   Varakin, Yuri Y.
+   Vasankari, Tommi J.
+   Vasconcelos, Ana Maria Nogales
+   Vavilala, Monica S.
+   Venketasubramanian, N.
+   Vijayakumar, Lakshmi
+   Villalpando, Salvador
+   Violante, Francesco S.
+   Vlassov, Vasiliy Victorovich
+   Wagner, Gregory R.
+   Waller, Stephen G.
+   Wang, JianLi
+   Wang, Linhong
+   Wang, XiaoRong
+   Wang, Yanping
+   Warouw, Tati Suryati
+   Weichenthal, Scott
+   Weiderpass, Elisabete
+   Weintraub, Robert G.
+   Wenzhi, Wang
+   Werdecker, Andrea
+   Wessells, K. Ryan R.
+   Westerman, Ronny
+   Whiteford, Harvey A.
+   Wilkinson, James D.
+   Williams, Thomas Neil
+   Woldeyohannes, Solomon Meseret
+   Wolfe, Charles D. A.
+   Wolock, Timothy M.
+   Woolf, Anthony D.
+   Wong, John Q.
+   Wright, Jonathan L.
+   Wulf, Sarah
+   Wurtz, Brittany
+   Xu, Gelin
+   Yang, Yang C.
+   Yano, Yuichiro
+   Yatsuya, Hiroshi
+   Yip, Paul
+   Yonemoto, Naohiro
+   Yoon, Seok-Jun
+   Younis, Mustafa
+   Yu, Chuanhua
+   Jin, Kim Yun
+   Zaki, Maysaa El Sayed
+   Zamakhshary, Mohammed Fouad
+   Zeeb, Hajo
+   Zhang, Yong
+   Zhao, Yong
+   Zheng, Yingfeng
+   Zhu, Jun
+   Zhu, Shankuan
+   Zonies, David
+   Zou, Xiao Nong
+   Zunt, Joseph R.
+   Vos, Theo
+   Lopez, Alan D.
+   Murray, Christopher J. L.
+CA GBD Mortal 2013 Causes Death Colla
+TI Global, regional, and national age-sex specific all-cause and
+   cause-specific mortality for 240 causes of death, 1990-2013: a
+   systematic analysis for the Global Burden of Disease Study 2013
+SO LANCET
+LA English
+DT Article
+ID INFLUENZAE TYPE-B; PNEUMOCOCCAL CONJUGATE VACCINE;
+   PLACEBO-CONTROLLED-TRIAL; 187 COUNTRIES; RISK-FACTORS; ENTERIC
+   MULTICENTER; CHILDREN YOUNGER; CHILDHOOD PNEUMONIA; INTEGRATED APPROACH;
+   POPULATION HEALTH
+AB Background Up-to-date evidence on levels and trends for age-sex-specifi c all-cause and cause-specifi c mortality is essential for the formation of global, regional, and national health policies. In the Global Burden of Disease Study 2013 (GBD 2013) we estimated yearly deaths for 188 countries between 1990, and 2013. We used the results to assess whether there is epidemiological convergence across countries.
+   Methods We estimated age-sex-specifi c all-cause mortality using the GBD 2010 methods with some refinements to improve accuracy applied to an updated database of vital registration, survey, and census data. We generally estimated cause of death as in the GBD 2010. Key improvements included the addition of more recent vital registration data for 72 countries, an updated verbal autopsy literature review, two new and detailed data systems for China, and more detail for Mexico, UK, Turkey, and Russia. We improved statistical models for garbage code redistribution. We used six different modelling strategies across the 240 causes; cause of death ensemble modelling (CODEm) was the dominant strategy for causes with sufficient information. Trends for Alzheimer's disease and other dementias were informed by meta-regression of prevalence studies. For pathogen-specifi c causes of diarrhoea and lower respiratory infections we used a counterfactual approach. We computed two measures of convergence (inequality) across countries: the average relative difference across all pairs of countries (Gini coefficient) and the average absolute difference across countries. To summarise broad findings, we used multiple decrement life-tables to decompose probabilities of death from birth to exact age 15 years, from exact age 15 years to exact age 50 years, and from exact age 50 years to exact age 75 years, and life expectancy at birth into major causes. For all quantities reported, we computed 95% uncertainty intervals (UIs). We constrained cause-specific fractions within each age-sex-country-year group to sum to all-cause mortality based on draws from the uncertainty distributions.
+   Findings Global life expectancy for both sexes increased from 65.3 years (UI 65.0-65.6) in 1990, to 71.5 years (UI 71.0-71.9) in 2013, while the number of deaths increased from 47.5 million (UI 46.8-48.2) to 54.9 million (UI 53.6-56.3) over the same interval. Global progress masked variation by age and sex: for children, average absolute diff erences between countries decreased but relative diff erences increased. For women aged 25-39 years and older than 75 years and for men aged 20-49 years and 65 years and older, both absolute and relative diff erences increased. Decomposition of global and regional life expectancy showed the prominent role of reductions in age-standardised death rates for cardiovascular diseases and cancers in high-income regions, and reductions in child deaths from diarrhoea, lower respiratory infections, and neonatal causes in low-income regions. HIV/AIDS reduced life expectancy in southern sub-Saharan Africa. For most communicable causes of death both numbers of deaths and age-standardised death rates fell whereas for most non-communicable causes, demographic shifts have increased numbers of deaths but decreased age-standardised death rates. Global deaths from injury increased by 10.7%, from 4.3 million deaths in 1990 to 4.8 million in 2013; but age-standardised rates declined over the same period by 21%. For some causes of more than 100 000 deaths per year in 2013, age-standardised death rates increased between 1990 and 2013, including HIV/AIDS, pancreatic cancer, atrial fibrillation and flutter, drug use disorders, diabetes, chronic kidney disease, and sickle-cell anaemias. Diarrhoeal diseases, lower respiratory infections, neonatal causes, and malaria are still in the top five causes of death in children younger than 5 years. The most important pathogens are rotavirus for diarrhoea and pneumococcus for lower respiratory infections. Country-specific probabilities of death over three phases of life were substantially varied between and within regions.
+   Interpretation For most countries, the general pattern of reductions in age-sex specifi c mortality has been associated with a progressive shift towards a larger share of the remaining deaths caused by non-communicable disease and injuries. Assessing epidemiological convergence across countries depends on whether an absolute or relative measure of inequality is used. Nevertheless, age-standardised death rates for seven substantial causes are increasing, suggesting the potential for reversals in some countries. Important gaps exist in the empirical data for cause of death estimates for some countries; for example, no national data for India are available for the past decade.
+C1 [Naghavi, Mohsen; Wang, Haidong; Lozano, Rafael; Vollset, Stein Emil; Achoki, Tom; Apfel, Henry; Atkinson, Charles; Barber, Ryan M.; Bertozzi-Villa, Amelia; Biryukov, Stan; Brown, Jonathan C.; Catala-Lopez, Ferrn; Coates, Matthew M.; Coffeng, Luc Edgar; Coggeshall, Megan S.; Dandona, Lalit; Dansereau, Emily; Dicker, Daniel; Duber, Herbert C.; Estep, Kara; Fleming, Thomas D.; Forouzanfar, Mohammad H.; Gonzalez-Medina, Diego; Graetz, Nicholas; Haagsma, Juanita; Hamavid, Hannah; Hancock, Jamie; Hansen, Gillian M.; Heuton, Kyle R.; Higashi, Hideki; Huynh, Chantal; Iannarone, Marissa; Joseph, Jonathan; Kassebaum, Nicholas; Kyu, Hmwe; Levitz, Carly; Liddell, Chelsea; Lind, Maggie L.; Lofgren, Katherine T.; MacIntyre, Michael F.; Margono, Christopher; McLain, Abigail; Mokdad, Ali H.; Mooney, Meghan D.; Moradi-Lakeh, Maziar; Moyer, Madeline L.; Mullany, Erin C.; Naghavi, Paria; Ng, Marie; Nguyen, Grant; Odell, Shaun; Ohno, Summer Lockett; Ortblad, Katrina F.; Pain, Amanda W.; Phillips, Bryan K.; Phillips, David E.; Richardson, Lee; Roberts, D. Allen; Robinson, Margaret; Roth, Gregory A.; Sandar, Logan; Schumacher, Austin E.; Shackelford, Katya; Singh, Lavanya; Sioson, Edgar; Stanaway, Jeff Rey D.; Steiner, Caitlyn; Stevens, Antony; Templin, Tara; Thomas, Bernadette A.; Wolock, Timothy M.; Wulf, Sarah; Wurtz, Brittany; Vos, Theo; Murray, Christopher J. L.] Inst Hlth Metr & Evaluat, Seattle, WA USA.
+   [Ellenbogen, Richard G.; Wright, Jonathan L.] Univ Washington, Sch Med, Seattle, WA USA.
+   [Kassebaum, Nicholas] Childrens Hosp, Seattle, WA USA.
+   [Tirschwell, David L.] Dept Neurol, Seattle, WA USA.
+   [Ebel, Beth E.] Univ Washington, Harborview Med Ctr, Harborview Injury Prevent & Res Ctr, Seattle, WA 98104 USA.
+   [Alfonso-Cristancho, Rafael; Anderson, Benjamin O.; Futran, Neal D.; Jensen, Paul N.; Kotagal, Meera; Mock, Charles N.; Montine, Thomas J.; Pellegrini, Carlos A.; Quistberg, D. Alex; Vavilala, Monica S.; Zunt, Joseph R.] Univ Washington, Seattle, WA 98195 USA.
+   [Lozano, Rafael; Barquera, Simon; Barrientos-Gutierrez, Tonatiuh; Nonato, Ismael Ricardo Campos; Cuevas-Nasu, Lucia; De la Cruz-Gongora, Vanessa; Diaz-Ortega, Jose-Luis; Garcia-Guerra, Francisco Armando; Dantes, Hector Gomez; Pi, Ileana B. Heredia; Mejia-Rodriguez, Fabiola; Hernandez, Julio C. Montaez; Perez-Padilla, Rogelio; Quezada, Amado D.; Salvo, Deborah; Servan-Mori, Edson E.; Villalpando, Salvador] Natl Inst Publ Hlth Mexico, Mexico City, DF, Mexico.
+   [Davis, Adrian; Fay, Derek F. J.; Schmidt, Juergen C.] Publ Hlth England, London, England.
+   [Zhou, Maigeng; Duan, Leilei; Li, Yichong; Liu, Shiwei; Wang, Linhong] Natl Ctr Chron & Noncommunicable Dis Control & Pr, Beijing, Peoples R China.
+   [Tan, Feng] Natl Inst Occupat Hlth & Control, Beijing, Peoples R China.
+   [Liang, Xiaofeng] China Ctr Dis Control Prevent, Beijing, Peoples R China.
+   [Vollset, Stein Emil; Kinge, Jonas M.; Knudsen, Ann Kristin; Skirbekk, Vegard] Norwegian Inst Publ Hlth, Oslo, Norway.
+   [Vollset, Stein Emil; Norheim, Ole F.] Univ Bergen, Bergen, Norway.
+   [Ozgoren, Ayse Abbasoglu; Bicer, Burcu Kucuk] Hacettepe Univ, Inst Populat Studies, Ankara, Turkey.
+   [Abdalla, Safa] Sudanese Publ Hlth Consultancy Grp, Solihull, W Midlands, England.
+   [Abd-Allah, Foad] Cairo Univ, Fac Med, Cairo, Egypt.
+   [Aziz, Muna I. Abdel] Inst Publ Hlth, Khartoum, Sudan.
+   [Abera, Semaw Ferede] Coll Hlth Sci, Sch Publ Hlth, Mekelle, Tigray, Ethiopia.
+   [Melaku, Yohannes Adama; Sahle, Berhe Weldearegawi] Mekelle Univ, Mekelle, Tigray, Ethiopia.
+   [Aboyans, Victor] Dupuytren Univ Hosp, Limoges, France.
+   [Abraham, Biju] Oslo & Akershus Univ, Coll Appl Sci HiOA, Oslo, Norway.
+   [Abraham, Jerry P.] Univ Texas San Antonio, Sch Med, San Antonio, TX USA.
+   [Abuabara, Katrina E.; Silberberg, Donald H.] Univ Penn, Philadelphia, PA 19104 USA.
+   [Benzian, Habib] Dept Epidemiol & Publ Hlth, London, England.
+   [Benzian, Habib] UCL, London, England.
+   [Abu-Raddad, Laith J.] Weill Cornell Med Coll Qatar, Doha, Qatar.
+   [Abu-Rmeileh, Niveen M. E.] Birzeit Univ, Inst Community & Publ Hlth, Ramallah, W Bank, Israel.
+   [Adelekan, Ademola] Publ Hlth Promot Alliance, Osogbp, Nigeria.
+   [Chiang, Peggy Pei-Chia] Beneral Practice & Primary Hlth Care Acad Ctr, Melbourne, Vic, Australia.
+   [Colquhoun, Samantha M.] Ctr Int Child Hlth, Melbourne, Vic, Australia.
+   [Ademi, Zanfi Na; Blore, Jed D.; Bohensky, Megan A.; Catala-Lopez, Ferrn; Balaji, Arjun Lakshmana; Patton, George C.; Weintraub, Robert G.] Univ Melbourne, Melbourne, Vic, Australia.
+   [Adofo, Koranteng] Kwame Nkrumah Univ Sci & Technol, Kumasi, Ashanti, Ghana.
+   [Adou, Arsene Kouablan] Assoc Ivoirienne Bien Etre Familial, Abidjan, Cote Ivoire.
+   [Adsuar, Jose C.; Fra Paleo, Urbano] Univ Extremadura, Caceres, Spain.
+   [Aernlov, Johan; Larsson, Anders] Uppsala Univ, Uppsala, Sweden.
+   [Agardh, Emilie Elisabet] Inst Publ Hlth Sci, Stockholm, Sweden.
+   [Akena, Dickens; Nyakarahuka, Luke] Makerere Univ, Kampala, Uganda.
+   [Al Khabouri, Mazin J.; Alasfoor, Deena] Minist Hlth, Muscat, Oman.
+   [Al Lami, Faris] Baghdad Coll Med, Baghdad, Iraq.
+   [Albittar, Mohammed] Independent, Damascus, Syria.
+   Grp Invest Ciencias Salud & Neurociencias CISNEUR, Cartagena De Indias, Bolivar, Colombia.
+   [Alegretti, Miguel Angel; Aleman, Alicia V.; Cavalleri, Fiorella; Colistro, Valentina] Univ Republica, Fac Med, Dept Prevent & Social Med, Montevideo, Uruguay.
+   [Alemu, Zewdie Aderaw] Debre Markos Univ, Debre Markos, Amhara, Ethiopia.
+   [Alhabib, Samia] Natl Guard Hlth Affairs, Riyadh, Saudi Arabia.
+   [Simard, Edgar P.; Steenland, Kyle] Rollins Sch Publ Hlth, Atlanta, GA USA.
+   [Ali, Mohammed K.; Cunningham, Solveig Argeseanu; Dabhadkar, Kaustubh C.; Liu, Yang; Narayan, K. M. Venkat; Omer, Saad B.; Phillips, Michael R.] Emory Univ, Atlanta, GA 30322 USA.
+   [Ali, Raghib; Bennett, Derrick A.; Briggs, Adam D. M.; Chen, Zhengming; Hay, Simon I.; Piel, Frederic Bernard; Rahimi, Kazem; Scarborough, Peter] Univ Oxford, Oxford, England.
+   [Alla, Francois] Univ Lorraine, Sch Publ Hlth, Nancy, France.
+   [Allebeck, Peter] Dept Publ Hlth Sci, Stockholm, Sweden.
+   [Fereshtehnejad, Seyed-Mohammad] Dept Neurobiol Care Sci & Soc NVS, Stockholm, Sweden.
+   [Kivipelto, Miia] Aging Res Ctr, Stockholm, Sweden.
+   [Weiderpass, Elisabete] Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+   [Hagstromer, Maria; Havmoeller, Rasmus; Sindi, Shireen] Karolinska Inst, Stockholm, Sweden.
+   [AlMazroa, Mohammad A.; Basulaiman, Mohammed Omar; Memish, Ziad A.; Saeedi, Mohammad Yahya] Saudi Minist Hlth, Riyadh, Saudi Arabia.
+   [Salman, Rustam Al-Shahi; Fowkes, F. Gerry R.] Univ Edinburgh, Edinburgh, Midlothian, Scotland.
+   [Alsharif, Ubai; Nolte, Sandra; Papachristou, Christina] Charite, D-13353 Berlin, Germany.
+   [Alvarez, Elena] Government, Madrid, Spain.
+   [Alviz-Guzman, Nelson; Paternina Caicedo, Angel J.] Univ Cartagena, Cartagena De Indias, Colombia.
+   [Amankwaa, Adansi A.] Albany State Univ, Albany, GA 31705 USA.
+   [Amare, Azmeraw T.] Univ Groningen, Univ Med Ctr Groningen, Dept Epidemiol, Groningen, Netherlands.
+   [Amare, Azmeraw T.] Bahir Dar Univ, Coll Med & Hlth Sci, Bahir Dar, Ethiopia.
+   [Ameli, Omid] Boston Univ, Boston, MA 02215 USA.
+   [Amini, Hassan] Kurdistan Univ Med Sci, Kurdistan Environm Hlth Res Ctr, Sanandaj, Kurdistan, Iran.
+   [Amini, Hassan] Swiss Trop & Publ Hlth Inst, Dept Epidemiol & Publ Hlth, Basel, Switzerland.
+   [Tanner, Marcel] Univ Basel, Basel, Switzerland.
+   [Ammar, Walid] Minist Publ Hlth, Beirut, Lebanon.
+   [Anderson, H. Ross] St Georges Univ London, London, England.
+   [Antonio, Carl Abelardo T.; Faraon, Emerito Jose A.; Panelo, Carlo Irwin] Univ Philippines Manila, Coll Publ Hlth, Manila, Philippines.
+   [Anwari, Palwasha] UNFPA, Kabul, Afghanistan.
+   [Arsenijevic, Valentina S. Arsic] Univ Belgrade, Sch Med, Inst Microbiol & Immunol, Belgrade, Serbia.
+   [Al Artaman] Evidera Inc, Lexington, MA USA.
+   [Asad, Majed Masoud] Minist Hlth, Amman, Jordan.
+   [Asghar, Rana J.] South Asian Publ Hlth Forum, Islamabad, Pakistan.
+   [Assadi, Reza] Mashhad Univ Med Sci, Mashhad, Khorasan Razavi, Iran.
+   [Atkins, Lydia S.] Minist Hlth Wellness Human Serv & Gender Relat, Castries, St Lucia.
+   [Badawi, Alaa] Publ Hlth Agcy Canada, Toronto, ON, Canada.
+   [Bahit, Maria C.] INECO Neurociencias, Santa Fe, NM USA.
+   [Bakfalouni, Talal] Minist Hlth, Damascus, Syria.
+   [Balakrishnan, Kalpana] Sri Ramachandra Univ, Madras, Tamil Nadu, India.
+   [Balalla, Shivanthi; Feigin, Valery L.] Natl Inst Stroke & Appl Neurosciences, Auckland, New Zealand.
+   [Barker-Collo, Suzanne L.] Sch Psychol, Auckland, New Zealand.
+   [del Pozo-Cruz, Borja] Univ Auckland, Auckland 1, New Zealand.
+   [Banerjee, Amitava] Univ Birmingham, Birmingham, W Midlands, England.
+   [Barregard, Lars] Univ Gothenburg, Dept Environm & Occupat Hlth, Gothenburg, Sweden.
+   [Barrero, Lope H.] Pontificia Univ Javeriana, Dept Ind Engn, Bogota, Colombia.
+   [Basu, Arindam] Univ Canterbury, Sch Hlth Sci, Canterbury, New Zealand.
+   [So, Samuel] Asian Liver Ctr, Palo Alto, CA USA.
+   [Gaffikin, Lynne] Stanford Univ, Med Ctr, Sch Med, Stanford, CA 94305 USA.
+   [Basu, Sanjay] Stanford Univ, Stanford, CA 94305 USA.
+   [Beardsley, Justin] Univ Oxford, Ho Hi Minh City, Vietnam.
+   [Bedi, Neeraj] Coll Publ Hlth & Trop Med, Jazan, Saudi Arabia.
+   [Beghi, Ettore; Cortinovis, Monica; Perico, Norberto; Remuzzi, Giuseppe; Trillini, Matias] IRCCS Ist Ric Farmacol Mario Negri, Milan, Italy.
+   [Bekele, Tolesa] Madawalabu Univ, Bale Goba, Oromia, Ethiopia.
+   [Bell, Michelle L.; Huang, John J.] Yale Univ, New Haven, CT USA.
+   [Benjet, Corina; Gutierrez, Reyna A.] Natl Inst Psychiat Ramon de la Fuente, Mexico City, DF, Mexico.
+   [Bensenor, Isabela M.; Kemp, Andrew H.] Univ Hosp, Sao Paulo, Brazil.
+   [Lotufo, Paulo A.; Santos, Itamar S.] Univ Sao Paulo, Sao Paulo, Brazil.
+   [Beyene, Tariku Jibat; Deribe, Kebede] Univ Addis Ababa, Debre Zeit, Ethiopia.
+   [Bhala, Neeraj] Wellington Hosp, Wellington, New Zealand.
+   [Bhalla, Ashish] Postgrad Inst Med Educ & Res, Chandigarh 160012, UT, India.
+   [Bhutta, Zulfiqar A.] Med Ctr, Karachi, Pakistan.
+   [Nisar, Muhammad Imran] Aga Khan Univ, Karachi, Pakistan.
+   [Bikbov, Boris] I Evdokimov Moscow State Univ Med & Dent, Moscow, Russia.
+   [Bin Abdulhak, Aref] Univ Missouri, Kansas City, MO 64110 USA.
+   [Marks, Guy B.] Woolcock Inst Med Res, Sydney, NSW, Australia.
+   [Driscoll, Tim R.] Sydney Sch Publ Hlth, Sydney, NSW, Australia.
+   [Blyth, Fiona M.; Leigh, James] Univ Sydney, Sydney, NSW 2006, Australia.
+   [Borges, Guilherme] Inst Nacl Psiquiatria, Mexico City, DF, Mexico.
+   [Bose, Dipan] World Bank, Washington, DC 20433 USA.
+   [Boufous, Soufiane] Transport & Rd Safety TARS Res, Sydney, NSW, Australia.
+   [Vallely, Andrew J.] Kirby Inst, Sydney, NSW, Australia.
+   [Degenhardt, Louisa; Satpathy, Maheswar] Univ New S Wales, Sydney, NSW, Australia.
+   [Bourne, Rupert R.] Anglia Ruskin Univ, Vis & Eye Res Unit, Cambridge, England.
+   [Boyers, Lindsay N.] Georgetown Univ, Sch Med, Washington, DC USA.
+   [Brainin, Michael] Danube Univ Krems, Krems, Austria.
+   [Krueger, Hans] Sch Populat & Publ Hlth, Vancouver, BC, Canada.
+   [Brauer, Michael; Gotay, Carolyn C.; Pourmalek, Farshad] Univ British Columbia, Vancouver, BC V5Z 1M9, Canada.
+   [Brayne, Carol E. G.] Cambridge Inst Publ Hlth, Cambridge, England.
+   [Brazinova, Alexandra; Majdan, Marek] Trnava Univ, Fac Hlth Sci & Social Work, Trnava, Slovakia.
+   [Breitborde, Nicholas] Univ Arizona, Tucson, AZ USA.
+   [Brenner, Hermann] German Canc Res Ctr, Heidelberg, Germany.
+   [Brugha, Traolach S.] Univ Leicester, Leicester, Leics, England.
+   [Buckle, Geoffrey C.; Gona, Philimon] Univ Massachusetts, Sch Med, Worcester, MA USA.
+   [Bui, Linh Ngoc; Nhung Thi Trang Nguyen] Hanoi Sch Publ Hlth, Hanoi, Vietnam.
+   [Bukhman, Gene] Harvard Univ, Sch Med, Cambridge, MA 02138 USA.
+   [Ding, Eric L.; Fahimi, Saman; Shangguan, Siyi] Harvard Univ, Sch Publ Hlth, Cambridge, MA 02138 USA.
+   [Feigl, Andrea B.; Salomon, Joshua A.; Shrime, Mark G.] Harvard Univ, Cambridge, MA 02138 USA.
+   [Burch, Michael] Great Ormond St Hosp Sick Children, London WC1N 3JH, England.
+   [Cardenas, Rosario] Univ Autonoma Metropolitana, Mexico City, DF, Mexico.
+   [Carabin, Helesne] Univ Oklahoma, Hlth Sci Ctr, Dept Biostat & Epidemiol, Oklahoma City, OK USA.
+   [Carapetis, Jonathan] Telethon Inst Child Hlth Res, Subiaco, WA, Australia.
+   [Carpenter, David O.] Univ Albany, Rensselaer, NY USA.
+   [Caso, Valeria] Univ Perugia, Stroke Unit, I-06100 Perugia, Italy.
+   [Castaneda-Orjuela, Carlos A.] Colombian Natl Hlth Observ, Inst Nacl Salud, Bogota, Colombia.
+   [Castro, Ruben Estanislao] Univ Diego Portales, Santiago, Chile.
+   [Catala-Lopez, Ferrn] Minist Hlth, Spanish Med & Healthcare Prod Agcy AEMPS, Div Pharmacoepidemiol & Pharmacovigilance, Madrid, Spain.
+   [Chang, Jung-Chen] Natl Taiwan Univ, Taipei 10764, Taiwan.
+   [Hoy, Damian G.] Univ Queensland, Sch Populat Hlth, Herston, Qld, Australia.
+   [Scott, James G.] Univ Queensland, Clin Res Ctr, Herston, Qld, Australia.
+   [Charlson, Fiona C.; Erskine, Holly E.; Ferrari, Alize J.; Knibbs, Luke; McGrath, John J.; Norman, Rosana E.; Whiteford, Harvey A.] Univ Queensland, Brisbane, Qld, Australia.
+   [Che, Xuan] NIH, Bethesda, MD 20892 USA.
+   [She, Jun] Zhongshan Hosp, Shanghai, Peoples R China.
+   [Chen, Yingyao; Kan, Haidong] Fudan Univ, Shanghai 200433, Peoples R China.
+   [Chen, Zhengming] CTSU, Nuffield Dept Populat Hlth, Oxford, England.
+   [Chen, Honglei; London, Stephanie J.] NIEHS, Div Intramural Res, NIH, Dept Hlth & Human Serv,RTP,NC USA, Res Triangle Pk, NC 27709 USA.
+   [Chen, Jian Sheng] Inst Bone & Joint Res, St Laonards, NSW, Australia.
+   [Chimed-Ochir, Odgerel] Univ Occupat & Environm Hlth, Dept Environm Epidemiol, Kitakyushu, Fukuoka 807, Japan.
+   [Chowdhury, Rajiv; Murray, Christopher J. L.] Univ Cambridge, Cambridge, England.
+   [Christensen, Hanne] Bispebjerg Hosp, Copenhagen, Denmark.
+   [Christophi, Costas A.] Cyprus Univ Technol, Limassol, Cyprus.
+   [Chang, Jung-Chen] Taipei Med Univ, Sch Med, Dept Mol Parasitol & Trop Dis, Taipei, Taiwan.
+   [Chuang, Ting-Wu] Taipei Med Univ, Ctr Int Trop Med, Coll Med, Taipei, Taiwan.
+   [Chugh, Sumeet S.] Cedars Sinai Med Ctr, Los Angeles, CA 90048 USA.
+   [Cirillo, Massimo] Univ Salerno, I-84081 Baronissi, SA, Italy.
+   [Cohen, Aaron] Hlth Effects Inst, Boston, MA USA.
+   [Colomar, Mercedes] UNICEM, Montevideo, Uruguay.
+   [Cooper, Cyrus] Univ Southampton, MRC Lifecourse Epidemiol Unit, Southampton, Hants, England.
+   [Cooper, Cyrus; Tleyjeh, Imad M.] Mayo Clin, Rochester, MN USA.
+   [Coppola, Luis M.] Hosp Municipal Ramon Santamarina, Buenos Aires, DF, Argentina.
+   [Cowie, Benjamin C.; MacLachlan, Jennifer H.] Victorian Infect Dis Reference Lab, North Melbourne, Vic, Australia.
+   [Criqui, Michael H.; Jassal, Simerjot] Univ Calif San Diego, La Jolla, CA 92093 USA.
+   [Crump, John A.] Dunedin Sch Med, Ctr Int Hlth, Dunedin, Otago, New Zealand.
+   [Poulton, Richie G.] Univ Otago, Dunedin, Otago, New Zealand.
+   [Leite, Iuri da Costa] Natl Sch Publ Hlth ENSP Fiocruz, Rio De Janeiro, Brazil.
+   [Dandona, Lalit; Dandona, Rakhi; Goenka, Shifalika] Publ Hlth Fdn India, New Delhi, India.
+   [Dandona, Rakhi; Goenka, Shifalika] Indian Inst Publ Hlth, New Delhi, India.
+   [Dargan, Paul I.] Guys & St Thomas NHS Fdn Trust, London, England.
+   [Dayama, Anand] Jacobi Med Ctr, Dept Surg, Atlanta, GA USA.
+   [de la Vega, Shelley F.] Univ Philippines, Inst Aging, Manila, Philippines.
+   [Lam, Hilton] Univ Philippines, Natl Inst Hlth, Inst Hlth Policy & Dev Studies, Manila, Philippines.
+   [De Leo, Diego] Griffith Univ, Brisbane, Qld 4111, Australia.
+   [Uchendu, Uche S.] US Dept Vet Affairs, Washington, DC USA.
+   [Dellavalle, Robert P.] Eastern Colorado Healthcare Syst, Denver, CO USA.
+   [Jarlais, Don C. Des] Beth Israel Deaconess Med Ctr, New York, NY 10003 USA.
+   [Dessalegn, Muluken] Africa Med & Res Fdn Ethiopia, Addis Ababa, Ethiopia.
+   [deVeber, Gabrielle A.] Univ Toronto, Hosp Sick Children, Toronto, ON M5G 1X8, Canada.
+   [Dharmaratne, Samath D.] Univ Peradeniya, Peradeniya, Sri Lanka.
+   [Dherani, Mukesh] Univ Liverpool, Liverpool L69 3BX, Merseyside, England.
+   [Diaz-Torne, Cesar] Hosp Santa Creu & Sant Pau, Barcelona, Spain.
+   [Dokova, Klara] Med Univ Varna, Fac Publ Hlth, Dept Social Med, Varna, Bulgaria.
+   [Dorsey, E. Ray] Univ Rochester, Med Ctr, Rochester, NY 14642 USA.
+   [Durrani, Adnan M.] NIH, Montgomery, MD USA.
+   [Hankey, Graeme J.] Sch Med & Pharmacol, Perth, WA, Australia.
+   [Kabagambe, Edmond Kato] Univ Western Australia, Perth, WA 6009, Australia.
+   [Elshrek, Yousef] Univ Tripoli, Fac Agr, Dept Food Sci, Tripoli, Libya.
+   [Ermakov, Sergey Petrovich] Russian Acad Sci, Inst Social & Econ Studies Populat, Moscow, Russia.
+   [Eshrati, Babak] Arak Univ Med Sci & Hlth Affairs, Arak, Markazi, Iran.
+   [Esteghamati, Alireza; Hafezi-Nejad, Nima; Sheikhbahaei, Sara] Endocrinol & Metab Res Ctr, Tehran, Iran.
+   [Farzadfar, Farshad] Noncommunicable Dis Reesearch Ctr, Tehran, Iran.
+   [Malekzadeh, Reza; Sepanlou, Sadaf G.] Digest Dis Res Ctr, Tehran, Iran.
+   [Rahimi-Movaghar, Vafa] Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Sahraian, Mohammad Ali] Res Ctr, Tehran, Iran.
+   [Moradi-Lakeh, Maziar] Dept Community Med, Tehran, Iran.
+   [Heydarpour, Pouria] Univ Tehran Med Sci, Tehran, Iran.
+   [Fuerst, Thomas] Ctr Hlth Policy, London, England.
+   [Fuerst, Thomas] Dept Infect Dis Epidemiol, London, England.
+   [Mustapha, Adetoun] MRC PHE Ctr Hlth & Environm, London, England.
+   [Foreman, Kyle; Rodriguez, Alina; Rushton, Lesley; Soljak, Michael; Williams, Thomas Neil] Univ London Imperial Coll Sci Technol & Med, London, England.
+   [Vollset, Stein Emil] Div Informat Evidence Res & Innovat, Copenhagen, Denmark.
+   [Fahrion, Anna S.; Rakovac, Ivo] WHO, Reg Off Europe, DK-2100 Copenhagen, Denmark.
+   [Newman, Lori] WHO, CH-1211 Geneva, Switzerland.
+   [Teixeira, Carolina Maria] ARS Norte, Oporto, Portugal.
+   [Felicio, Manuela Mendonca; de Lima, Graca Maria Ferreira; Machado, Vasco Manuel Pedro] IP Dept Saude Publ, Oporto, Portugal.
+   [Fernandes, Jefferson G.] German Hosp Oswaldo Cruz, Inst Educ & Sci, Sao Paulo, Brazil.
+   [Foigt, Nataliya] Ukraine Acad Med Sci, Inst Gerontol, UA-252655 Kiev, Ukraine.
+   [Franklin, Richard C.] James Cook Univ, Townsville, Qld 4811, Australia.
+   [Gambashidze, Ketevan; Kazanjan, Konstantin; Kereselidze, Maia; Shakh-Nazarova, Marina; Sturua, Lela] Natl Ctr Dis Control & Publ Hlth, Tbilisi, Rep of Georgia.
+   [Gankpe, Fortune Gbetoho] Clin Cooperat Parakou, Parakou, Borgou, Benin.
+   [Garcia, Ana Cristina] Publ Hlth Unit Primary Hlth Care Grp Almada Seixa, Almada, Setubal, Portugal.
+   [Geleijnse, Johanna M.] Wageningen Univ, Div Human Nutr, NL-6700 AP Wageningen, Netherlands.
+   [Gessner, Bradford D.] Agence Med Prevent, Paris, France.
+   [Lloyd, Belinda K.] Eastern Hlth Clin Sch, Melbourne, Vic, Australia.
+   [Gibney, Katherine B.; Thrift, Amanda G.] Monash Univ, Melbourne, Vic 3004, Australia.
+   [Gillum, Richard F.] Howard Univ, Washington, DC 20059 USA.
+   [Inoue, Manami] Grad Sch Med, Tokyo, Japan.
+   [Kawakami, Norito] Sch Publ Hlth, Tokyo, Japan.
+   [Gilmour, Stuart; Shibuya, Kenji] Univ Tokyo, Tokyo, Japan.
+   [Ginawi, Mohamed] Univ Hail, Coll Med, Hail, Saudi Arabia.
+   [Giroud, Maurice] Univ Hosp Dijon, Dijon France, Region Of Burgo, France.
+   [Glaser, Elizabeth L.; Halasa, Yara A.; Idrisov, Bulat T.; Shahraz, Saeid; Shepard, Donald S.; Undurraga, Eduardo A.] Brandeis Univ, Waltham, MA USA.
+   [Gosselin, Richard A.; Kazi, Dhruv S.] Univ Calif San Francisco, San Francisco, CA 94143 USA.
+   [Goto, Atsushi] Natl Ctr Global Hlth & Med, Dept Diabet Res, Tokyo, Japan.
+   [Gugnani, Harish Chander] St James Sch Med, Kralendijk, Bonaire, Netherlands.
+   [Guinovart, Caterina] PATH, Seattle, WA USA.
+   [Gunnell, David] Univ Bristol, Bristol, Avon, England.
+   [Gupta, Rahul] Fortis Escorts Hosp, Jaipur, Rajasthan, India.
+   [Gupta, Rajeev] Kanawha Charleston Hlth Dept, Charleston, WV USA.
+   [Thurston, George D.] NYU, Nelson Inst Environm Med, Tuxedo Pk, NY USA.
+   [Hagan, Holly] NYU, New York, NY USA.
+   [Hamadeh, Randah Ribhi] Arabian Gulf Univ, Manama, Bahrain.
+   [Hammami, Mouhanad] Wayne Cty Dept Hlth & Human Serv, Detroit, MI USA.
+   [Harewood, Heather] Eunice Gibson Polyclin, Bridgetown, St Michael, Barbados.
+   [Haro, Josep Maria] Univ Barcelona, CIBERSAM, Barcelona, Spain.
+   [Hay, Roderick J.] Int Fdn Dermatol, London, England.
+   [Hedayati, Mohammad T.] Mazandaran Univ Med Sci, Sari, Mazandaran, Iran.
+   [Hijar, Martha] Fdn Entornos AC, Cuernavaca, Morelos, Mexico.
+   [Hoek, Hans W.] Parnassia Psychiat Inst, The Hague, Netherlands.
+   [Hoffman, Howard J.] Natl Inst Deafness & Other Commun Disorders, NIH, Bethesda, MD USA.
+   [Hornberger, John C.] Cedar Associates, Menlo Pk, CA USA.
+   [Hosgood, H. Dean] Albert Einstein Coll Med, Bronx, NY 10467 USA.
+   [Hossain, Mazeda; Larson, Heidi J.; Mckee, Martin; Pearce, Neil; Roberts, Bayard; Stoeckl, Heidi; Tillmann, Taavi] London Sch Hyg & Trop Med, London WC1, England.
+   [Hotez, Peter J.] Baylor Coll Med, Houston, TX 77030 USA.
+   [Hoy, Damian G.] Secretariat Pacific Commun, Publ Hlth Div, Herston, Qld, Australia.
+   [Hsairi, Mohamed] Natl Inst Publ Hlth MOH, Tunis, Tunisia.
+   [Hu, Guoqing] Univ Toronto, Toronto, ON, Canada.
+   [Hu, Guoqing] Cent S Univ, Changsha, Hunan, Peoples R China.
+   [Huffman, Mark D.] Feinberg Sch Med, Chicago, IL USA.
+   [Swaroop, Mamta] Northwestern Univ, Chicago, IL 60611 USA.
+   [Husseini, Abdullatif] Qatar Univ, Publ Hlth Program, Birzeit, Ramallah, Israel.
+   [Iburg, Kim M.] Aarhus Univ, Aarhus, Denmark.
+   [Ikeda, Nayu] Natl Inst Hlth & Nutr, Bunkyo Ku, Tokyo 162, Japan.
+   [Innos, Kaire; Leinsalu, Mall] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Islami, Farhad] Amer Canc Soc, New York, NY USA.
+   [Ismayilova, Samaya] Self Employed, Baku, Azerbaijan.
+   [Jacobsen, Kathryn H.] George Mason Univ, Fairfax, VA 22030 USA.
+   [Jassal, Simerjot] VA San Diego, San Diego, CA USA.
+   [Jayaraman, Sudha P.] Virginia Commonwealth Univ, Richmond, VA USA.
+   [Jha, Vivekanand] Postgrad Inst Med Educ & Res, Chandigarh 160012, India.
+   [Jiang, Guohong] Tianjin Ctr Dis Control & Prevent, Tianjin, Peoples R China.
+   [Jiang, Ying] Univ Occupat & Environm Hlth, Inst Ind Ecol Sci, Dept Hlth Dev, Dept Environm Epidemiol, Kitakyushu, Fukuoka 807, Japan.
+   [Jonas, Jost B.] Heidelberg Univ, Med Fac Mannheim, Dept Ophthalmol, Mannheim, Germany.
+   [Juel, Knud] Natl Inst Publ Hlth, Copenhagen, Denmark.
+   [Kabagambe, Edmond Kato; Sampson, Uchechukwu] Vanderbilt Univ, Nashville, TN 37235 USA.
+   Univ Balamand, Beirut, Lebanon.
+   [Karch, Andre] Helmholtz Ctr Infect Res, Braunschweig, Germany.
+   [Karch, Andre] German Ctr Infect Res DZIF, Braunschweig, Germany.
+   [Karimkhani, Chante] Columbia Univ, Coll Phys & Surg, New York, NY USA.
+   [Moran, Andrew E.] Columbia Univ, New York, NY USA.
+   [Karthikeyan, Ganesan; Paul, Vinod K.] All India Inst Med Sci, New Delhi, India.
+   [Kaul, Anil] Oklahoma State Univ, Tulsa, OK USA.
+   [Kengne, Andre Pascal; Matzopolous, Richard] South African Med Res Council, Cape Town, Western Cape, South Africa.
+   [Keren, Andre] Hadassah Kerem Univ Hosp, Jerusalem, Israel.
+   [Khader, Yousef Saleh] Jordan Univ Sci & Technol, Irbid, Jordan.
+   [Khalifa, Shams Eldin Ali Hassan] Supreme Council Hlth, Doha, Qatar.
+   [Khan, Ejaz Ahmed] Hlth Serv Acad, Islamabad, Punjab, Pakistan.
+   [Khan, Gulfaraz] UAE Univ, Abu Dhabi, U Arab Emirates.
+   [Khang, Young-Ho] Seoul Natl Univ, Coll Med, Inst Hlth Policy & Management, Seoul, South Korea.
+   [Kieling, Christian] Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+   [Kim, Daniel] Northeastern Univ, Boston, MA 02115 USA.
+   [Kim, Sungroul] Soonchunhyang Univ, Asan, South Korea.
+   [Kinfu, Yohannes] Univ Canberra, Canberra, ACT 2601, Australia.
+   [Kokubo, Yoshihiro] Natl Cerebral & Cardiovasc Ctr, Dept Prevent Cardiol, Suita, Osaka, Japan.
+   [Kosen, Sowarta] Ctr Community Empowerment Hlth Policy & Humanitie, Jakarta, Indonesia.
+   [Warouw, Tati Suryati] NIHRD, Jakarta, Special Provinc, Indonesia.
+   [Kravchenko, Michael A.; Varakin, Yuri Y.] Res Ctr Neurol, Moscow, Russia.
+   [Krishnaswami, Sanjay] Oregon Hlth & Sci Univ, Portland, OR 97201 USA.
+   [Krishnaswami, Sanjay] Oregon Hlth & Sci Univ, Portland, OR 97201 USA.
+   [Defo, Barthelemy Kuate] Univ Montreal, Montreal, PQ, Canada.
+   [Polinder, Suzanne] Dept Publ Hlth, Rotterdam, Netherlands.
+   [Kuipers, Ernst J.; Richardus, Jan Hendrik] Erasmus MC Univ Med Ctr, Rotterdam, Netherlands.
+   [Kulkarni, Chanda] Rajrajeshwari Med Coll & Hosp, Bangalore, Karnataka, India.
+   [Kulkarni, Veena S.] Arkansas State Univ, State Univ, AR 72467 USA.
+   [Kumar, Kaushalendra] Int Inst Populat Sci, Bombay, Maharashtra, India.
+   [Kwan, Gene F.] Boston Med Ctr, Boston, MA USA.
+   [Lai, Taavi] Fourth View Consulting, Tallinn, Estonia.
+   [Lalloo, Ratilal] Australian Res Ctr Populat Oral Hlth, Gold Coast, Qld, Australia.
+   [Lalloo, Ratilal] Univ Adelaide, Sch Dent, Gold Coast, Qld, Australia.
+   [Lallukka, Tea] Finnish Inst Occupat Hlth, Helsinki, Finland.
+   [Lallukka, Tea] Univ Helsinki, Fac Med, Hjelt Inst, FIN-00014 Helsinki, Finland.
+   [Lan, Qing] NCI, Rockville, MD USA.
+   [Lansingh, Van C.] IAPB & Vis 2020 LA, Weston, FL USA.
+   [Lavados, Pablo M.] Univ Desarrollo, Serv Neurol Clin Alemana, Santiago, RM, Chile.
+   [Lawrynowicz, Alicia E. B.; Silva, Andrea P.; Ubeda, Clotilde] Inst Nacl Epidemiol Dr Juan H Jara, Buenos Aires, DF, Argentina.
+   [Leasher, Janet L.] Nova SE Univ, Ft Lauderdale, FL 33314 USA.
+   [Lee, Jong-Tae; Yoon, Seok-Jun] Korea Univ, Seoul, South Korea.
+   [Leung, Ricky] SUNY Albany, Rensselaer, NY USA.
+   [Zhang, Yong] Dept Gerontol, Jinan, Shandong, Peoples R China.
+   [Li, Bin] Jinan Cent Hosp, Jinan, Shandong, Peoples R China.
+   [Li, Yichong] Genentech Inc, San Francisco, CA USA.
+   [Lipshultz, Steven E.] Wayne State Univ, Miami, FL USA.
+   [Lloyd, Belinda K.; Room, Robin] Eastern Hlth, Turning Point Alcohol & Drug Ctr, Fitzroy, Vic, Australia.
+   [Logroscino, Giancarlo] Univ Bari, Bari, Italy.
+   Australian Natl Univ, Canberra, ACT, Australia.
+   [Lunevicius, Raimundas] Aintree Univ Hosp NHS Fdn Trust, NHS Fdn Trust, Liverpool L9 7AL, Merseyside, England.
+   [Lyons, Ronan Anthony] Swansea Univ, swauni, Swansea, W Glam, Wales.
+   [Ma, Stefan] Minist Hlth Singapore, Singapore, Singapore.
+   [Mackay, Mark T.] Royal Childrens Hosp, Melbourne, Vic, Australia.
+   [Magis-Rodriguez, Carlos] Ctr Prevenc & Control VIH SIDA, Mexico City, DF, Mexico.
+   [Mahdi, Abbas A.] King Georges Med Univ, Lucknow, Uttar Pradesh, India.
+   [Mangalam, Srikanth] Tech Stand & Safety Author, Toronto, ON, Canada.
+   [Mapoma, Christopher Chabila; Masiye, Felix] Univ Zambia, Lusaka, Zambia.
+   [Marape, Marape] Botswana Baylor Childrens Clin Ctr Excellence, Gaborone, Botswana.
+   [Marcenes, Wagner] Univ London, London, England.
+   [Marzan, Melvin Barrientos] Univ East Ramon Magsaysay, Med Ctr, Quezon City, Metro Manila, Philippines.
+   [Masci, Joseph R.] Elmhurst Hosp Ctr, Mt Sinai Serv, Elmhurst, NY USA.
+   [Mashal, Mohammad Taufi Q.] Minist Publ Hlth, Kabul, Afghanistan.
+   [Mason-Jones, Amanda J.] Univ York, York YO10 5DD, N Yorkshire, England.
+   [Sliwa, Karen] Hatter Inst Cardiovasc Res Africa, Fac Hlth Sci, Cape Town, Western Cape, South Africa.
+   [Mayosi, Bongani M.] Univ Cape Town, Cape Town, Western Cape, South Africa.
+   [Mazorodze, Tasara T.] AIDC EC, Port Elizabeth, Eastern Cape, South Africa.
+   [Mckay, Abigail C.] EmergentCorp, Belize City, Belize District, Belize.
+   [Mehndiratta, Man Mohan] Janakpuri Superspecialty Hosp, Delhi, India.
+   [Meltzer, Michele] Thomas Jefferson Univ, Philadelphia, PA 19107 USA.
+   [Mendoza, Walter] UNFPA, Lima, Peru.
+   [Mensah, George A.] NHLBI, Ctr Translat Res & Implementat Sci, NIH, Bethesda, MD 20892 USA.
+   [Mhimbira, Francis A.] Ifakara Hlth Inst, Dar Es Salaam, Tanzania.
+   [Miller, Ted R.] Pacific Inst Res & Evaluat, Calverton, MD USA.
+   [Miller, Ted R.] Curtin Univ, Ctr Populat Hlth Res, Perth, WA 6845, Australia.
+   [Mills, Edward J.] Univ Ottawa, Ottawa, ON, Canada.
+   [Mishra, Santosh K.] SNDT Womens Univ, Populat Educ Resource Ctr, Dept Continuing & Adult Educ & Extens, Bombay, Maharashtra, India.
+   [Moffitt, Terrie E.] Duke Univ, Durham, NC USA.
+   [Ibrahim, Norlinah Mohamed] Univ Kebangsaan Malaysia, Med Ctr, Dept Med, Kuala Lumpur, Malaysia.
+   [Mohammad, Karzan Abdulmuhsin] Univ Salahaddin, Erbil, Iraq.
+   [Mola, Glen Liddell] Univ Papua New Guinea, Port Moresby, NCD, Papua N Guinea.
+   [Monasta, Lorenzo; Montico, Marcella; Ronfani, Luca] Inst Maternal & Child Health IRCCS Burlo Garofolo, Trieste, Italy.
+   [Monis, Jonathan de la Cruz] Bur Int Hlth Cooperat, Manila, Philippines.
+   [Moore, Ami R.] Univ N Texas, Denton, TX 76203 USA.
+   [Mori, Rintaro] Natl Ctr Child Hlth & Dev, Tokyo, Japan.
+   [Tsilimbaris, Miltiadis] Dept Med, Iraklion, Greece.
+   [Moschandreas, Joanna] Univ Crete, Iraklion, NE, Greece.
+   [Moturi, Wilkister Nyaora] Egerton Univ, Egerton, Rift Valley, Kenya.
+   [Mozaffarian, Dariush] Tufts Univ, Friedman Sch Nutr Sci & Policy, Boston, MA 02111 USA.
+   [Mueller, Ulrich O.] Univ Marburg, Marburg, Germany.
+   [Mukaigawara, Mitsuru] Tokyo Med & Dent Univ, Bunkyo Ku, Tokyo, Japan.
+   [Naheed, Aliya] Int Ctr Diarrhoeal Dis Res, Dhaka 1000, Bangladesh.
+   [Naidoo, Kovin S.] Univ KwaZulu Natal, Durban, KwaZulu Natal, South Africa.
+   [Naldi, Luigi] Azienda Osped Papa Giovanni XXIII, Bergamo, Italy.
+   [Nand, Devina] Minist Hlth Fiji, Suva, Fiji.
+   [Nangia, Vinay] Suraj Eye Inst, Nagpur, Maharashtra, India.
+   [Nash, Denis] CUNY, Sch Publ Hlth, New York, NY 10021 USA.
+   [Nasher, Jamal] Minist Publ Hlth & Populat, Sanaa, Yemen.
+   [Nejjari, Chakib] Fac Med, Fes, Morocco.
+   [Nelson, Robert G.] Natl Inst Diabet & Digest & Kidney Dis, Phoenix, AZ USA.
+   [Neuhouser, Marian; Newcomb, Polly A.] Fred Hutchinson Canc Res Ctr, Seattle, WA 98104 USA.
+   [Neupane, Sudan Prasad] Univ Oslo, Norwegian Ctr Addict Res SERAF, N-0316 Oslo, Norway.
+   [Ngalesoni, Frida Namnyak] Minist Hlth & Social Welf, Dar Es Salaam, Tanzania.
+   [Norrving, Bo] Lund Univ, Fac Med, Dept Clin Sci, Lund, Sweden.
+   [O'Donnell, Martin] Natl Univ Ireland Galway, Galway, Ireland.
+   [Ohkubo, Takayoshi] Teikyo Univ, Sch Med, Tokyo 173, Japan.
+   [Olusanya, Bolajoko O.] Ctr Hlth Start Initiat, Lagos, Nigeria.
+   [Opio, John Nelson] Lira Municipal Council, Lira Dist Local Govt, Northern Uganda, Uganda.
+   [Orisakwe, Orish Ebere] Univ Port Harcourt, Fac Pharm, Toxicol Unit, Port Harcourt, Rivers State, Nigeria.
+   [Ortiz, Alberto] IIS Fdn Jimenez Diaz, Madrid, Spain.
+   [Otayza, Maria Lourdes K.] Mariano Marcos Mem Hosp, City Of Batac, Ilocos Norte, Philippines.
+   [Otayza, Maria Lourdes K.] Med Ctr, City Of Batac, Ilocos Norte, Philippines.
+   [Pandian, Jeyaraj D.] Christian Med Coll Ludhiana, Ludhiana, Punjab, India.
+   [Panniyammakal, Jeemon] Ctr Chron Dis Control, Delhi, India.
+   [Patten, Scott B.; Wang, JianLi] Univ Calgary, Calgary, AB, Canada.
+   [Pavlin, Boris] Independent Researcher, Waigani, NCD, Papua N Guinea.
+   [Pereira, David M.] Univ Porto, REQUIMTE, Fac Farm, Dept Quim,Lab Farmacognosia, P-4100 Oporto, Portugal.
+   [Peresson, Sophie C.] Int Diabet Federat, Brussels, Belgium.
+   [Perez-Ruiz, Fernando P.] Hosp Univ Cruces, Baracaldo, Spain.
+   [Pervaiz, Aslam] Postgrad Med Inst, Lahore, Punjab, Pakistan.
+   [Pesudovs, Konrad] Flinders Univ S Australia, Adelaide, SA 5001, Australia.
+   [Peterson, Carrie B.] Aalborg Univ, Aalborg, Denmark.
+   [Petzold, Max] Univ Gothenburg, Sahlgrenska Acad, Ctr Appl Biostat, Gothenburg, Sweden.
+   [Phillips, Michael R.] Shanghai Jiao Tong Univ, Shanghai 200030, Peoples R China.
+   [Plass, Dietrich] Fed Environm Agcy, Exposure Assessment & Environm Hlth Indicators, Bielefeld, North Rhine Wes, Germany.
+   [Poenaru, Dan] McMaster Univ, Hamilton, ON, Canada.
+   [Popova, Svetlana] Ctr Addict & Mental Hlth, Toronto, ON, Canada.
+   [Prabhakaran, Dorairaj] Ctr Chron Dis Control, Delhi, India.
+   [Qato, Dima] Univ Illinois, Coll Pharm, Chicago, IL USA.
+   [Tabb, Karen M.] Univ Illinois, Chicago, IL USA.
+   [Rabito, Felicia] Tulane Univ, Sch Publ Hlth & Trop Med, New Orleans, LA USA.
+   [Rafay, Anwar] Contech Intl, Lahore, Punjab, Pakistan.
+   [Rahman, Sajjad U. R.] Hamad Med Corp, Doha, Qatar.
+   [Raju, Murugesan] Univ Missouri, Columbia, MS USA.
+   [Rana, Saleem M.] Univ Punjab, Dept Publ Hlth, Lahore, Punjab, Pakistan.
+   [Refaat, Amany] Walden Univ, Minneapolis, MN USA.
+   [Ribeiro, Antonio L.] Univ Fed Minas Gerais, Hosp Clin, Belo Horizonte, MG, Brazil.
+   [Ricci, Stefano] UO Neurol USL Umbria 1, Perugia, Italy.
+   [Riccio, Patricia M.] Univ Western Ontario, Dept Clin Neurol Sci, London Hlth Sci Ctr, London, ON, Canada.
+   [Roca, Anna] MRC Unit, Fajara, Gambia.
+   [Rojas-Rueda, David] Ctr Res Environm Epidemiol CREAL, Barcelona, Catalonia, Spain.
+   [Rothenbacher, Dietrich] Univ Ulm, Inst Epidemiol & Med Biometry, D-89069 Ulm, Germany.
+   [Rothstein, David H.] Ann & Robert H Lurie Childrens Hosp Chicago, Chicago, IL USA.
+   [Roy, Nobhojit] BARC Hosp, Bombay, Maharashtra, India.
+   [Ruhago, George M.; Sunguya, Bruno F.] Muhimbili Univ Hlth & Allied Sci, Dar Es Salaam, Tanzania.
+   Rwanda Biomed Ctr, Kigali, Rwanda.
+   [Soreide, Kjetil] Stavanger Univ Hosp, Stavanger, Norway.
+   [Saha, Sukanta] Queensland Ctr Mental Hlth Res, Brisbane, Qld, Australia.
+   [Sahathevan, Ramesh] UKM Med Ctr, Kuala Lumpur, Malaysia.
+   [Samonte, Genesis May J.] Natl Epidemiol Ctr, HIV AIDS & STI Surveillance & Strateg Informat Un, Dept Hlth, Manila, National Capita, Philippines.
+   [Sanabria, Juan Ramon] Case Western Reserve Univ, Cleveland, OH 44106 USA.
+   [Sawhney, Monika] Marshall Univ, Huntington, WV USA.
+   [Saylan, Mete] Novartis, Istanbul, Turkey.
+   [Schoettker, Ben] German Canc Res Ctr, Div Clin Epidemiol & Aging Res, Heidelberg, Baden Wurttembe, Switzerland.
+   [Schneider, Ione J. C.] Univ Fed Santa Catarina, Florianopolis, SC, Brazil.
+   [Schwebel, David C.; Singh, Jasvinder A.] Univ Alabama Birmingham, Birmingham, AL USA.
+   [Shaheen, Amira] An Najah Univ, Nablus, Palestine, Israel.
+   [Shinohara, Yukito] Tachikawa Hosp, Tokyo, Japan.
+   [Shishani, Kawkab] Washington State Univ, Spokane, WA USA.
+   [Shiue, Ivy] Heriot Watt Univ, Edinburgh, Midlothian, Scotland.
+   [Shivakoti, Rupak] Ctr Clin Global Hlth Educ, Baltimore, MD USA.
+   [Tran, Bach X.] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Sigfusdottir, Inga Dora] Reykjavik Univ, Reykjavik, Iceland.
+   [Soneji, Samir] Dartmouth Coll, Lebanon, NH 03756 USA.
+   [Soshnikov, Sergey S.] Minist Hlth Russian Federat, Fed Res Inst Hlth Org & Informat, Moscow, Russia.
+   [Sposato, Luciano A.] Univ Western Ontario, Dept Clin Neurol Sci, London, ON, Canada.
+   [Sreeramareddy, Chandrashekhar T.] Univ Tunku Abdul Rahman, Fac Med & Hlth Sci, Kajang, Selangor, Malaysia.
+   [Stathopoulou, Vasiliki Kalliopi] Ctr Hosp Nord Deux Sevres, Bressuire, France.
+   [Straif, Kurt] IARC WHO, Lyon, France.
+   [Stroumpoulis, Konstantinos] Alexandra Gen Hosp Athens, KEELPNO, Ctr Dis Control, Athens, Greece.
+   [Swaminathan, Soumya] Natl Inst Res TB, Madras, Tamil Nadu, India.
+   [Sykes, Bryan L.] Univ Calif Irvine, Dept Criminol Law & Soc & Sociol, Irvine, CA USA.
+   [Takahashi, Ken] Univ Occupat & Environm Hlth, Inst Ind Ecol Sci, Dept Environm Epidemiol, Kitakyushu, Fukuoka 807, Japan.
+   [Talongwa, Roberto Tchio] Minist Hlth MINSANTE, Yaounde, Cameroon.
+   [Tanne, David] Chaim Sheba Med Ctr, IL-52621 Tel Hashomer, Israel.
+   [Tanne, David] Tel Aviv Univ, Tel Hashomer, Israel.
+   [Tavakkoli, Mohammad] Westchester Med Ctr, Valhalla, NY USA.
+   [Ao, Braden Te] Auckland Univ Technol, Auckland, New Zealand.
+   Jhpiego, Addis Ababa, Ethiopia.
+   [Tenkorang, Eric Yeboah] Mem Univ Newfoundland, St John, NF, Canada.
+   [Terkawi, Abdullah Sulieman] Univ Virginia, Dept Anesthesiol, Charlottesville, VA USA.
+   [Terkawi, Abdullah Sulieman; Tleyjeh, Imad M.] King Fahad Med City, Dept Anesthesiol, Riyadh, Saudi Arabia.
+   [Thorne-Lyman, Andrew L.] WorldFish, New York, NY USA.
+   [Tleyjeh, Imad M.] Alfasial Univ, Coll Med, Riyadh, Saudi Arabia.
+   [Tonelli, Marcello] Univ Alberta, Edmonton, AB, Canada.
+   [Topouzis, Fotis] Aristotle Univ Thessaloniki, GR-54006 Thessaloniki, Greece.
+   [Towbin, Jeffrey A.] Cincinnati Childrens Hosp Med Ctr, Cincinnati, OH 45229 USA.
+   [Toyoshima, Hideaki] Hlth Care Ctr Anjo Kosei Hosp, Anjo, Aichi, Japan.
+   [Traebert, Jefferson] Univ Southern Santa Catarina, Palhoca, SC, Brazil.
+   [Truelsen, Thomas] Univ Copenhagen, Herlev Hosp, Dept Neurol, Copenhagen, Denmark.
+   [Trujillo, Ulises] Serv Canario Salud, Tenerife, Spain.
+   [Dimbuene, Zacharie Tsala] Univ Kinshasa, Fac Econ & Management, Dept Populat Sci & Dev, Kinshasa, Zaire.
+   [Ukwaja, Kingsley N.] Fed Teaching Hosp Abakaliki, Dept Internal Med, Abakailiki, Ebonyi State, Nigeria.
+   [van de Vijver, Steven] African Populat & Hlth Res Ctr, Nairobi, Kenya.
+   [van Gool, Coen H.] Natl Inst Publ Hlth & Environm, NL-3720 BA Bilthoven, Netherlands.
+   [Vasankari, Tommi J.] UKK Inst Hlth Promot Res, Tampere, Finland.
+   [Vasconcelos, Ana Maria Nogales] Univ Brasilia, Brasilia, DF, Brazil.
+   [Venketasubramanian, N.] Raffles Hosp, Ctr Neurosci, Singapore, Singapore.
+   [Vijayakumar, Lakshmi] Voluntary Hlth Serv, Madras, Tamil Nadu, India.
+   [Violante, Francesco S.] Univ Bologna, Bologna, Italy.
+   [Vlassov, Vasiliy Victorovich] Higher Sch Econ, Moscow, Russia.
+   [Wagner, Gregory R.] Natl Inst Occupat Safety & Hlth, Washington, DC USA.
+   [Waller, Stephen G.] Uniformed Serv Univ Hlth Sci, Bethesda, MD 20814 USA.
+   [Wang, Yanping; Zhu, Jun] Natl Off Maternal & Childs Hlth Surveillance, Chengdu, Peoples R China.
+   [Weichenthal, Scott] Hlth Canada, Ottawa, ON K1A 0L2, Canada.
+   [Weintraub, Robert G.] Royal Childrens Hosp, Murdoch Childrens Res Inst, Melbourne, Vic, Australia.
+   [Wenzhi, Wang] Beijing Neurosurg Inst, Beijing, Peoples R China.
+   [Werdecker, Andrea] Inst Med Sociol & Social Med, Marburg, Hessen, Germany.
+   [Wessells, K. Ryan R.] Univ Calif Davis, Davis, CA 95616 USA.
+   [Wilkinson, James D.] Univ Miami, Miami, FL USA.
+   [Woldeyohannes, Solomon Meseret] Univ Gondar, Inst Publ Hlth, Gondar, Amhara, Ethiopia.
+   [Wong, John Q.] Ateneo Sch Med & Publ Hlth, Pasig, Metro Manila, Philippines.
+   [Woolf, Anthony D.] Royal Cornwall Hosp, Truro, Cornwall, England.
+   [Xu, Gelin] Nanjing Univ, Sch Med, Jinling Hosp, Nanjing 210008, Jiangsu, Peoples R China.
+   [Yang, Yang C.] Univ N Carolina, Chapel Hill, NC USA.
+   [Yano, Yuichiro] Jichi Med Univ, Sch Med, Div Cardiovasc Med, Shimotsuke, Tochigi, Japan.
+   [Yatsuya, Hiroshi] Fujita Hlth Univ, Toyoake, Aichi, Japan.
+   [Yip, Paul] Univ Hong Kong, Hong Kong, Hong Kong, Peoples R China.
+   [Yonemoto, Naohiro] Natl Ctr Neurol & Psychiat, Tokyo, Japan.
+   [Younis, Mustafa] Jackson State Univ, Jackson, MS USA.
+   [Yu, Chuanhua] Wuhan Univ, Sch Publ Hlth, Global Hlth Inst, Dept Epidemiol & Biostat, Wuhan 430072, Hubei, Peoples R China.
+   [Jin, Kim Yun] TCM Med TK SDN BHD, Nusajaya, Johor Bahru, Malaysia.
+   [Zaki, Maysaa El Sayed] Mansoura Fac Med, Mansoura, Egypt.
+   [Zamakhshary, Mohammed Fouad] Minist Planning & Training, Riyadh, Saudi Arabia.
+   [Zeeb, Hajo] Leibniz Inst Prevent Res & Epidemiol BIPS, Bremen, Germany.
+   [Zhao, Yong] Chongqing Med Univ, Chongqing, Peoples R China.
+   [Zheng, Yingfeng] Sun Yat Sen Univ, Zhongshan Ophthalm Ctr, Guangzhou 510275, Guangdong, Peoples R China.
+   [Zhu, Shankuan] Zhejiang Univ, Sch Publ Hlth, Hangzhou 310003, Zhejiang, Peoples R China.
+   [Zonies, David] Landstuhl Reg Med Ctr, Landstuhl, NY USA.
+   [Zou, Xiao Nong] Chinese Acad Med Sci, Canc Inst Hosp, Beijing 100730, Peoples R China.
+RP Murray, CJL (reprint author), 2301 5th Ave,Suite 600, Seattle, WA 98121 USA.
+EM cjlm@uw.edu
+RI Ribeiro, Antonio/C-2707-2009; CSTFA, ResearcherID/P-1067-2014; Nolte,
+   Sandra/B-7498-2008; Hankey, Graeme /H-4968-2014; Research ID, CTBCC
+   /O-3564-2014; Moffitt, Terrie/D-5295-2011; Ronfani, Luca/B-6668-2013;
+   Ameli, Omid/G-1583-2013; Rakovac, Ivo/A-7678-2013; Tanne,
+   David/F-2560-2010; Adsuar, Jose C/C-6558-2008; Majdan,
+   Marek/K-5017-2012; Castro, Ruben/J-1948-2015; Whiteford,
+   Harvey/A-4840-2009; Tonelli, Marcello/B-3028-2009; Rahimi,
+   Kazem/Q-1279-2015; Haro, Josep Maria/D-1423-2011; Degenhardt,
+   Louisa/D-4515-2012; Kaul, Anil/B-2075-2016; Carabin, Helene/B-7600-2016;
+   Patten, Scott/B-4434-2011; Monasta, Lorenzo/B-1388-2012; Sepanlou,
+   Sadaf/H-9343-2016; Kravchenko, Michael/B-2596-2012; LOGROSCINO,
+   GIANCARLO/K-5148-2016; Charlson, Fiona/F-5290-2011; McGrath,
+   John/G-5493-2010; wang, YA XING/K-9671-2016; Naldi, Luigi/K-6343-2016;
+   Thrift, Amanda/I-6251-2012; Weiderpass, Elisabete/M-4029-2016; Dokova,
+   Klara/N-2448-2016; Montico, Marcella/B-5290-2013; Jacobsen,
+   Kathryn/B-5857-2008; Lalloo, Ratilal/O-5624-2014; Tillmann,
+   Taavi/R-6026-2016; Soshnikov, Sergey/R-7352-2016; Salomon,
+   Joshua/D-3898-2009; Beyene, Tariku Jibat/A-6875-2017; Santos,
+   Itamar/K-7055-2012; Patton, George/B-5246-2013; Varakin,
+   Yuriy/C-8634-2012; Brenner, Hermann/B-4627-2017; Alsharif,
+   Ubai/C-6527-2017; Amini, Heresh/B-3076-2010; Lotufo, Paulo/A-9843-2008;
+   Karch, Andre/D-6973-2017; Hedayati, Mohammad T./E-2304-2017; Franklin,
+   Richard/H-1731-2012; Ermakov, Sergey/G-1709-2016; Pereira,
+   David/M-9286-2013; NORMAN, ROSANA/F-2774-2010; Kuate Defo,
+   Barthelemy/I-4818-2017; Hay, Simon/F-8967-2015; Newton, 21/B-7578-2014;
+   Scott, James/D-5900-2012; Higashi, Hideki/D-3797-2011; Lavados,
+   Pablo/E-9918-2016; Undurraga, Eduardo/I-3739-2014
+OI Ribeiro, Antonio/0000-0002-2740-0042; Nolte, Sandra/0000-0001-6185-9423;
+   Hankey, Graeme /0000-0002-6044-7328; Moffitt,
+   Terrie/0000-0002-8589-6760; Ronfani, Luca/0000-0001-5710-3914; Ameli,
+   Omid/0000-0001-7878-0551; Rakovac, Ivo/0000-0003-3462-2636; Tanne,
+   David/0000-0002-6699-2220; Adsuar, Jose C/0000-0001-7203-3168; Majdan,
+   Marek/0000-0001-8037-742X; Whiteford, Harvey/0000-0003-4667-6623;
+   Rahimi, Kazem/0000-0002-4807-4610; Haro, Josep
+   Maria/0000-0002-3984-277X; Degenhardt, Louisa/0000-0002-8513-2218;
+   Patten, Scott/0000-0001-9871-4041; Monasta, Lorenzo/0000-0001-7774-548X;
+   Sepanlou, Sadaf/0000-0002-3669-5129; Kravchenko,
+   Michael/0000-0001-5187-5518; LOGROSCINO, GIANCARLO/0000-0003-0423-3242;
+   Charlson, Fiona/0000-0003-2876-5040; McGrath, John/0000-0002-4792-6068;
+   wang, YA XING/0000-0003-2749-7793; Naldi, Luigi/0000-0002-3160-2835;
+   Thrift, Amanda/0000-0001-8533-4170; Weiderpass,
+   Elisabete/0000-0003-2237-0128; Montico, Marcella/0000-0003-0377-8232;
+   Jacobsen, Kathryn/0000-0002-4198-6246; Lalloo,
+   Ratilal/0000-0001-5822-1269; Tillmann, Taavi/0000-0002-8428-3719;
+   Soshnikov, Sergey/0000-0002-6983-7066; Salomon,
+   Joshua/0000-0003-3929-5515; Beyene, Tariku Jibat/0000-0002-7474-1966;
+   Santos, Itamar/0000-0003-3212-8466; Patton, George/0000-0001-5039-8326;
+   Brenner, Hermann/0000-0002-6129-1572; Alsharif,
+   Ubai/0000-0002-4024-3950; Amini, Heresh/0000-0002-4825-1322; Lotufo,
+   Paulo/0000-0002-4856-8450; Karch, Andre/0000-0003-3014-8543; Hedayati,
+   Mohammad T./0000-0001-6415-4648; Franklin, Richard/0000-0003-1864-4552;
+   Ermakov, Sergey/0000-0003-1072-1162; Pereira, David/0000-0003-0384-7592;
+   NORMAN, ROSANA/0000-0002-9742-1957; Kuate Defo,
+   Barthelemy/0000-0002-6589-0564; Hay, Simon/0000-0002-0611-7272; Newton,
+   21/0000-0002-6999-5507; Scott, James/0000-0002-0744-0688; Bohensky,
+   Megan/0000-0001-8370-1408; Khan, Ejaz/0000-0002-7072-8035; Hagstromer,
+   Maria/0000-0002-4607-8677; Bikbov, Boris/0000-0002-1925-7506;
+   MacLachlan, Jennifer/0000-0002-7654-4536; Gibney,
+   Katherine/0000-0001-5851-5339; Stockl, Heidi/0000-0002-0907-8483; Kwan,
+   Gene/0000-0002-0929-6800; Piel, Frederic B./0000-0001-8131-7728;
+   Higashi, Hideki/0000-0002-5534-0905; Lavados, Pablo/0000-0002-9118-9093;
+   Ukwaja, Kingsley N./0000-0002-1974-8735; Naghavi,
+   Paria/0000-0002-8908-7952; Davis, Adrian/0000-0001-7134-7528; Banerjee,
+   Amitava/0000-0001-8741-3411; Hotez, Peter/0000-0001-8770-1042; Abubakar,
+   Ibrahim/0000-0002-0370-1430; Schottker, Ben/0000-0002-1217-4521;
+   Pourmalek, Farshad/0000-0002-2134-0771; Undurraga,
+   Eduardo/0000-0002-4425-1253; Balakrishnan, Kalpana/0000-0002-5905-1801;
+   Paternina-Caicedo, Angel/0000-0002-6332-5174; Cowie,
+   Benjamin/0000-0002-7087-5895; O'Donnell, Martin/0000-0002-7347-7761;
+   O'donnell, Colm/0000-0002-8004-450X; Rodriguez,
+   Alina/0000-0003-1209-8802; Mhimbira, Francis/0000-0001-8989-6832; Tabb
+   Dina, Karen/0000-0002-4722-9502; Xu, Gelin/0000-0002-6194-0341; Goto,
+   Atsushi/0000-0003-0669-654X; Soreide, Kjetil/0000-0001-7594-4354;
+   Quistberg, Alex/0000-0001-9730-2686; Liu, Zhi-Hong/0000-0001-6093-0726;
+   Kieling, Christian/0000-0001-7691-4149; Sindi,
+   Shireen/0000-0002-3786-0552; Husseini, Abdullatif/0000-0001-8767-5956;
+   Benjet, Corina/0000-0002-4569-6094; Al-Shahi Salman,
+   Rustam/0000-0002-2108-9222; Prabhakaran, Dorairaj/0000-0002-3172-834X;
+   Deribe, Kebede/0000-0002-8526-6996; Khang, Young-Ho/0000-0002-9585-8266;
+   Ortiz Arduan, Alberto/0000-0002-9805-9523; Kemp,
+   Andrew/0000-0003-1146-3791; Erskine, Holly/0000-0003-3119-9211; Aboyans,
+   Victor/0000-0002-0322-9818; Brauer, Michael/0000-0002-9103-9343; Glaser,
+   Elizabeth/0000-0002-1918-057X; Chen, Honglei/0000-0003-3446-7779;
+   Perez-Ruiz, Fernando/0000-0002-5268-1894; Catala-Lopez,
+   Ferran/0000-0002-3833-9312; Wessells, K. Ryan/0000-0002-5485-7144;
+   London, Stephanie/0000-0003-4911-5290; Heydarpour,
+   Pouria/0000-0001-5644-7555; Moradi-Lakeh, Maziar/0000-0001-7381-5305;
+   Olusanya, Bolajoko/0000-0002-3826-0583; Goenka,
+   Shifalika/0000-0001-6993-2883; Norheim, Ole F./0000-0002-5748-5956;
+   Vallely, Andrew/0000-0003-1558-4822
+FU British Heart Foundation [RG/08/014/24067]; Department of Health
+   [CDF-2013-06-012, RP-PG-0407-10184]; Medical Research Council [G9806489,
+   MC_U137686851, MC_U147585819, MC_UP_A620_1014, MC_UU_12011/1,
+   MR/K006525/1, MR/L003120/1]; NCATS NIH HHS [KL2 TR001088]; NIA NIH HHS
+   [P30 AG017253]; NIEHS NIH HHS [P30 ES000260]; Wellcome Trust [089276,
+   089963, 099876]
+NR 122
+TC 1059
+Z9 1106
+U1 220
+U2 816
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD JAN 10
+PY 2015
+VL 385
+IS 9963
+BP 117
+EP 171
+DI 10.1016/S0140-6736(14)61682-2
+PG 55
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA AY7BI
+UT WOS:000347715900024
+PM 25530442
+ER
+
+PT J
+AU Zinman, B
+   Wanner, C
+   Lachin, JM
+   Fitchett, D
+   Bluhmki, E
+   Hantel, S
+   Mattheus, M
+   Devins, T
+   Johansen, OE
+   Woerle, HJ
+   Broedl, UC
+   Inzucchi, SE
+AF Zinman, Bernard
+   Wanner, Christoph
+   Lachin, John M.
+   Fitchett, David
+   Bluhmki, Erich
+   Hantel, Stefan
+   Mattheus, Michaela
+   Devins, Theresa
+   Johansen, Odd Erik
+   Woerle, Hans J.
+   Broedl, Uli C.
+   Inzucchi, Silvio E.
+CA EMPA-REG OUTCOME Investigators
+TI Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID PLACEBO-CONTROLLED TRIAL; DOUBLE-BLIND; ADD-ON; SGLT-2 INHIBITORS;
+   GLUCOSE CONTROL; PHASE-3 TRIAL; RISK; METFORMIN; MELLITUS; 24-WEEK
+AB BACKGROUND
+   The effects of empagliflozin, an inhibitor of sodium-glucose cotransporter 2, in addition to standard care, on cardiovascular morbidity and mortality in patients with type 2 diabetes at high cardiovascular risk are not known.
+   METHODS
+   We randomly assigned patients to receive 10 mg or 25 mg of empagliflozin or placebo once daily. The primary composite outcome was death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke, as analyzed in the pooled empagliflozin group versus the placebo group. The key secondary composite outcome was the primary outcome plus hospitalization for unstable angina.
+   RESULTS
+   A total of 7020 patients were treated (median observation time, 3.1 years). The primary outcome occurred in 490 of 4687 patients (10.5%) in the pooled empagliflozin group and in 282 of 2333 patients (12.1%) in the placebo group (hazard ratio in the empagliflozin group, 0.86; 95.02% confidence interval, 0.74 to 0.99; P = 0.04 for superiority). There were no significant between-group differences in the rates of myocardial infarction or stroke, but in the empagliflozin group there were significantly lower rates of death from cardiovascular causes (3.7%, vs. 5.9% in the placebo group; 38% relative risk reduction), hospitalization for heart failure (2.7% and 4.1%, respectively; 35% relative risk reduction), and death from any cause (5.7% and 8.3%, respectively; 32% relative risk reduction). There was no significant between-group difference in the key secondary outcome (P = 0.08 for superiority). Among patients receiving empagliflozin, there was an increased rate of genital infection but no increase in other adverse events.
+   CONCLUSIONS
+   Patients with type 2 diabetes at high risk for cardiovascular events who received empagliflozin, as compared with placebo, had a lower rate of the primary composite cardiovascular outcome and of death from any cause when the study drug was added to standard care.
+C1 [Zinman, Bernard] Univ Toronto, Mt Sinai Hosp, Lunenfeld Tanenbaum Res Inst, Toronto, ON M5S 1A1, Canada.
+   [Zinman, Bernard] Univ Toronto, Div Endocrinol, Toronto, ON M5S 1A1, Canada.
+   [Fitchett, David] Univ Toronto, Div Cardiol, Toronto, ON M5S 1A1, Canada.
+   [Wanner, Christoph] Wurzburg Univ Clin, Div Nephrol, Dept Med, Wurzburg, Germany.
+   [Bluhmki, Erich; Hantel, Stefan] Boehringer Ingelheim Pharma GmbH & Co KG, Biberach, Germany.
+   [Mattheus, Michaela; Woerle, Hans J.; Broedl, Uli C.] Boehringer Ingelheim Pharma GmbH & Co KG, Ingelheim, Germany.
+   [Lachin, John M.] George Washington Univ, Ctr Biostat, Rockville, MD USA.
+   [Devins, Theresa] Boehringer Ingelheim Pharmaceut Inc, Ridgefield, CT 06877 USA.
+   [Johansen, Odd Erik] Boehringer Ingelheim Norway, Asker, Norway.
+   [Inzucchi, Silvio E.] Yale Univ, Sch Med, Endocrinol Sect, New Haven, CT USA.
+RP Zinman, B (reprint author), Zinman Mt Sinai Hosp, 60 Murray St,Suite L5-024,Box 17, Toronto M5T 3L9, ON, Canada.
+EM zinman@lunenfeld.ca
+RI Zinman, Bernard/E-7266-2013
+OI Lachin, John/0000-0001-9838-2841
+FU Boehringer Ingelheim; Eli Lilly
+FX Funded by Boehringer Ingelheim and Eli Lilly; EMPA-REG OUTCOME
+   ClinicalTrials.gov number, NCT01131676.
+NR 30
+TC 740
+Z9 761
+U1 19
+U2 76
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD NOV 26
+PY 2015
+VL 373
+IS 22
+BP 2117
+EP 2128
+DI 10.1056/NEJMoa1504720
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CW9YT
+UT WOS:000365354800006
+PM 26378978
+ER
+
+PT J
+AU Inzucchi, SE
+   Bergenstal, RM
+   Buse, JB
+   Diamant, M
+   Ferrannini, E
+   Nauck, M
+   Peters, AL
+   Tsapas, A
+   Wender, R
+   Matthews, DR
+AF Inzucchi, Silvio E.
+   Bergenstal, Richard M.
+   Buse, John B.
+   Diamant, Michaela
+   Ferrannini, Ele
+   Nauck, Michael
+   Peters, Anne L.
+   Tsapas, Apostolos
+   Wender, Richard
+   Matthews, David R.
+TI Management of Hyperglycemia in Type 2 Diabetes, 2015: A Patient-Centered
+   Approach Update to a Position Statement of the American Diabetes
+   Association and the European Association for the Study of Diabetes
+SO DIABETES CARE
+LA English
+DT Article
+ID INADEQUATE GLYCEMIC CONTROL; INTENSIVE INSULIN THERAPY; GLUCAGON-LIKE
+   PEPTIDE-1; CHRONIC KIDNEY-DISEASE; BLOOD-GLUCOSE CONTROL; BASAL INSULIN;
+   DOUBLE-BLIND; CONTROLLED-TRIAL; RENAL IMPAIRMENT; PIOGLITAZONE USE
+C1 [Inzucchi, Silvio E.] Yale Univ, Yale New Haven Hosp, Sch Med, Sect Endocrinol, New Haven, CT 06520 USA.
+   [Bergenstal, Richard M.] Int Diabet Ctr Pk Nicollet, Minneapolis, MN USA.
+   [Buse, John B.] Univ N Carolina, Sch Med, Div Endocrinol, Chapel Hill, NC USA.
+   [Diamant, Michaela] Vrije Univ Amsterdam, Med Ctr, Dept Internal Med, Diabet Ctr, Amsterdam, Netherlands.
+   [Ferrannini, Ele] Univ Pisa, Sch Med, Dept Med, I-56100 Pisa, Italy.
+   [Nauck, Michael] Diabet Zentrum Bad Lauterberg, Bad Lauterberg im Harz, Germany.
+   [Peters, Anne L.] Univ So Calif, Keck Sch Med, Div Endocrinol, Los Angeles, CA 90033 USA.
+   [Tsapas, Apostolos] Aristotle Univ Thessaloniki, Dept Med 2, GR-54006 Thessaloniki, Greece.
+   [Wender, Richard] Amer Canc Soc, Atlanta, GA 30329 USA.
+   [Wender, Richard] Thomas Jefferson Univ, Jefferson Med Coll, Dept Family & Community Med, Philadelphia, PA 19107 USA.
+   [Matthews, David R.] Churchill Hosp, Oxford Ctr Diabet Endocrinol & Metab, Oxford OX3 7LJ, England.
+   [Matthews, David R.] Oxford Biomed Res Ctr, Natl Inst Hlth Res NIHR, Oxford, England.
+   [Matthews, David R.] Univ Oxford, Harris Manchester Coll, Oxford, England.
+RP Inzucchi, SE (reprint author), Yale Univ, Yale New Haven Hosp, Sch Med, Sect Endocrinol, New Haven, CT 06520 USA.
+EM silvio.inzucchi@yale.edu
+FU National Institute for Health Research
+FX The face-to-face meeting was supported by the EASD. D.R. Matthews
+   acknowledges support from the National Institute for Health Research.
+NR 62
+TC 706
+Z9 726
+U1 20
+U2 73
+PU AMER DIABETES ASSOC
+PI ALEXANDRIA
+PA 1701 N BEAUREGARD ST, ALEXANDRIA, VA 22311-1717 USA
+SN 0149-5992
+EI 1935-5548
+J9 DIABETES CARE
+JI Diabetes Care
+PD JAN
+PY 2015
+VL 38
+IS 1
+BP 140
+EP 149
+DI 10.2337/dc14-2441
+PG 10
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA AX2GT
+UT WOS:000346762300026
+PM 25538310
+ER
+
+PT J
+AU Wright, JT
+   Williamson, JD
+   Whelton, PK
+   Snyder, JK
+   Sink, KM
+   Rocco, MV
+   Reboussin, DM
+   Rahman, M
+   Oparil, S
+   Lewis, CE
+   Kimmel, PL
+   Johnson, KC
+   Goff, DC
+   Fine, LJ
+   Cutler, JA
+   Cushman, WC
+   Cheung, AK
+   Ambrosius, WT
+AF Wright, Jackson T., Jr.
+   Williamson, Jeff D.
+   Whelton, Paul K.
+   Snyder, Joni K.
+   Sink, Kaycee M.
+   Rocco, Michael V.
+   Reboussin, David M.
+   Rahman, Mahboob
+   Oparil, Suzanne
+   Lewis, Cora E.
+   Kimmel, Paul L.
+   Johnson, Karen C.
+   Goff, David C., Jr.
+   Fine, Lawrence J.
+   Cutler, Jeffrey A.
+   Cushman, William C.
+   Cheung, Alfred K.
+   Ambrosius, Walter T.
+CA SPRINT Res Grp
+TI A Randomized Trial of Intensive versus Standard Blood-Pressure Control
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID ISOLATED SYSTOLIC HYPERTENSION; CONVERTING ENZYME-INHIBITOR;
+   CORONARY-HEART-DISEASE; GLOBAL BURDEN; RISK; STROKE; METAANALYSIS;
+   OUTCOMES; OLDER; PREVENTION
+AB BACKGROUND
+   The most appropriate targets for systolic blood pressure to reduce cardiovascular morbidity and mortality among persons without diabetes remain uncertain.
+   METHODS
+   We randomly assigned 9361 persons with a systolic blood pressure of 130 mm Hg or higher and an increased cardiovascular risk, but without diabetes, to a systolic blood-pressure target of less than 120 mm Hg (intensive treatment) or a target of less than 140 mm Hg (standard treatment). The primary composite outcome was myocardial infarction, other acute coronary syndromes, stroke, heart failure, or death from cardiovascular causes.
+   RESULTS
+   At 1 year, the mean systolic blood pressure was 121.4 mm Hg in the intensive-treatment group and 136.2 mm Hg in the standard-treatment group. The intervention was stopped early after a median follow-up of 3.26 years owing to a significantly lower rate of the primary composite outcome in the intensive-treatment group than in the standard-treatment group (1.65% per year vs. 2.19% per year; hazard ratio with intensive treatment, 0.75; 95% confidence interval [CI], 0.64 to 0.89; P<0.001). All-cause mortality was also significantly lower in the intensive-treatment group (hazard ratio, 0.73; 95% CI, 0.60 to 0.90; P = 0.003). Rates of serious adverse events of hypotension, syncope, electrolyte abnormalities, and acute kidney injury or failure, but not of injurious falls, were higher in the intensive-treatment group than in the standard-treatment group.
+   CONCLUSIONS
+   Among patients at high risk for cardiovascular events but without diabetes, targeting a systolic blood pressure of less than 120 mm Hg, as compared with less than 140 mm Hg, resulted in lower rates of fatal and nonfatal major cardiovascular events and death from any cause, although significantly higher rates of some adverse events were observed in the intensive-treatment group.
+C1 [Wright, Jackson T., Jr.; Rahman, Mahboob] Case Western Reserve Univ, Univ Hosp Case Med Ctr, Div Nephrol & Hypertens, Cleveland, OH 44106 USA.
+   [Rahman, Mahboob] Louis Stokes Cleveland Vet Affairs VA, Med Ctr, Div Nephrol & Hypertens, Cleveland, OH USA.
+   [Williamson, Jeff D.; Sink, Kaycee M.] Wake Forest Sch Med, Sticht Ctr Aging, Winston Salem, NC USA.
+   [Rocco, Michael V.] Wake Forest Sch Med, Nephrol Sect, Winston Salem, NC USA.
+   [Reboussin, David M.; Ambrosius, Walter T.] Wake Forest Sch Med, Dept Biostat Sci, Winston Salem, NC USA.
+   [Whelton, Paul K.] Tulane Univ, Sch Publ Hlth & Trop Med, Dept Epidemiol, New Orleans, LA 70118 USA.
+   [Snyder, Joni K.; Fine, Lawrence J.; Cutler, Jeffrey A.] NHLBI, Clin Applicat & Prevent Branch, Bethesda, MD 20892 USA.
+   [Kimmel, Paul L.] NIDDK, Div Kidney Urol & Hematol Dis, Bethesda, MD 20892 USA.
+   [Oparil, Suzanne] Univ Alabama Birmingham, Div Cardiovasc Dis, Birmingham, AL USA.
+   [Lewis, Cora E.] Univ Alabama Birmingham, Div Prevent Med, Birmingham, AL USA.
+   [Johnson, Karen C.] Univ Tennessee, Ctr Hlth Sci, Dept Prevent Med, Memphis, TN 38163 USA.
+   [Cushman, William C.] VA Med Ctr, Prevent Med Sect, Memphis, TN USA.
+   [Goff, David C., Jr.] Univ Colorado, Sch Publ Hlth, Aurora, CO USA.
+   [Cheung, Alfred K.] Univ Utah, Div Nephrol & Hypertens, Salt Lake City, UT USA.
+RP Wright, JT (reprint author), Case Western Reserve Univ, Univ Hosp Case Med Ctr, Div Nephrol & Hypertens, 1100 Euclid Ave, Cleveland, OH 44106 USA.
+EM jackson.wright@case.edu
+RI Bhatt, Udayan/E-2754-2011; Gure, Tanya/J-8546-2012
+OI Le, Viet/0000-0001-6659-5332
+FU National Institutes of Health
+FX Funded by the National Institutes of Health; ClinicalTrials.gov number,
+   NCT01206062.
+NR 38
+TC 599
+Z9 612
+U1 13
+U2 48
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD NOV 26
+PY 2015
+VL 373
+IS 22
+BP 2103
+EP 2116
+DI 10.1056/NEJMoa1511939
+PG 14
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CW9YT
+UT WOS:000365354800005
+ER
+
+PT J
+AU Roffi, M
+   Patrono, C
+   Collet, JP
+   Mueller, C
+   Valgimigli, M
+   Andreotti, F
+   Bax, JJ
+   Borger, MA
+   Brotons, C
+   Chew, DP
+   Gencer, B
+   Hasenfuss, G
+   Kjeldsen, K
+   Lancellotti, P
+   Landmesser, U
+   Mehilli, J
+   Mukherjee, D
+   Storey, RF
+   Windecker, S
+   Baumgartner, H
+   Gaemperli, O
+   Achenbach, S
+   Agewall, S
+   Badimon, L
+   Baigent, C
+   Bueno, H
+   Bugiardini, R
+   Carerj, S
+   Casselman, F
+   Cuisset, T
+   Erol, C
+   Fitzsimons, D
+   Halle, M
+   Hamm, C
+   Hildick-Smith, D
+   Huber, K
+   Iliodromitis, E
+   James, S
+   Lewis, BS
+   Lip, GYH
+   Piepoli, MF
+   Richter, D
+   Rosemann, T
+   Sechtem, U
+   Steg, PG
+   Vrints, C
+   Zamorano, JL
+AF Roffi, Marco
+   Patrono, Carlo
+   Collet, Jean-Philippe
+   Mueller, Christian
+   Valgimigli, Marco
+   Andreotti, Felicita
+   Bax, Jeroen J.
+   Borger, Michael A.
+   Brotons, Carlos
+   Chew, Derek P.
+   Gencer, Baris
+   Hasenfuss, Gerd
+   Kjeldsen, Keld
+   Lancellotti, Patrizio
+   Landmesser, Ulf
+   Mehilli, Julinda
+   Mukherjee, Debabrata
+   Storey, Robert F.
+   Windecker, Stephan
+   Baumgartner, Helmut
+   Gaemperli, Oliver
+   Achenbach, Stephan
+   Agewall, Stefan
+   Badimon, Lina
+   Baigent, Colin
+   Bueno, Hector
+   Bugiardini, Raffaele
+   Carerj, Scipione
+   Casselman, Filip
+   Cuisset, Thomas
+   Erol, Cetin
+   Fitzsimons, Donna
+   Halle, Martin
+   Hamm, Christian
+   Hildick-Smith, David
+   Huber, Kurt
+   Iliodromitis, Efstathios
+   James, Stefan
+   Lewis, Basil S.
+   Lip, Gregory Y. H.
+   Piepoli, Massimo F.
+   Richter, Dimitrios
+   Rosemann, Thomas
+   Sechtem, Udo
+   Steg, Ph. Gabriel
+   Vrints, Christian
+   Zamorano, Jose Luis
+TI 2015 ESC Guidelines for the management of acute coronary syndromes in
+   patients presenting without persistent ST-segment elevation Task Force
+   for the Management of Acute Coronary Syndromes in Patients Presenting
+   without Persistent ST-Segment Elevation of the European Society of
+   Cardiology (ESC)
+SO EUROPEAN HEART JOURNAL
+LA English
+DT Article
+DE Acute cardiac care; Acute coronary syndromes; Angioplasty;
+   Anticoagulation; Apixaban; Aspirin; Atherothrombosis; Beta-blockers;
+   Bivalirudin; Bypass surgery; Cangrelor; Chest pain unit; Clopidogrel;
+   Dabigatran; Diabetes; Early invasive strategy; Enoxaparin; European
+   Society of Cardiology; Fondaparinux; Glycoprotein IIb/IIIa inhibitors;
+   Guidelines; Heparin; High-sensitivity troponin; Myocardial ischaemia;
+   Nitrates; Non-ST-elevation myocardial infarction; Platelet inhibition;
+   Prasugrel; Recommendations; Revascularization; Rhythm monitoring;
+   Rivaroxaban; Statin; Stent; Ticagrelor; Unstable angina; Vorapaxar
+ID ACUTE MYOCARDIAL-INFARCTION; RANDOMIZED CONTROLLED-TRIAL;
+   DUAL-ANTIPLATELET THERAPY; SENSITIVITY CARDIAC TROPONIN; BARE-METAL
+   STENTS; DRUG-ELUTING STENTS; ACUTE CHEST-PAIN; GLYCOPROTEIN IIB/IIIA
+   INHIBITORS; ARTERY-BYPASS SURGERY; OUTCOMES PLATO TRIAL
+C1 [Roffi, Marco] Univ Hosp Geneva, Div Cardiol, Rue Gabrielle Perret Gentil 4, CH-1211 Geneva 14, Switzerland.
+   [Patrono, Carlo] Univ Cattolica Sacro Cuore, Ist Farmacol, Largo F Vito 1, IT-00168 Rome, Italy.
+   [Collet, Jean-Philippe] Univ Paris 06, INSERM, Hop La Pitie Salpetriere, AP HP,ACTION Study Grp,Inst Cardiol,UMRS 1166, F-75013 Paris, France.
+   [Mueller, Christian] Univ Basel Hosp, Dept Cardiol, Petersgraben 4, CH-4031 Basel, Switzerland.
+   [Valgimigli, Marco] Erasmus MC, Thoraxctr, S Gravendijkwal 230, NL-3015 CE Rotterdam, Netherlands.
+RP Roffi, M (reprint author), Univ Hosp Geneva, Div Cardiol, Rue Gabrielle Perret Gentil 4, CH-1211 Geneva 14, Switzerland.; Patrono, C (reprint author), Univ Cattolica Sacro Cuore, Ist Farmacol, Largo F Vito 1, IT-00168 Rome, Italy.
+EM Marco.Roffi@hcuge.ch; carlo.patrono@rm.unicatt.it;
+   jean-philippe.collet@psl.aphp.fr; christian.mueller@usb.ch;
+   m.valgimigli@erasmusmc.nl
+RI Borger, Michael/H-3553-2013; Bugiardini, Raffaele/L-6446-2015; BUENO,
+   HECTOR/I-3910-2015; Widimsky, Petr/P-8088-2016
+OI Borger, Michael/0000-0003-0780-6851; Bugiardini,
+   Raffaele/0000-0002-6819-6818; BUENO, HECTOR/0000-0003-0277-7596;
+   Widimsky, Petr/0000-0001-5686-7752
+NR 555
+TC 501
+Z9 528
+U1 38
+U2 73
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0195-668X
+EI 1522-9645
+J9 EUR HEART J
+JI Eur. Heart J.
+PD JAN 14
+PY 2016
+VL 37
+IS 3
+BP 267
+EP +
+DI 10.1093/eurheartj/ehv320
+PG 59
+WC Cardiac & Cardiovascular Systems
+SC Cardiovascular System & Cardiology
+GA DE9RF
+UT WOS:000370975100020
+PM 26320110
+ER
+
+PT J
+AU Green, JB
+   Bethel, MA
+   Armstrong, PW
+   Buse, JB
+   Engel, SS
+   Garg, J
+   Josse, R
+   Kaufman, KD
+   Koglin, J
+   Korn, S
+   Lachin, JM
+   McGuire, DK
+   Pencina, MJ
+   Standl, E
+   Stein, PP
+   Suryawanshi, S
+   Van de Werf, F
+   Peterson, ED
+   Holman, RR
+AF Green, Jennifer B.
+   Bethel, M. Angelyn
+   Armstrong, Paul W.
+   Buse, John B.
+   Engel, Samuel S.
+   Garg, Jyotsna
+   Josse, Robert
+   Kaufman, Keith D.
+   Koglin, Joerg
+   Korn, Scott
+   Lachin, John M.
+   McGuire, Darren K.
+   Pencina, Michael J.
+   Standl, Eberhard
+   Stein, Peter P.
+   Suryawanshi, Shailaja
+   Van de Werf, Frans
+   Peterson, Eric D.
+   Holman, Rury R.
+CA TECOS Study Grp
+TI Effect of Sitagliptin on Cardiovascular Outcomes in Type 2 Diabetes
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID GLUCOSE-LOWERING DRUGS; HEART-FAILURE; TRIAL; RISK; STRATEGIES
+AB BACKGROUND Data are lacking on the long-term effect on cardiovascular events of adding sitagliptin, a dipeptidyl peptidase 4 inhibitor, to usual care in patients with type 2 diabetes and cardiovascular disease.
+   METHODS In this randomized, double-blind study, we assigned 14,671 patients to add either sitagliptin or placebo to their existing therapy. Open-label use of antihyperglycemic therapy was encouraged as required, aimed at reaching individually appropriate glycemic targets in all patients. To determine whether sitagliptin was noninferior to placebo, we used a relative risk of 1.3 as the marginal upper boundary. The primary cardiovascular outcome was a composite of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina.
+   RESULTS During a median follow-up of 3.0 years, there was a small difference in glycated hemoglobin levels (least-squares mean difference for sitagliptin vs. placebo, -0.29 percentage points; 95% confidence interval [CI], -0.32 to -0.27). Overall, the primary outcome occurred in 839 patients in the sitagliptin group (11.4%; 4.06 per 100 person-years) and 851 patients in the placebo group (11.6%; 4.17 per 100 person-years). Sitagliptin was noninferior to placebo for the primary composite cardiovascular outcome (hazard ratio, 0.98; 95% CI, 0.88 to 1.09; P<0.001). Rates of hospitalization for heart failure did not differ between the two groups (hazard ratio, 1.00; 95% CI, 0.83 to 1.20; P = 0.98). There were no significant between-group differences in rates of acute pancreatitis (P = 0.07) or pancreatic cancer (P = 0.32).
+   CONCLUSIONS Among patients with type 2 diabetes and established cardiovascular disease, adding sitagliptin to usual care did not appear to increase the risk of major adverse cardiovascular events, hospitalization for heart failure, or other adverse events.
+C1 [Green, Jennifer B.; Garg, Jyotsna; Peterson, Eric D.] Duke Univ, Sch Med, Duke Clin Res Inst, Durham, NC USA.
+   [Buse, John B.] Univ N Carolina, Sch Med, Chapel Hill, NC USA.
+   [Bethel, M. Angelyn; Holman, Rury R.] Univ Oxford, Diabet Trials Unit, Oxford Ctr Diabet Endocrinol & Metab, Oxford, England.
+   [Armstrong, Paul W.] Univ Alberta, Canadian VIGOUR Ctr, Edmonton, AB, Canada.
+   [Josse, Robert] Univ Toronto, St Michaels Hosp, Toronto, ON, Canada.
+   [Engel, Samuel S.; Kaufman, Keith D.; Koglin, Joerg; Korn, Scott; Stein, Peter P.; Suryawanshi, Shailaja] Merck, Kenilworth, NJ USA.
+   [Lachin, John M.] George Washington Univ, Biostat Ctr, Rockville, MD USA.
+   [McGuire, Darren K.] Univ Texas SW Med Ctr Dallas, Dallas, TX 75390 USA.
+   [Standl, Eberhard] Helm Holtz Ctr, Munich Diabet Res Grp, Neuherberg, Germany.
+   [Van de Werf, Frans] Univ Leuven, Leuven, Belgium.
+RP Holman, RR (reprint author), Churchill Hosp, Diabet Trials Unit, Oxford Ctr Diabet Endocrinol & Metab, Oxford OX3 7LJ, England.
+EM rury.holman@dtu.ox.ac.uk
+RI Urina, Miguel/H-2605-2016; Zadionchenko, Vladimir/A-7445-2016; Skrha,
+   Jan/C-3095-2017
+OI Urina, Miguel/0000-0001-6003-4622; Zadionchenko,
+   Vladimir/0000-0003-2377-5266; Skrha, Jan/0000-0001-8012-8802; Dalan,
+   Rinkoo/0000-0001-9769-2696; Lachin, John/0000-0001-9838-2841; YOO, SOON
+   JIB/0000-0002-9932-4130
+FU Merck Sharp Dohme - Merck
+FX Supported by Merck Sharp & Dohme, a subsidiary of Merck.
+NR 18
+TC 453
+Z9 464
+U1 6
+U2 61
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD JUL 16
+PY 2015
+VL 373
+IS 3
+BP 232
+EP 242
+DI 10.1056/NEJMoa1501352
+PG 11
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CM8MS
+UT WOS:000357956200006
+PM 26052984
+ER
+
+PT J
+AU Marso, SP
+   Daniels, GH
+   Brown-Frandsen, K
+   Kristensen, P
+   Mann, JFE
+   Nauck, MA
+   Nissen, SE
+   Pocock, S
+   Poulter, NR
+   Ravn, LS
+   Steinberg, WM
+   Stockner, M
+   Zinman, B
+   Bergenstal, RM
+   Buse, JB
+AF Marso, Steven P.
+   Daniels, Gilbert H.
+   Brown-Frandsen, Kirstine
+   Kristensen, Peter
+   Mann, Johannes F. E.
+   Nauck, Michael A.
+   Nissen, Steven E.
+   Pocock, Stuart
+   Poulter, Neil R.
+   Ravn, Lasse S.
+   Steinberg, William M.
+   Stockner, Mette
+   Zinman, Bernard
+   Bergenstal, Richard M.
+   Buse, John B.
+CA LEADER Steering Comm
+   LEADER Trial Investigators
+TI Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes
+SO NEW ENGLAND JOURNAL OF MEDICINE
+LA English
+DT Article
+ID CLINICAL-TRIAL; PANCREATITIS; THERAPIES; CANCER; DRUGS
+AB BACKGROUND
+   The cardiovascular effect of liraglutide, a glucagon-like peptide 1 analogue, when added to standard care in patients with type 2 diabetes, remains unknown.
+   METHODS
+   In this double-blind trial, we randomly assigned patients with type 2 diabetes and high cardiovascular risk to receive liraglutide or placebo. The primary composite outcome in the time-to-event analysis was the first occurrence of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke. The primary hypothesis was that liraglutide would be noninferior to placebo with regard to the primary outcome, with a margin of 1.30 for the upper boundary of the 95% confidence interval of the hazard ratio. No adjustments for multiplicity were performed for the prespecified exploratory outcomes.
+   RESULTS
+   A total of 9340 patients underwent randomization. The median follow-up was 3.8 years. The primary outcome occurred in significantly fewer patients in the liraglutide group (608 of 4668 patients [13.0%]) than in the placebo group (694 of 4672 [14.9%]) (hazard ratio, 0.87; 95% confidence interval [CI], 0.78 to 0.97; P<0.001 for noninferiority; P = 0.01 for superiority). Fewer patients died from cardiovascular causes in the liraglutide group (219 patients [4.7%]) than in the placebo group (278 [6.0%]) (hazard ratio, 0.78; 95% CI, 0.66 to 0.93; P = 0.007). The rate of death from any cause was lower in the liraglutide group (381 patients [8.2%]) than in the placebo group (447 [9.6%]) (hazard ratio, 0.85; 95% CI, 0.74 to 0.97; P = 0.02). The rates of nonfatal myocardial infarction, nonfatal stroke, and hospitalization for heart failure were nonsignificantly lower in the liraglutide group than in the placebo group. The most common adverse events leading to the discontinuation of liraglutide were gastrointestinal events. The incidence of pancreatitis was nonsignificantly lower in the liraglutide group than in the placebo group.
+   CONCLUSIONS
+   In the time-to-event analysis, the rate of the first occurrence of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke among patients with type 2 diabetes mellitus was lower with liraglutide than with placebo. (Funded by Novo Nordisk and the National Institutes of Health; LEADER ClinicalTrials.gov number, NCT01179048.)
+C1 [Marso, Steven P.] Univ Texas Southwestern Med Ctr, Dallas, TX USA.
+   [Daniels, Gilbert H.] Massachusetts Gen Hosp, Boston, MA 02114 USA.
+   [Brown-Frandsen, Kirstine; Kristensen, Peter; Ravn, Lasse S.; Stockner, Mette] Novo Nordisk, Bagsvaerd, Denmark.
+   [Mann, Johannes F. E.] Univ Erlangen Nurnberg, Erlangen, Germany.
+   [Nauck, Michael A.] Ruhr Univ, St Josef Hosp, Bochum, Germany.
+   [Nissen, Steven E.] Cleveland Clin, Cleveland, OH 44106 USA.
+   [Pocock, Stuart] London Sch Hyg & Trop Med Med, Stat Unit, London, England.
+   [Poulter, Neil R.] Imperial Coll London, London, England.
+   [Steinberg, William M.] George Washington Univ, Med Ctr, Washington, DC 20037 USA.
+   [Zinman, Bernard] Univ Toronto, Mt Sinai Hosp, Lunenfeld Tanenbaum Res Inst, Toronto, ON, Canada.
+   [Bergenstal, Richard M.] Int Diabet Ctr Pk Nicollet, Minneapolis, MN USA.
+   [Buse, John B.] Univ N Carolina, Sch Med, CB7172, Chapel Hill, NC 27599 USA.
+RP Buse, JB (reprint author), Univ N Carolina, Sch Med, CB7172, Chapel Hill, NC 27599 USA.
+EM john_buse@med.unc.edu
+RI Saravanan, Ponnusamy/M-6142-2016; Hukkanen, Janne/C-7292-2013; BALCI,
+   Mustafa Kemal/C-2979-2016; Krizova, Jarmila/B-2601-2017; Trachta,
+   Pavel/B-2602-2017; Anderlova, Katerina/D-9334-2017; Zinman,
+   Bernard/E-7266-2013; Haluzik, Martin/I-8190-2017
+OI Saravanan, Ponnusamy/0000-0002-9566-2626; Hukkanen,
+   Janne/0000-0003-4981-0525; BALCI, Mustafa Kemal/0000-0002-6494-3249;
+   Krizova, Jarmila/0000-0001-7287-5672; Trachta,
+   Pavel/0000-0002-2218-3157; Anderlova, Katerina/0000-0001-8794-6496;
+   Haluzik, Martin/0000-0002-0201-6888; English,
+   Patrick/0000-0001-6268-8400; Huang, Chung-Huei/0000-0001-6736-1423;
+   Camafort-Babkowski, Miguel/0000-0002-8669-6410; buscemi,
+   silvio/0000-0003-0730-7649
+FU Novo Nordisk; National Institutes of Health
+FX Funded by Novo Nordisk and the National Institutes of Health; LEADER
+   ClinicalTrials.gov number, NCT01179048.
+NR 27
+TC 308
+Z9 313
+U1 31
+U2 53
+PU MASSACHUSETTS MEDICAL SOC
+PI WALTHAM
+PA WALTHAM WOODS CENTER, 860 WINTER ST,, WALTHAM, MA 02451-1413 USA
+SN 0028-4793
+EI 1533-4406
+J9 NEW ENGL J MED
+JI N. Engl. J. Med.
+PD JUL 28
+PY 2016
+VL 375
+IS 4
+BP 311
+EP 322
+DI 10.1056/NEJMoa1603827
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA DS0UV
+UT WOS:000380313200005
+PM 27295427
+ER
+
+PT J
+AU Neuschwander-Tetri, BA
+   Loomba, R
+   Sanyal, AJ
+   Lavine, JE
+   Van Natta, ML
+   Abdelmalek, MF
+   Chalasani, N
+   Dasarathy, S
+   Diehl, AM
+   Hameed, B
+   Kowdley, KV
+   McCullough, A
+   Terrault, N
+   Clark, JM
+   Tonascia, J
+   Brunt, EM
+   Kleiner, DE
+   Doo, E
+AF Neuschwander-Tetri, Brent A.
+   Loomba, Rohit
+   Sanyal, Arun J.
+   Lavine, Joel E.
+   Van Natta, Mark L.
+   Abdelmalek, Manal F.
+   Chalasani, Naga
+   Dasarathy, Srinivasan
+   Diehl, Anna Mae
+   Hameed, Bilal
+   Kowdley, Kris V.
+   McCullough, Arthur
+   Terrault, Norah
+   Clark, Jeanne M.
+   Tonascia, James
+   Brunt, Elizabeth M.
+   Kleiner, David E.
+   Doo, Edward
+CA Nash Clin Res Network
+TI Farnesoid X nuclear receptor ligand obeticholic acid for non-cirrhotic,
+   non-alcoholic steatohepatitis (FLINT): a multicentre, randomised,
+   placebo-controlled trial
+SO LANCET
+LA English
+DT Article
+ID FATTY LIVER-DISEASE; BILE-ACIDS; GLUCOSE-METABOLISM; INSULIN-RESISTANCE;
+   FXR; AGONIST; THERAPY; NAFLD; NASH; RATS
+AB Background The bile acid derivative 6-ethylchenodeoxycholic acid (obeticholic acid) is a potent activator of the farnesoid X nuclear receptor that reduces liver fat and fibrosis in animal models of fatty liver disease. We assessed the efficacy of obeticholic acid in adult patients with non-alcoholic steatohepatitis.
+   Methods We did a multicentre, double-blind, placebo-controlled, parallel group, randomised clinical trial at medical centres in the USA in patients with non-cirrhotic, non-alcoholic steatohepatitis to assess treatment with obeticholic acid given orally (25 mg daily) or placebo for 72 weeks. Patients were randomly assigned 1: 1 using a computer-generated, centrally administered procedure, stratified by clinical centre and diabetes status. The primary outcome measure was improvement in centrally scored liver histology defined as a decrease in non-alcoholic fatty liver disease activity score by at least 2 points without worsening of fibrosis from baseline to the end of treatment. A planned interim analysis of change in alanine aminotransferase at 24 weeks undertaken before end-of-treatment (72 weeks) biopsies supported the decision to continue the trial (relative change in alanine aminotransferase -24%, 95% CI -45 to -3). A planned interim analysis of the primary outcome showed improved efficacy of obeticholic acid (p=0 . 0024) and supported a decision not to do end-of- treatment biopsies and end treatment early in 64 patients, but to continue the trial to obtain the 24-week post-treatment measures. Analyses were done by intention-to-treat. This trial was registered with ClinicalTrials.gov, number NCT01265498.
+   Findings Between March 16, 2011, and Dec 3, 2012, 141 patients were randomly assigned to receive obeticholic acid and 142 to placebo. 50 (45%) of 110 patients in the obeticholic acid group who were meant to have biopsies at baseline and 72 weeks had improved liver histology compared with 23 (21%) of 109 such patients in the placebo group (relative risk 1 . 9, 95% CI 1 . 3 to 2 . 8; p=0 . 0002). 33 (23%) of 141 patients in the obeticholic acid developed pruritus compared with nine (6%) of 142 in the placebo group.
+   Interpretation Obeticholic acid improved the histological features of non-alcoholic steatohepatitis, but its long-term benefits and safety need further clarifi cation.
+C1 [Neuschwander-Tetri, Brent A.] St Louis Univ, St Louis, MO 63110 USA.
+   [Loomba, Rohit] Univ Calif San Diego, La Jolla, CA 92093 USA.
+   [Sanyal, Arun J.] Virginia Commonwealth Univ, Richmond, VA USA.
+   [Lavine, Joel E.] Columbia Univ, New York, NY USA.
+   [Van Natta, Mark L.; Clark, Jeanne M.; Tonascia, James] Johns Hopkins Univ, Baltimore, MD USA.
+   [Abdelmalek, Manal F.; Diehl, Anna Mae] Duke Univ, Durham, NC USA.
+   [Chalasani, Naga] Indiana Univ, Indianapolis, IN 46204 USA.
+   [McCullough, Arthur] Cleveland Clin, Cleveland, OH 44106 USA.
+   [Hameed, Bilal; Terrault, Norah] Univ Calif San Francisco, San Francisco, CA 94143 USA.
+   [Kowdley, Kris V.] Virginia Mason Med Ctr, Seattle, WA 98101 USA.
+   [Dasarathy, Srinivasan] Case Western Reserve Univ, Cleveland, OH 44106 USA.
+   [Brunt, Elizabeth M.] Washington Univ, St Louis, MO USA.
+   [Kleiner, David E.] NCI, Bethesda, MD 20892 USA.
+   [Doo, Edward] NIDDK, Bethesda, MD 20892 USA.
+RP Neuschwander-Tetri, BA (reprint author), St Louis Univ, Div Gastroenterol & Hepatol, St Louis, MO 63110 USA.
+EM tetriba@slu.edu
+RI Vaughn, Ivana/B-6138-2016; Bashir, Mustafa/P-3428-2015
+OI Vaughn, Ivana/0000-0002-7201-0289; 
+FU National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+   [U01DK061718, U01DK061728, U01DK061731, U01DK061732, U01DK061734,
+   U01DK061737, U01DK061738, U01DK061730, U01DK061713]; National Center for
+   Advancing Translational Sciences (NCATS) for NASH CRN Studies
+   [UL1TR000439, UL1TR000436, UL1TR000006, UL1TR000448, UL1TR000100,
+   UL1TR000004, UL1TR000423, UL1TR000058]; Laboratory of Pathology,
+   Intramural Division of the National Cancer Institute
+FX The Nonalcoholic Steatohepatitis Clinical Research Network (NASH CRN) is
+   supported by the National Institute of Diabetes and Digestive and Kidney
+   Diseases (NIDDK) (grants U01DK061718, U01DK061728, U01DK061731,
+   U01DK061732, U01DK061734, U01DK061737, U01DK061738, U01DK061730,
+   U01DK061713). Several clinical centres had support from the National
+   Center for Advancing Translational Sciences (NCATS) for NASH CRN Studies
+   (grants UL1TR000439, UL1TR000436, UL1TR000006, UL1TR000448, UL1TR000100,
+   UL1TR000004, UL1TR000423, and UL1TR000058). Additional support was
+   provided by the Laboratory of Pathology, Intramural Division of the
+   National Cancer Institute. The NASH CRN expresses its gratitude to the
+   patients enrolled in this study, Patricia Robuck for her guidance in
+   trial design, Jay Hoofnagle for his guidance in trial design and data
+   analysis, and Averell Sherker for his assistance in coordinating
+   communications among the NIDDK, the industry sponsor, and the NASH CRN
+   steering committee.
+NR 30
+TC 279
+Z9 287
+U1 12
+U2 51
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD MAR 14
+PY 2015
+VL 385
+IS 9972
+BP 956
+EP 965
+DI 10.1016/S0140-6736(14)61933-4
+PG 10
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CD2EK
+UT WOS:000350886900030
+PM 25468160
+ER
+
+PT J
+AU Biswas, A
+   Oh, PI
+   Faulkner, GE
+   Bajaj, RR
+   Silver, MA
+   Mitchell, MS
+   Alter, DA
+AF Biswas, Aviroop
+   Oh, Paul I.
+   Faulkner, Guy E.
+   Bajaj, Ravi R.
+   Silver, Michael A.
+   Mitchell, Marc S.
+   Alter, David A.
+TI Sedentary Time and Its Association With Risk for Disease Incidence,
+   Mortality, and Hospitalization in Adults A Systematic Review and
+   Meta-analysis
+SO ANNALS OF INTERNAL MEDICINE
+LA English
+DT Review
+ID RECREATIONAL PHYSICAL-ACTIVITY; TYPE-2 DIABETES-MELLITUS; TELEVISION
+   VIEWING TIME; ALL-CAUSE MORTALITY; BREAST-CANCER RISK;
+   CARDIOVASCULAR-DISEASE; SITTING TIME; AUSTRALIAN ADULTS; METABOLIC
+   SYNDROME; PROSPECTIVE COHORT
+AB Background: The magnitude, consistency, and manner of association between sedentary time and outcomes independent of physical activity remain unclear.
+   Purpose: To quantify the association between sedentary time and hospitalizations, all-cause mortality, cardiovascular disease, diabetes, and cancer in adults independent of physical activity.
+   Data Sources: English-language studies in MEDLINE, PubMed, EMBASE, CINAHL, Cochrane Library, Web of Knowledge, and Google Scholar databases were searched through August 2014 with hand-searching of in-text citations and no publication date limitations.
+   Study Selection: Studies assessing sedentary behavior in adults, adjusted for physical activity and correlated to at least 1 outcome.
+   Data Extraction: Two independent reviewers performed data abstraction and quality assessment, and a third reviewer resolved inconsistencies.
+   Data Synthesis: Forty-seven articles met our eligibility criteria. Meta-analyses were performed on outcomes for cardiovascular disease and diabetes (14 studies), cancer (14 studies), and all-cause mortality (13 studies). Prospective cohort designs were used in all but 3 studies; sedentary times were quantified using self-report in all but 1 study. Significant hazard ratio (HR) associations were found with all-cause mortality (HR, 1.240 [95% CI, 1.090 to 1.410]), cardiovascular disease mortality (HR, 1.179 [CI, 1.106 to 1.257]), cardiovascular disease incidence (HR, 1.143 [CI, 1.002 to 1.729]), cancer mortality (HR, 1.173 [CI, 1.108 to 1.242]), cancer incidence (HR, 1.130 [CI, 1.053 to 1.213]), and type 2 diabetes incidence (HR, 1.910 [CI, 1.642 to 2.222]). Hazard ratios associated with sedentary time and outcomes were generally more pronounced at lower levels of physical activity than at higher levels.
+   Limitation: There was marked heterogeneity in research designs and the assessment of sedentary time and physical activity.
+   Conclusion: Prolonged sedentary time was independently associated with deleterious health outcomes regardless of physical activity.
+C1 [Biswas, Aviroop] Univ Toronto, Inst Hlth Policy Management & Evaluat, Toronto, ON M5T 3M6, Canada.
+   [Oh, Paul I.] Univ Hlth Network, Toronto Rehabil Inst, Toronto, ON M4G 1R7, Canada.
+   [Faulkner, Guy E.; Mitchell, Marc S.] Univ Toronto, Fac Kinesiol & Phys Educ, Toronto, ON M5S 2W6, Canada.
+   [Bajaj, Ravi R.] Sunnybrook Hlth Sci Ctr, Dept Cardiol, Toronto, ON M4N 3A5, Canada.
+   [Silver, Michael A.] York Univ, Osgoode Hall Law Sch, N York, ON M3J 1P3, Canada.
+   [Alter, David A.] Inst Clin Evaluat Sci, Toronto, ON M4N 3M5, Canada.
+RP Alter, DA (reprint author), Inst Clin Evaluat Sci, 2075 Bayview Ave,G1-06, Toronto, ON M4N 3M5, Canada.
+EM dalter@ices.on.ca
+FU Heart and Stroke Foundation of Canada; Canadian Institutes of Health
+   Research-Public Health Agency of Canada (CIHR-PHAC) Chair in Applied
+   Public Health; Goodlife Fitness Chair in Cardiovascular Rehabilitation
+   and Prevention, University Health Network-Toronto Rehabilitation
+   Institute, University of Toronto
+FX Dr. Alter is supported with a career investigator award from the Heart
+   and Stroke Foundation of Canada. Dr Faulkner is supported with a
+   Canadian Institutes of Health Research-Public Health Agency of Canada
+   (CIHR-PHAC) Chair in Applied Public Health. Dr. Oh is supported with a
+   Goodlife Fitness Chair in Cardiovascular Rehabilitation and Prevention,
+   University Health Network-Toronto Rehabilitation Institute, University
+   of Toronto.
+NR 61
+TC 249
+Z9 251
+U1 33
+U2 128
+PU AMER COLL PHYSICIANS
+PI PHILADELPHIA
+PA INDEPENDENCE MALL WEST 6TH AND RACE ST, PHILADELPHIA, PA 19106-1572 USA
+SN 0003-4819
+EI 1539-3704
+J9 ANN INTERN MED
+JI Ann. Intern. Med.
+PD JAN 20
+PY 2015
+VL 162
+IS 2
+BP 123
+EP +
+DI 10.7326/M14-1651
+PG 19
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CC1NB
+UT WOS:000350106600018
+PM 25599350
+ER
+
+EF

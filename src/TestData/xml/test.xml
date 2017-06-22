@@ -1,0 +1,695 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28402325</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5640</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of clinical nutrition</Title>
+                <ISOAbbreviation>Eur J Clin Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The bioenergetics of inflammation: insights into obesity and type 2 diabetes.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ejcn.2017.45</ELocationID>
+            <Abstract>
+                <AbstractText>Diabetes mellitus is one of the most common chronic metabolic disorders worldwide, and its incidence in Asian countries is alarmingly high. Type 2 diabetes (T2DM) is closely associated with obesity, and the staggering rise in obesity is one of the primary factors related to the increased frequency of T2DM. Low-grade chronic inflammation is also accepted as an integral metabolic adaption in obesity and T2DM, and is believed to be a major player in the onset of insulin resistance. However, the exact mechanism(s) that cause a persistent chronic low-grade infiltration of leukocytes into insulin-target tissues such as adipose, skeletal muscle and liver are not entirely known. Recent developments in the understanding of leukocyte metabolism have revealed that the inflammatory polarization of immune cells, and consequently their immunological function, are strongly connected to their metabolic profile. Therefore, it is hypothesized that dysfunctional immune cell metabolism is a central cellular mechanism that prevents the resolution of inflammation in chronic metabolic conditions such as that observed in obesity and T2DM. The purpose of this review is to explore the metabolic demands of different immune cell types, and identify the molecular switches that control immune cell metabolism and ultimately function. Understanding of these concepts may allow the development of interventions that can correct immune function and may possibly decrease chronic low-grade inflammation in humans suffering from obesity and T2DM. We also review the latest clinical techniques used to measure metabolic flux in primary leukocytes isolated from obese and T2DM patients.European Journal of Clinical Nutrition advance online publication, 12 April 2017; doi:10.1038/ejcn.2017.45.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Keane</LastName>
+                    <ForeName>K N</ForeName>
+                    <Initials>KN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health Sciences, School of Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calton</LastName>
+                    <ForeName>E K</ForeName>
+                    <Initials>EK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health Promotion and Disease Prevention, School of Public Health, Curtin Health Innovation Research Institute, Curtin University, Bentley, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlessi</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health Sciences, School of Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hart</LastName>
+                    <ForeName>P H</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Telethon Kids Institute, University of Western Australia, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newsholme</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Health Sciences, School of Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Perth, Western Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Clin Nutr</MedlineTA>
+            <NlmUniqueID>8804070</NlmUniqueID>
+            <ISSNLinking>0954-3007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28402325</ArticleId>
+            <ArticleId IdType="pii">ejcn201745</ArticleId>
+            <ArticleId IdType="doi">10.1038/ejcn.2017.45</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28401788</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-7016</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jan</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism</Title>
+                <ISOAbbreviation>J. Cereb. Blood Flow Metab.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Type-2 diabetes mellitus reduces cortical thickness and decreases oxidative metabolism in sensorimotor regions after stroke.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>271678X17703887</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/0271678X17703887</ELocationID>
+            <Abstract>
+                <AbstractText>Individuals with type-2 diabetes mellitus experience poor motor outcomes after ischemic stroke. Recent research suggests that type-2 diabetes adversely impacts neuronal integrity and function, yet little work has considered how these neuronal changes affect sensorimotor outcomes after stroke. Here, we considered how type-2 diabetes impacted the structural and metabolic function of the sensorimotor cortex after stroke using volumetric magnetic resonance imaging (MRI) and magnetic resonance spectroscopy (MRS). We hypothesized that the combination of chronic stroke and type-2 diabetes would negatively impact the integrity of sensorimotor cortex as compared to individuals with chronic stroke alone. Compared to stroke alone, individuals with stroke and diabetes had lower cortical thickness bilaterally in the primary somatosensory cortex, and primary and secondary motor cortices. Individuals with stroke and diabetes also showed reduced creatine levels bilaterally in the sensorimotor cortex. Contralesional primary and secondary motor cortex thicknesses were negatively related to sensorimotor outcomes in the paretic upper-limb in the stroke and diabetes group such that those with thinner primary and secondary motor cortices had better motor function. These data suggest that type-2 diabetes alters cerebral energy metabolism, and is associated with thinning of sensorimotor cortex after stroke. These factors may influence motor outcomes after stroke.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ferris</LastName>
+                    <ForeName>Jennifer K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Faculty of Medicine, Graduate program of Rehabilitation Sciences, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>Sue</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Faculty of Medicine, Graduate program of Rehabilitation Sciences, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Katlyn E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Faculty of Medicine, Graduate program of Rehabilitation Sciences, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tourigny</LastName>
+                    <ForeName>Katherine</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Psychology, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyd</LastName>
+                    <ForeName>Lara A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Faculty of Medicine, Graduate program of Rehabilitation Sciences, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3 Department of Physical Therapy, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4 Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cereb Blood Flow Metab</MedlineTA>
+            <NlmUniqueID>8112566</NlmUniqueID>
+            <ISSNLinking>0271-678X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic stroke</Keyword>
+            <Keyword MajorTopicYN="N">creatine</Keyword>
+            <Keyword MajorTopicYN="N">magnetic resonance imaging</Keyword>
+            <Keyword MajorTopicYN="N">magnetic resonance spectroscopy</Keyword>
+            <Keyword MajorTopicYN="N">volumetrics</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28401788</ArticleId>
+            <ArticleId IdType="doi">10.1177/0271678X17703887</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28401529</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1720-8386</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of endocrinological investigation</Title>
+                <ISOAbbreviation>J. Endocrinol. Invest.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of exercise intervention on gestational diabetes mellitus: a systematic review and meta-analysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s40618-017-0673-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">Exercise intervention might be a promising approach to prevent gestational diabetes mellitus. However, the results remained controversial. We conducted a systematic review and meta-analysis to explore the effect of exercise intervention on gestational diabetes mellitus.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">PubMed, EMbase, Web of science, EBSCO, and Cochrane library databases were systematically searched. Randomized controlled trials (RCTs) assessing the effect of exercise intervention on gestational diabetes mellitus were included. Two investigators independently searched articles, extracted data, and assessed the quality of included studies. The primary outcome was the incidence of gestational diabetes mellitus, preterm birth, and gestational age at birth. Meta-analysis was performed using random-effect model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Five RCTs involving 1872 patients were included in the meta-analysis. Overall, compared with control intervention, exercise intervention was found to significantly reduce the risk of gestational diabetes mellitus (std. mean difference 0.62; 95% CI 0.43-0.89; P = 0.01), but demonstrated no influence on preterm birth (OR 0.93; 95% CI 0.44-1.99; P = 0.86), gestational age at birth (std. mean difference -0.03; 95% CI -0.12 to 0.07; P = 0.60), glucose 2-h post-OGTT (std. mean difference -1.02; 95% CI -2.75 to 0.71; P = 0.25), birth weight (std. mean difference -0.10; 95% CI -0.25 to 0.04; P = 0.16), Apgar score less than 7 (OR 0.78; 95% CI 0.21-2.91; P = 0.71), and preeclampsia (OR 1.05; 95% CI 0.53-2.07; P = 0.88).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Compared to control intervention, exercise intervention was found to significantly reduce the incidence of gestational diabetes mellitus, but had no significant influence on preterm birth, gestational age at birth, glucose 2-h post-OGTT, birth weight, Apgar score less than 7, and preeclampsia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, Chongqing People's Hospital, Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, Chongqing People's Hospital, Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Digestive Department, Chongqing People's Hospital, Chongqing, China. renmengjun6@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>J Endocrinol Invest</MedlineTA>
+            <NlmUniqueID>7806594</NlmUniqueID>
+            <ISSNLinking>0391-4097</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Exercise intervention</Keyword>
+            <Keyword MajorTopicYN="N">Gestational diabetes mellitus</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Randomized controlled trials (RCTs)</Keyword>
+            <Keyword MajorTopicYN="N">Systematic review</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28401529</ArticleId>
+            <ArticleId IdType="doi">10.1007/s40618-017-0673-3</ArticleId>
+            <ArticleId IdType="pii">10.1007/s40618-017-0673-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28401453</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1869-6953</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Diabetes therapy : research, treatment and education of diabetes and related disorders</Title>
+                <ISOAbbreviation>Diabetes Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Erratum to: Adding Prandial Insulin to Basal Insulin Plus Oral Antidiabetic Drugs in Chinese Patients with Poorly Controlled Type 2 Diabetes Mellitus: An Open-Label, Single-Arm Study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s13300-017-0260-9</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Yujing</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Medical University General Hospital, Tianjin, 300052, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaowei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Medical University General Hospital, Tianjin, 300052, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xichen</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Medical University General Hospital, Tianjin, 300052, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Tiehong</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tianjin Medical University General Hospital, Tianjin, 300052, China. zhutiehong@tmu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016425">Published Erratum</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Diabetes Ther</MedlineTA>
+            <NlmUniqueID>101539025</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumFor">
+                <RefSource>Diabetes Ther. 2017 Mar 27;:</RefSource>
+                <PMID Version="1">28349442</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28401453</ArticleId>
+            <ArticleId IdType="doi">10.1007/s13300-017-0260-9</ArticleId>
+            <ArticleId IdType="pii">10.1007/s13300-017-0260-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">28401444</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-0100</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrine</Title>
+                <ISOAbbreviation>Endocrine</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fixed ratio combinations of glucagon like peptide 1 receptor agonists with basal insulin: a systematic review and meta-analysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12020-017-1293-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Basal insulin controls primarily fasting plasma glucose but causes hypoglycaemia and weight gain, whilst glucagon like peptide 1 receptor agonists induce weight loss without increasing risk for hypoglycaemia. We conducted a systematic review and meta-analysis of randomised controlled trials to investigate the efficacy and safety of fixed ratio combinations of basal insulin with glucagon like peptide 1 receptor agonists.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We searched Medline, Embase, and the Cochrane Library as well as conference abstracts up to December 2016. We assessed change in haemoglobin A1c, body weight, and incidence of hypoglycaemia and gastrointestinal adverse events.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included eight studies with 5732 participants in the systematic review. Switch from basal insulin to fixed ratio combinations with a glucagon like peptide 1 receptor agonist was associated with 0.72% reduction in haemoglobin A1c [95% confidence interval -1.03 to -0.41; I (2) = 93%] and 2.35 kg reduction in body weight (95% confidence interval -3.52 to -1.19; I (2) = 93%), reducing also risk for hypoglycaemia [odds ratio 0.70; 95% confidence interval 0.57 to 0.86; I (2) = 85%] but increasing incidence of nausea (odds ratio 6.89; 95% confidence interval 3.73-12.74; I (2) = 79%). Similarly, switching patients from treatment with a glucagon like peptide 1 receptor agonist to a fixed ratio combination with basal insulin was associated with 0.94% reduction in haemoglobin A1c (95% confidence interval -1.11 to -0.77) and an increase in body weight by 2.89 kg (95% confidence interval 2.17-3.61).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Fixed ratio combinations of basal insulin with glucagon like peptide 1 receptor agonists improve glycaemic control whilst balancing out risk for hypoglycaemia and gastrointestinal side effects.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liakopoulou</LastName>
+                    <ForeName>Paraskevi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research and Evidence-Based Medicine Unit, Second Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liakos</LastName>
+                    <ForeName>Aris</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research and Evidence-Based Medicine Unit, Second Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasilakou</LastName>
+                    <ForeName>Despoina</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Third Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Athanasiadou</LastName>
+                    <ForeName>Eleni</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research and Evidence-Based Medicine Unit, Second Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bekiari</LastName>
+                    <ForeName>Eleni</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research and Evidence-Based Medicine Unit, Second Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kazakos</LastName>
+                    <ForeName>Kyriakos</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Alexander Technological Educational Institute of Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsapas</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0221-4072</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research and Evidence-Based Medicine Unit, Second Medical Department, Aristotle University Thessaloniki, Thessaloniki, Greece. atsapas@auth.gr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Harris Manchester College, University of Oxford, Oxford, UK. atsapas@auth.gr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocrine</MedlineTA>
+            <NlmUniqueID>9434444</NlmUniqueID>
+            <ISSNLinking>1355-008X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Basal insulin</Keyword>
+            <Keyword MajorTopicYN="N">Glucagon like peptide 1 receptor agonists</Keyword>
+            <Keyword MajorTopicYN="N">IdegLira</Keyword>
+            <Keyword MajorTopicYN="N">LixiLan</Keyword>
+            <Keyword MajorTopicYN="N">Systematic review</Keyword>
+            <Keyword MajorTopicYN="N">Type 2 diabetes mellitus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28401444</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12020-017-1293-6</ArticleId>
+            <ArticleId IdType="pii">10.1007/s12020-017-1293-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

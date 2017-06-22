@@ -1,0 +1,385 @@
+
+PMID- 28585184
+OWN - NLM
+STAT- Publisher
+DA  - 20170606
+LR  - 20170606
+IS  - 1937-5395 (Electronic)
+IS  - 1937-5387 (Linking)
+DP  - 2017 Jun 05
+TI  - Text Mining of the Electronic Health Record: An Information Extraction Approach
+      for Automated Identification and Subphenotyping of HFpEF Patients for Clinical
+      Trials.
+LID - 10.1007/s12265-017-9752-2 [doi]
+AB  - Precision medicine requires clinical trials that are able to efficiently enroll
+      subtypes of patients in whom targeted therapies can be tested. To reduce the
+      large amount of time spent screening, identifying, and recruiting patients with
+      specific subtypes of heterogeneous clinical syndromes (such as heart failure with
+      preserved ejection fraction [HFpEF]), we need prescreening systems that are able 
+      to automate data extraction and decision-making tasks. However, a major obstacle 
+      is the vast amount of unstructured free-form text in medical records. Here we
+      describe an information extraction-based approach that automatically converts
+      unstructured text into structured data, which is cross-referenced against
+      eligibility criteria using a rule-based system to determine which patients
+      qualify for a major HFpEF clinical trial (PARAGON). We show that we can achieve a
+      sensitivity and positive predictive value of 0.95 and 0.86, respectively. Our
+      open-source algorithm could be used to efficiently identify and subphenotype
+      patients with HFpEF and other disorders.
+FAU - Jonnalagadda, Siddhartha R
+AU  - Jonnalagadda SR
+AD  - Division of Health and Biomedical Informatics, Department of Preventive Medicine,
+      Northwestern University Feinberg School of Medicine, Chicago, IL, 60611, USA.
+      sidjreddy@gmail.com.
+AD  - Microsoft Corporation, 555 110th Ave NE, Bellevue, WA, 98004, USA.
+      sidjreddy@gmail.com.
+FAU - Adupa, Abhishek K
+AU  - Adupa AK
+AD  - Division of Health and Biomedical Informatics, Department of Preventive Medicine,
+      Northwestern University Feinberg School of Medicine, Chicago, IL, 60611, USA.
+FAU - Garg, Ravi P
+AU  - Garg RP
+AD  - Division of Health and Biomedical Informatics, Department of Preventive Medicine,
+      Northwestern University Feinberg School of Medicine, Chicago, IL, 60611, USA.
+FAU - Corona-Cox, Jessica
+AU  - Corona-Cox J
+AD  - Division of Cardiology, Department of Medicine, Northwestern University Feinberg 
+      School of Medicine, Chicago, IL, 60611, USA.
+FAU - Shah, Sanjiv J
+AU  - Shah SJ
+AD  - Division of Cardiology, Department of Medicine, Northwestern University Feinberg 
+      School of Medicine, Chicago, IL, 60611, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20170605
+PL  - United States
+TA  - J Cardiovasc Transl Res
+JT  - Journal of cardiovascular translational research
+JID - 101468585
+OTO - NOTNLM
+OT  - Clinical trials
+OT  - Information extraction
+OT  - Natural language processing
+OT  - Precision medicine
+EDAT- 2017/06/07 06:00
+MHDA- 2017/06/07 06:00
+CRDT- 2017/06/07 06:00
+PHST- 2017/01/18 [received]
+PHST- 2017/05/16 [accepted]
+AID - 10.1007/s12265-017-9752-2 [doi]
+AID - 10.1007/s12265-017-9752-2 [pii]
+PST - aheadofprint
+SO  - J Cardiovasc Transl Res. 2017 Jun 5. doi: 10.1007/s12265-017-9752-2.
+
+PMID- 28584085
+OWN - NLM
+STAT- Publisher
+DA  - 20170606
+LR  - 20170606
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+DP  - 2017 Jun 05
+TI  - Language from police body camera footage shows racial disparities in officer
+      respect.
+LID - 201702413 [pii]
+LID - 10.1073/pnas.1702413114 [doi]
+AB  - Using footage from body-worn cameras, we analyze the respectfulness of police
+      officer language toward white and black community members during routine traffic 
+      stops. We develop computational linguistic methods that extract levels of respect
+      automatically from transcripts, informed by a thin-slicing study of participant
+      ratings of officer utterances. We find that officers speak with consistently less
+      respect toward black versus white community members, even after controlling for
+      the race of the officer, the severity of the infraction, the location of the
+      stop, and the outcome of the stop. Such disparities in common, everyday
+      interactions between police and the communities they serve have important
+      implications for procedural justice and the building of police-community trust.
+FAU - Voigt, Rob
+AU  - Voigt R
+AD  - Department of Linguistics, Stanford University, Stanford, CA 94305;
+      robvoigt@stanford.edu jleberhardt@stanford.edu.
+FAU - Camp, Nicholas P
+AU  - Camp NP
+AD  - Department of Psychology, Stanford University, Stanford, CA 94305.
+FAU - Prabhakaran, Vinodkumar
+AU  - Prabhakaran V
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305.
+FAU - Hamilton, William L
+AU  - Hamilton WL
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305.
+FAU - Hetey, Rebecca C
+AU  - Hetey RC
+AD  - Department of Psychology, Stanford University, Stanford, CA 94305.
+FAU - Griffiths, Camilla M
+AU  - Griffiths CM
+AD  - Department of Psychology, Stanford University, Stanford, CA 94305.
+FAU - Jurgens, David
+AU  - Jurgens D
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305.
+FAU - Jurafsky, Dan
+AU  - Jurafsky D
+AD  - Department of Linguistics, Stanford University, Stanford, CA 94305.
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305.
+FAU - Eberhardt, Jennifer L
+AU  - Eberhardt JL
+AD  - Department of Psychology, Stanford University, Stanford, CA 94305;
+      robvoigt@stanford.edu jleberhardt@stanford.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20170605
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+OTO - NOTNLM
+OT  - natural language processing
+OT  - policing
+OT  - procedural justice
+OT  - racial disparities
+OT  - traffic stops
+COI - Conflict of interest statement: J.L.E. was invited by a federal judge and monitor
+      to serve as a Subject Matter Expert to assist with the Oakland Police
+      Department's reform efforts. The assignment began prior to the studies reported
+      here.
+EDAT- 2017/06/07 06:00
+MHDA- 2017/06/07 06:00
+CRDT- 2017/06/07 06:00
+AID - 1702413114 [pii]
+AID - 10.1073/pnas.1702413114 [doi]
+PST - aheadofprint
+SO  - Proc Natl Acad Sci U S A. 2017 Jun 5. pii: 201702413. doi:
+      10.1073/pnas.1702413114.
+
+PMID- 28579533
+OWN - NLM
+STAT- Publisher
+DA  - 20170605
+LR  - 20170605
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+DP  - 2017 Jun 01
+TI  - De-identification of Clinical Notes via Recurrent Neural Network and Conditional 
+      Random Field.
+LID - S1532-0464(17)30122-3 [pii]
+LID - 10.1016/j.jbi.2017.05.023 [doi]
+AB  - De-identification, identifying information from data, such as protected health
+      information (PHI) present in clinical data, is a critical step to enable data to 
+      be shared or published. The 2016 Centers of Excellence in Genomic Science (CEGS) 
+      Neuropsychiatric Genome-scale and RDOC Individualized Domains (N-GRID) clinical
+      natural language processing (NLP) challenge contains a de-identification track in
+      de-identifying electronic medical records (EMRs) (i.e., track 1). The challenge
+      organizers provide 1000 annotated mental health records for this track, 600 out
+      of which are used as a training set and 400 as a test set. We develop a hybrid
+      system for the de-identification task on the training set. Firstly, four
+      individual subsystems, that is, a subsystem based on bidirectional LSTM
+      (long-short term memory, a variant of recurrent neural network), a
+      subsystem-based on bidirectional LSTM with features, a subsystem based on
+      conditional random field (CRF) and a rule-based subsystem, are used to identify
+      PHI instances. Then, an ensemble learning-based classifiers is deployed to
+      combine all PHI instances predicted by above three machine learning-based
+      subsystems. Finally, the results of the ensemble learning-based classifier and
+      the rule-based subsystem are merged together. Experiments conducted on the
+      official test set show that our system achieves the highest micro F1-scores of
+      93.07%, 91.43% and 95.23% under the "token", "strict" and "binary token" criteria
+      respectively, ranking first in the 2016 CEGS N-GRID NLP challenge. In addition,
+      on the dataset of 2014 i2b2 NLP challenge, our system achieves the highest micro 
+      F1-scores of 96.98%, 95.11% and 98.28% under the "token", "strict" and "binary
+      token" criteria respectively, outperforming other state-of-the-art systems. All
+      these experiments prove the effectiveness of our proposed method.
+CI  - Copyright (c) 2017. Published by Elsevier Inc.
+FAU - Liu, Zengjian
+AU  - Liu Z
+AD  - Key Laboratory of Network Oriented Intelligent Computation, Harbin Institute of
+      Technology Shenzhen Graduate School, Shenzhen, China 518055. Electronic address: 
+      liuzengjian.hit@gmail.com.
+FAU - Tang, Buzhou
+AU  - Tang B
+AD  - Key Laboratory of Network Oriented Intelligent Computation, Harbin Institute of
+      Technology Shenzhen Graduate School, Shenzhen, China 518055. Electronic address: 
+      tangbuzhou@gmail.com.
+FAU - Wang, Xiaolong
+AU  - Wang X
+AD  - Key Laboratory of Network Oriented Intelligent Computation, Harbin Institute of
+      Technology Shenzhen Graduate School, Shenzhen, China 518055. Electronic address: 
+      wangxl@insun.hit.edu.cn.
+FAU - Chen, Qingcai
+AU  - Chen Q
+AD  - Key Laboratory of Network Oriented Intelligent Computation, Harbin Institute of
+      Technology Shenzhen Graduate School, Shenzhen, China 518055. Electronic address: 
+      qingcai.chen@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20170601
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+OTO - NOTNLM
+OT  - De-identification
+OT  - Ensemble system
+OT  - Natural language processing
+OT  - Protected health information
+OT  - Recurrent neural network
+EDAT- 2017/06/06 06:00
+MHDA- 2017/06/06 06:00
+CRDT- 2017/06/06 06:00
+PHST- 2017/01/29 [received]
+PHST- 2017/05/26 [revised]
+PHST- 2017/05/30 [accepted]
+AID - S1532-0464(17)30122-3 [pii]
+AID - 10.1016/j.jbi.2017.05.023 [doi]
+PST - aheadofprint
+SO  - J Biomed Inform. 2017 Jun 1. pii: S1532-0464(17)30122-3. doi:
+      10.1016/j.jbi.2017.05.023.
+
+PMID- 28578222
+OWN - NLM
+STAT- Publisher
+DA  - 20170604
+LR  - 20170604
+IS  - 1873-7838 (Electronic)
+IS  - 0010-0277 (Linking)
+VI  - 166
+DP  - 2017 Jun 01
+TI  - Using prosody to infer discourse prominence in cochlear-implant users and
+      normal-hearing listeners.
+PG  - 184-200
+LID - S0010-0277(17)30146-4 [pii]
+LID - 10.1016/j.cognition.2017.05.029 [doi]
+AB  - Cochlear implants (CIs) provide speech perception to adults with
+      severe-to-profound hearing loss, but the acoustic signal remains severely
+      degraded. Limited access to pitch cues is thought to decrease sensitivity to
+      prosody in CI users, but co-occurring changes in intensity and duration may
+      provide redundant cues. The current study investigates how listeners use these
+      cues to infer discourse prominence. CI users and normal-hearing (NH) listeners
+      were presented with sentences varying in prosody (accented vs. unaccented words) 
+      while their eye-movements were measured to referents varying in discourse status 
+      (given vs. new categories). In Experiment 1, all listeners inferred prominence
+      when prosody on nouns distinguished categories ("SANDWICH"-->not sandals). In
+      Experiment 2, CI users and NH listeners presented with natural speech inferred
+      prominence when prosody on adjectives implied contrast across both categories and
+      properties ("PINK horse"-->not the orange horse). In contrast, NH listeners
+      presented with simulated CI (vocoded) speech were sensitive to acoustic
+      differences in prosody, but did not use these cues to infer discourse status.
+      Together, this suggests that exploiting redundant cues for comprehension varies
+      with the demands of language processing and prior experience with the degraded
+      signal.
+CI  - Copyright (c) 2017 Elsevier B.V. All rights reserved.
+FAU - Huang, Yi Ting
+AU  - Huang YT
+AD  - University of Maryland, College Park, United States. Electronic address:
+      ythuang1@umd.edu.
+FAU - Newman, Rochelle S
+AU  - Newman RS
+AD  - University of Maryland, College Park, United States.
+FAU - Catalano, Allison
+AU  - Catalano A
+AD  - University of Maryland, College Park, United States.
+FAU - Goupell, Matthew J
+AU  - Goupell MJ
+AD  - University of Maryland, College Park, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20170601
+PL  - Netherlands
+TA  - Cognition
+JT  - Cognition
+JID - 0367541
+OTO - NOTNLM
+OT  - Acoustic cues
+OT  - Cochlear implants
+OT  - Discourse prominence
+OT  - Eye-tracking
+OT  - Prosody
+EDAT- 2017/06/05 06:00
+MHDA- 2017/06/05 06:00
+CRDT- 2017/06/05 06:00
+PHST- 2016/09/09 [received]
+PHST- 2017/05/09 [revised]
+PHST- 2017/05/19 [accepted]
+AID - S0010-0277(17)30146-4 [pii]
+AID - 10.1016/j.cognition.2017.05.029 [doi]
+PST - aheadofprint
+SO  - Cognition. 2017 Jun 1;166:184-200. doi: 10.1016/j.cognition.2017.05.029.
+
+PMID- 28576748
+OWN - NLM
+STAT- Publisher
+DA  - 20170603
+LR  - 20170603
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+DP  - 2017 May 30
+TI  - Automatic Recognition of Symptom Severity From Psychiatric Evaluation Records.
+LID - S1532-0464(17)30119-3 [pii]
+LID - 10.1016/j.jbi.2017.05.020 [doi]
+AB  - This paper presents a novel method for automatically recognizing symptom severity
+      by using natural language processing of psychiatric evaluation records to extract
+      features that are processed by machine learning techniques to assign a severity
+      score to each record evaluated in the 2016 RDoC for Psychiatry Challenge from
+      CEGS/N-GRID. The natural language processing techniques focused on (a) discerning
+      the discourse information expressed in questions and answers; (b) identifying
+      medical concepts that relate to mental disorders; and (c) accounting for the role
+      of negation. The machine learning techniques rely on the assumptions that (1) the
+      severity of a patient's positive valence symptoms exists on a latent continuous
+      spectrum; and (2) all the patient's answers and narratives documented in the
+      psychological evaluation records are informed by the patient's latent severity
+      score along this spectrum. These assumptions motivated our two-step machine
+      learning framework for automatically recognizing psychological symptom severity. 
+      In the first step, the latent continuous severity score is inferred from each
+      record; in the second step, the severity score is mapped to one of the four
+      discrete severity levels used in the CEGS/N-GRID challenge. We evaluated three
+      methods for inferring the latent severity score associated with each record: (i) 
+      pointwise ridge regression; (ii) pairwise comparison-based classification; and
+      (iii) a hybrid approach combining pointwise regression and the pairwise
+      classifier. The second step was implemented using a tree of cascading support
+      vector machine (SVM) classifiers. While the official evaluation results indicate 
+      that all three methods are promising, the hybrid approach not only outperformed
+      the pairwise and pointwise methods, but also produced the second highest
+      performance of all submissions to the CEGS/N-GRID challenge with a normalized MAE
+      score of 84.093% (where higher numbers indicate better performance). These
+      evaluation results enabled us to observe that, for this task, considering
+      pairwise information can produce more accurate severity scores than pointwise
+      regression - an approach widely used in other systems for assigning severity
+      scores. Moreover, our analysis indicates that using a cascading SVM tree
+      outperforms traditional SVM classification methods for the purpose of determining
+      discrete severity levels.
+CI  - Copyright (c) 2017. Published by Elsevier Inc.
+FAU - Goodwin, Travis R
+AU  - Goodwin TR
+AD  - Human Language Technology Research Institute, Department of Computer Science, The
+      University of Texas at Dallas, Richardson, TX, USA. Electronic address:
+      travis@utdallas.edu.
+FAU - Maldonado, Ramon
+AU  - Maldonado R
+AD  - Human Language Technology Research Institute, Department of Computer Science, The
+      University of Texas at Dallas, Richardson, TX, USA. Electronic address:
+      ramon@utdallas.edu.
+FAU - Harabagiu, Sanda M
+AU  - Harabagiu SM
+AD  - Human Language Technology Research Institute, Department of Computer Science, The
+      University of Texas at Dallas, Richardson, TX, USA. Electronic address:
+      sanda@utdallas.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20170530
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+OTO - NOTNLM
+OT  - healthcare informatics
+OT  - pairwise transform
+OT  - random forest
+OT  - ridge regression
+OT  - support vector machine
+OT  - symptom severity
+EDAT- 2017/06/04 06:00
+MHDA- 2017/06/04 06:00
+CRDT- 2017/06/04 06:00
+PHST- 2017/02/02 [received]
+PHST- 2017/05/25 [revised]
+PHST- 2017/05/26 [accepted]
+AID - S1532-0464(17)30119-3 [pii]
+AID - 10.1016/j.jbi.2017.05.020 [doi]
+PST - aheadofprint
+SO  - J Biomed Inform. 2017 May 30. pii: S1532-0464(17)30119-3. doi:
+      10.1016/j.jbi.2017.05.020.

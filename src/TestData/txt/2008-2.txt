@@ -1,0 +1,1419 @@
+﻿南京大学中国社会科学研究评价中心
+数字文献处理系统 版本：2.1
+版权所有 (C) 2000 - 2001 CSSCI Corp.
+
+
+【来源篇名】阈红利边界下理赔时间间隔与理赔额相依的风险模型
+【英文篇名】A Risk Model with Dependence between Interclaim Arrivals and Claim Sizes under A Threshold Dividend Strategy
+【来源作者】张燕/田铮/刘向增
+【基    金】国家自然科学基金（60375003）/国家航空基金（03I53059）
+【期    刊】数理统计与管理
+【第一机构】解放军理工大学
+【机构名称】[张燕]解放军理工大学.理学院/[田铮]西北工业大学.应用数学系/[刘向增]西北工业大学.应用数学系
+【第一作者】张燕
+【中图类号】F224
+【年代卷期】2008,(040):730-739
+【基金类别】国家自科基金/国家级其它基金/
+【参考文献】
+1.Albrecher, H..A ruin model with dependence between claim sizes and claim intervals.Insurance: Mathematics and Economics.2004.35:245-254
+2.Boudreault, M..On a risk model with dependence between interclaim arrivals and claim sizes.Scandinavian Actuarial Journal.2006.2006:265-285
+3.Lin, X.S..Classical risk model with a constant dividend barrier: Analysis of the Gerber-Shiu discounted penalty function.Insurance: Mathematics and Economics.2003.33:551-566
+4.David, Landriault.Constant dividend barrier in a risk model with interclaim-dependent claim sizes.Insurance: Mathematics and Economics.
+5.Lin, X.S..Compound Poisson risk model with a threshold dividend strategy.Insurance: Mathematics and Economics.2006.38:57-80
+6.Li, S..On ruin for the Erlang(n) risk process.Insurance: Mathematics and Economics.2004.34:391-408
+7.Lin, X.S..Analysis of a defective renewal equation arising in ruin theory.Insurance: Mathematics and Economics.1999.25:63-84
+-----------------------------------------------------------------------
+
+【来源篇名】MCS在概率论与数理统计教学中的应用研究
+【英文篇名】The Applying Research of MCS on the Teaching of Probability and Mathematic Statistic
+【来源作者】江海峰
+【基    金】安徽工业大学青年教师科研基金项目（QS200808）
+【期    刊】数理统计与管理
+【第一机构】安徽工业大学
+【机构名称】[江海峰]安徽工业大学.经济学院
+【第一作者】江海峰
+【中图类号】F224
+【年代卷期】2008,(040):740-747
+【基金类别】其它基金/
+【参考文献】
+1.杨自强.你也需要蒙特卡罗方法——一个得心应手的工具.数理统计与管理.2007.（1）:178-188
+2.杨自强.你也需要蒙特卡罗方法——应用水平的若干技巧.数理统计与管理.2007.（2）:365-376
+3.高蕙暄.SAS系统BASE SAS软件使用手册.北京:中国统计出版社，2007:
+4.岳朝龙.SAS系统与经济统计分析.合肥:中国科技大学出版社，2002:
+5.杨自强.任意分布随机变量抽样的通用算法与程序.数值计算与计算机应用.2006.（3）:191-200
+6.Hamilton, J.D..Time Series Analysis.Princeton University Press，1994:
+7.江海峰.扰动项非经典假设下检验效率的模拟研究——基于确定趋势模型.安徽工业大学学报（自然科学版）.2007.（3）:345-348
+-----------------------------------------------------------------------
+
+【来源篇名】多元协方差分析用于艾滋病疗法的选择
+【英文篇名】The Analysis of Multiple Covariance Uses in AIDS Therapy Choice
+【来源作者】桂文林/潘庆年
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】惠州学院
+【机构名称】[桂文林]惠州学院.数学系/[潘庆年]惠州学院.数学系
+【第一作者】桂文林
+【中图类号】C812
+【年代卷期】2008,(040):748-754
+【基金类别】
+【参考文献】
+1.李太生.2005年临床医学进展回归-艾滋病治疗.2006
+2.石美娟.ARIMA模型在上海市全社会固定资产投资预测中的应用.数理统计与管理.2005.24（1）:69-74
+3.Fitzmaurice, Garrett M..Applied Longitudinal Analysis.Wiley, John & Sons, Incorporated-January，2004:
+4.易丹辉.数据分析与EVIEWS应用.北京:中国统计出版社，2002:
+5.Gujarati, Damodar N..Basic Econometrics.北京:中国人民大学出版社，1996:
+6.娄冬华.引入协变量比较药物的效果.数理医药学杂志.2000.13（1）:66-67
+7.李丽霞.哑变量在统计分析中的应用.数理医药学杂志.2006.19（1）:51-53
+8.余红梅.协方差分析思想教学讨论-剩余平方和再分解.中国卫生统计.2001.18（2）:116-118
+9.余建英.数据统计分析与SPSS应用.北京:人民邮电出版社，2003
+10.卢纹岱.SPSS for Windows统计分析.北京:电子工业出版社，2003:
+-----------------------------------------------------------------------
+
+【来源篇名】由正交表变换得到的2阶平衡的相关免疫函数
+【英文篇名】The Correlation—immune Functions of 2 Order Obtained from Transformation of Orthogonal Arrays
+【来源作者】庞善起/杜蛟/王蕊/陈利艳
+【基    金】国家自然科学基金资助项目（10571045）/河南省创新型科技人才队伍建设工程项目
+【期    刊】数理统计与管理
+【第一机构】河南师范大学
+【机构名称】[庞善起]河南师范大学.数学与信息科学学院/[杜蛟]河南师范大学.数学与信息科学学院/[王蕊]河南师范大学.数学与信息科学学院/[陈利艳]河南师范大学.数学与信息科学学院
+【第一作者】庞善起
+【中图类号】F222.2
+【年代卷期】2008,(040):622-628
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.孙淑玲.组合数学引论.合肥:中国科学技术大学出版社，2005
+2.Siegenthaler, T..Decrypting a class of stream ciphers using cipher-text only.IEEE Trans Computers.1985.34(1):81-85
+3.Siegenthaler, T..Correlation immunity of nonlinear combining functions for Cryptographic applications.IEEE Trans.1984.30(5):776-778
+4.陈鲁生.平衡的相关免疫函数的一种构造方法.南开大学学报（自然科学版）.1999.32（4）:84-86
+5.温巧燕.正交矩阵的递归生成算法.西安电子科技大学学报.1999.（1）:1-3
+6.潘永涛.次数最大的平衡相关免疫函数的构造.电子与信息学报.2006.28（12）:2355-2358
+7.温巧燕.现代密码学中的布尔函数.北京:科学出版社，2001
+8.张宵.相关免疫函数的一种等价描述.云南民族大学学报（自然科学版）.2006.15（2）:93-95
+9.庞善起.正交表的构造及其应用.成都电子科技大学出版社.2004.2004
+10.温巧燕.m阶相关免疫函数的构造与计数.西安电子科技大学学报.1997.24（1）:36-39
+11.Hedayat, A.S..Orthogonal Arrays: Theory and Applications.New York:Springer-Verlag，1999
+12.张应山.正交表的数据分析及其构造:博士学位论文.华东师范大学，2006
+13.温巧燕.2阶相关免疫函数的构造与计数.通信学报.1998.19（8）:40-43
+-----------------------------------------------------------------------
+
+【来源篇名】我国人口时间序列的变系数预测模型
+【英文篇名】The Varying—Coefficient Model for Population Time Series of Our Country
+【来源作者】姜爱平
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】宁夏大学
+【机构名称】[姜爱平]宁夏大学.数学计算机学院
+【第一作者】姜爱平
+【中图类号】C924.2
+【年代卷期】2008,(050):755-759
+【基金类别】
+【参考文献】
+1.卢一强.函数系数和部分线性模型中的估计问题:博士论文.华中师范大学，2003
+2.Hastie, T..Varying-coefficient models(with discussion).Roy. Statist. Soc. B..1993.55:757-796
+3.Tong, H..Non-linear time series: a dynamical system approach.Oxford:Oxford University Press，1990
+4.Haggan, V..Modeling nonlinear vibrations using an amplitude-dependent auto-regressive time series model.Biometrika.1981.68:189-196
+5.Ozaki, T..Statistical analysis of perturbed limit cycle process using nonlinear time series models.J. Time Ser. Anal.1982.3(1):29-41
+6.Chen, R..Functional-coefficient autoregressive models.Journal of the American Statistical Association.1993.88:298-308
+7.Cai, Z..Functional-coefficient regression models for nonlinear time series.Journal of the American Statistical Association.2000.95:941-956
+8.Xia, Y..On the estimation and testing of functional-coefficient linear models.Statistica Sinica.1999.(9):735-758
+9.Fan, J.Q..Statistical estimation in varying-coefficient models.Ann. Statist.1999.27(5):1491-1518
+10.Huang, J.Z..Functional coefficient regression models for nonlinear time series: A polynomial spline approach.Scand. J. Statist.2004.31(4):515-534
+11.姜爱平.预测我国人口总量的具有外生变量的半参数自回归模型.河南科技大学学报（自然科学版）.2007.28（1）:97-100
+12.Efrom, B..An introduction to the bootstrap.London:London Capman & Hall，1993
+13.刘建.对Bootstrap方法的自助抽样的改进.数学理论与应用.2006.26（1）:69-72
+14.Young, P..Jackknife and bootstrap resampling methods in statistical analysis to correct for bias.Statistical Science.1996.11:189-228
+15.Kreiss, P.J..Bootstrap tests for simple structures in nonparametric time series regression.Ann. Statist.2001.26:1570-1613
+-----------------------------------------------------------------------
+
+【来源篇名】上海市农村信息化公众满意度研究
+【英文篇名】A Study on Shanghai Rural Information Undertaking Public Satisfaction
+【来源作者】杨忠直/位志宇/赵学卿
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】上海交通大学
+【机构名称】[杨忠直]上海交通大学.安泰管理学院/[位志宇]北京市经济信息中心./[赵学卿]中国社会科学院研究生院.
+【第一作者】杨忠直
+【中图类号】F32
+【年代卷期】2008,(050):760-766
+【基金类别】
+【参考文献】
+1.刘燕.电子政务顾客满意度指数模型实证研究.系统工程.2006.24（5）:50-56
+2.史达.辽宁省电子政务绩效测评——基于公众满意视角的研究.财经问题研究.2006.（5）:55-62
+3.Zeitham, V..Nature and determinants of customer expectations of services.Journal of Academy of Marketing Science.1993.21(1):1-12
+4.Bagozzi, R.P..On the Use of Structural Equation Model in Experimental Designs.Journal of Marketing Research.1988.26:271-284
+5.Baumgartner, H..Applications of Structural Equation Modeling in Marketing and Consumer Research: A Review.International Journal of Research in Marketing.1996.13:139-161
+6.Bentler, P.M..Comparative Fit Indexes in Structural Models.Psychological Bulletin.1990.107
+-----------------------------------------------------------------------
+
+【来源篇名】家庭的社会特征对住房市场需求的影响研究
+【英文篇名】The Influence of Family Social Stratification on the Housing Market Demand
+【来源作者】孙玉环/马晓燕
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】东北财经大学
+【机构名称】[孙玉环]东北财经大学.国民核算研究中心/[马晓燕]益普索（中国）市场研究咨询有限公司.
+【第一作者】孙玉环
+【中图类号】F224
+【年代卷期】2008,(050):767-776
+【基金类别】
+【参考文献】
+1.Dowell, Myers.Introduction: The Emerging Concept of Housing Demography:Housing Demography:Linking Demographic Structure and Housing Markets.Madison:The University of Wisconsin Press,1990
+2.Gregory, Mankiw, W..Baby Boom, the Baby Bust and the Housing Market.Regional Science and Urban Economics.1989.19:235-258
+3.Demographic Factors and the Demand for Housing
+4.Kuismanen, Mika.Demographic Factors and the Demand for Housing in the Helsinki Metropolitan Area.VATT Discussion Papers.1999.(191)
+5.Maxfield Research Inc..Housing Market Analysis and Demand Estimates for Owatonna, Minnesota.2006
+6.Retsinas, Nicolas P..Low-Income Homeownership: Examining the Unexamined Goal.Cambridge, MA and Washington, D.C.:Joint Center for Housing Studies ;Brookings Institutions Press，2002
+7.Lifestyle market research for the design of production houses
+8.Multiple-Home Ownership and the Income Elasticity of Housing Demand, W06-5
+9.Immigration and housing rents in American cities: Working Papers 03-12
+10.Impact of Minority Growth and Minorities' Rising Household Income on Housing Markets(W05-5)
+11.Buying For Themselves: An Analysis of Unmarried Female Home Buyers, N06-3
+12.帅友良.中国人口城市化对城镇住宅市场需求的影响.统计研究.2005.（9）:75-79
+13.王永慧.未来人口年龄结构变动对住宅需求的影响.西北人口.2005.（3）:6-8
+14.易成栋.从社会阶层标准看中国城镇住宅市场细分.东北财经大学学报.2006.（9）:68-72
+15.刘光宇.对城市住宅商品需求的家庭人口因素分析.西北人口.2005.（4）:59-61
+16.谢益辉.基于R软件rpart包的分类与回归树应用.统计与信息论坛.2007.（5）:67-70
+17.薛富波.SAS8.2统计应用教程.北京:兵器工业出版社，2004:
+18.卢纹岱.SPSS for Windows统计分析.北京:电子工业出版社，2007:
+-----------------------------------------------------------------------
+
+【来源篇名】人力资本与经济增长关系实证分析——以浙江省为例
+【英文篇名】Empirical Study on the Relationship between Human Capital and Economic Growth——Based on Zhejiang Province
+【来源作者】孙敬水/许利利
+【基    金】浙江省哲社科学基金项目（07CGLJ013Y BX）/浙江省社科联重点项目（07Z11）/浙江省教育厅项目（1020KZ207176）
+【期    刊】数理统计与管理
+【第一机构】浙江工商大学
+【机构名称】[孙敬水]浙江工商大学.现代商贸研究中心/[许利利]浙江工商大学.现代商贸研究中心
+【第一作者】孙敬水
+【中图类号】F224
+【年代卷期】2008,(050):777-784
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.舒尔茨，西奥多.人力资本投资:教育和研究的作用.北京:商务印书馆，1990:
+2.Mankiw, N.G..Division of Labor, Coordination Costs, and Knowledge.Quarterly Journal of Economics.1992.107(2):407-437
+3.Bils, M..Does Schooling Cause Growth.American Economic Review.2000.90(5):1160-1183
+4.Freire-Seren, Maria Jesus.Human Capital Accumulation and Economic Growth.Economica Letters.2001.55:425-429
+5.Barro, Robert J..Economic growth in a Cross Section of Countries.Quarterly Journal of Economics.1991.105(5):407-443
+6.Wang, Yan.Sources of China's Economics Growth 1952-1999: Incorporating Human Capital Accumulation.China Economic Review.2003.14(1):32-52
+7.王金营.人力资本与经济增长理论与实证.北京:中国财政经济出版社，2001
+8.王小鲁.中国地区差距的变动趋势和影响因素.经济研究.2004.（1）:33-44
+9.Benhabib, J..Role of Human Capital in Economic Development: Evidence from Aggregate Cross-country Data.Journal of Monetary Economics.1994.34(2):143-174
+10.Filmer, D..Effect of Household Wealth on Educational Attainment: Evidence from 35 Countries.Population and Development Review.1999.25(1):85-120
+11.边雅静.人力资本对我国东西部经济增长影响的实证分析.数量经济技术经济研究.2004.（12）:19-24
+12.王宇.人力资本与经济增长之间关系研究.管理科学.2005.（2）:32-39
+-----------------------------------------------------------------------
+
+【来源篇名】面向顾客资产的三维顾客细分模型及其应用
+【英文篇名】Application and Model of Customer Segmentation Oriented Customer Equity
+【来源作者】孟庆良/邹农基/陈晓君
+【基    金】国家教育部人文社科基金青年项目（07JC630037）/江苏省社科联课题资助项目（A-07-45）
+【期    刊】数理统计与管理
+【第一机构】江苏科技大学
+【机构名称】[孟庆良]江苏科技大学.经济管理学院/[邹农基]江苏科技大学.西校区管委会/[陈晓君]江苏大学.人文社科学院
+【第一作者】孟庆良
+【中图类号】F272
+【年代卷期】2008,(050):785-794
+【基金类别】教育部基金/其它基金/
+【参考文献】
+1.Blattberg, R..Manage Marketing by the Customer Equity Test.Harvard Business Review.1996.(July-August):136-144
+2.Rust，张平淡译.驾驭顾客资产.北京:企业管理出版社，2001
+3.Gupta, S..Valuing Customers.Journal of Marketing Research.2004.41(1):7-18
+4.Hughes, Arthur M..Strategic Database Marketing.Chicago:Probus Publishing，1994
+5.Marcus, C..A practical yet meaningful approach to customer segmentation.Journal of Consumer Marketing.1998.15(5):494-504
+6.Reinartz, Werner.走出客户忠诚的误区:哈佛商业评论（第2辑）.北京:社会科学文献出版社,2002
+7.Hwang, Hyunseok.An LTV model and customer segmentation based on customer value: a case study on the wireless telecommunication industry.Expert Systems with Applications.2004.26:181-188
+8.夏维力.基于客户价值的客户细分及保持策略研究.管理科学.2006.19（4）:35-38
+9.Customer Metrics and Their Impact on Financial Performance: working paper
+10.Impact of Marketing-Induced vs. Word-of-Mouth Customer Acquisition on Customer Equity: working paper
+11.Reinartz, Werner J..On the Profitability of Long-life Customers in a Non-contractual Setting: An Empirical Investigation and Implications for Marketing.Journal of Marketing.2000.64(4):17-35
+12.冯兵.非契约型客户关系细分方法研究.软科学.2006.20（5）:16-19
+13.Schmittlein, D..Counting your customers: Who are they and what will they do next?.Management Science.1987.33:1-24
+14.Fader, Peter S..RFM and LV: Using Iso-value Curves for Customer Base Analysis.Journal of Marketing Research.2005.42(5):415-430
+15.Olivia, P.R.，朱扬勇译.数据挖掘实践.北京:机械工业出版社，2003
+16.张文彤.世界优秀统计工具SPSS11.0统计分析教程.北京:希望电子出版社，2002
+-----------------------------------------------------------------------
+
+【来源篇名】结合离群值对广东省进出口总额的预测分析
+【英文篇名】The Prediction of the Import—export Volume of Guangdong with Outliers
+【来源作者】杨子怡
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】北京工业大学
+【机构名称】[杨子怡]北京工业大学.应用数理学院
+【第一作者】杨子怡
+【中图类号】F224
+【年代卷期】2008,(050):795-800
+【基金类别】
+【参考文献】
+1.傅晓旗.2006年中国进出口预测与分析.管理评论.2006.（1）
+2.Brockwell, P..Time Series: Theory and Methods.New York:Springer Verlag，1991
+3.牛东晓.电力负荷预测技术及其应用.北京:中国电力出版社
+4.薛微.SPSS统计分析方法及应用.北京:电子工业出版社
+5.Box, G..Time Series Analysis: Forecasting and Control(3rd Edition).Englewood Cliffs NJ:Prentic-Hall，1994
+6.Vandaele, Walter.Applied Time Series and Box-Jenkins Models.Academic Press, Inc.，1984:
+7.Barnett, V..Outlier in Statistical Data.New York:John Wiley and Sons，1994:
+8.Han, Jiawei，范明译.数据挖掘-感念与技术.北京:机械工业出版社，2001
+9.王建州.基于混沌异常数据的动态识别与挖掘.清华大学学报（自然科学版）（增刊）.2005.40（S1）:1753-1756
+10.Pearson, Ronald.Outliers in Process Modeling and Identificaion.IEEE Transactions Control Systems Technology.2002.(10):55-63
+11.Danuser, Gaudenz.Parametric Model Fitting: From Inlier Characterization to Outlier Detection.Transactions On Pattern Analysis and Machine Intelligence.1998.20(2):263-279
+12.Outlier Process
+13.A Comparative Evaluation of Various Methods for Detection of Small Spikes in Data
+14.Outlier Detection Video Sequences under Affine Projection
+-----------------------------------------------------------------------
+
+【来源篇名】材料多因素对24mm滤嘴长卷烟烟气递送量及过滤效率的影响
+【英文篇名】The Effects of Cigarette Materials on the Smoke Delivery—contains and Filtration Efficiency of the Cigarette with 24mm Filter Rod
+【来源作者】魏玉玲/王建/缪明明/李斌/牟定荣
+【基    金】云南中烟工业公司重点科技攻关项目（2006FL01）/云南省科技厅重点科技攻关项目（2006GG16）
+【期    刊】数理统计与管理
+【第一机构】云南烟草科学研究院
+【机构名称】[魏玉玲]云南烟草科学研究院./[王建]云南烟草科学研究院./[缪明明]云南烟草科学研究院./[李斌]云南烟草科学研究院./[牟定荣]红塔集团玉溪卷烟厂.
+【第一作者】魏玉玲
+【中图类号】F224
+【年代卷期】2008,(050):801-806
+【基金类别】其它基金/
+【参考文献】
+1.于川芳.卷烟“三纸一棒”对烟气特征及感官质量的影响（一）.中国烟草学报.2001.7（2）:1-7
+2.于川芳.卷烟“三纸一棒”对烟气特征及感官质量的影响（二）.中国烟草学报.2001.7（3）:6-10
+3.王理珉.通风技术对卷烟性能的影响研究.海南，2005:158-163
+4.任露泉.试验优化设计与分析.北京:高等教育出版社，2003
+5.茆诗松.试验设计.北京:中国统计出版社，2004
+-----------------------------------------------------------------------
+
+【来源篇名】多元质量特性预报:MULTIVARIATE回归分析的应用
+【英文篇名】Multivariate Regression Prediction Analysis of Multiple Quality Characteristics
+【来源作者】耿修林
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】南京大学
+【机构名称】[耿修林]南京大学.商学院
+【第一作者】耿修林
+【中图类号】F224
+【年代卷期】2008,(050):807-814
+【基金类别】
+【参考文献】
+1.Montgomery, D.C..Some Techniques for Multivariate Quality Control Application.1972
+2.耿修林.管理统计.北京:科学出版社，2004
+3.于秀林.多元统计分析.北京:中国统计出版社，2004
+4.Ryan, T.P..Statistical Methods for Quality Improvement.New York:John Wiley，1989
+5.张公绪.新编质量管理学.北京:高等教育出版社，1998
+6.Daniel, C..Fitting Equations to Data.New York:John Wiley，1980
+7.耿修林.基于主成分原理的多元质量控制图的构造.数理统计与管理.2007.（1）:106-111
+-----------------------------------------------------------------------
+
+【来源篇名】基于变系数回归模型的石油价格预测
+【英文篇名】Oil Price Forecasting Based on Varying Coefficient Regress Model
+【来源作者】舒通
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】中国科学院数学与系统科学研究院
+【机构名称】[舒通]中国科学院数学与系统科学研究院.
+【第一作者】舒通
+【中图类号】F224
+【年代卷期】2008,(050):815-820
+【基金类别】
+【参考文献】
+1.李子奈.计量经济学.北京:高等教育出版社，2005
+2.张日权.变系数模型.北京:科学出版社，2005
+3.孙燕.变系数计量经济学联立模型的局部线性工具向量估计及其性质.数理统计与管理.2007.26（4）
+4.欧阳元.变系数回归模型的参数估计.湘南学院学报.2005.26（2）
+5.Ye, Michael.A monthly crude oil spot price forecasting model using relative inventories.International Journal of Forecasting.2005.2005
+6.Gori, F..Forecast of oil price and consumption in the short term under three scenarios: Parabolic, linear and chaotic behaviour.Energy.2007.2007
+-----------------------------------------------------------------------
+
+【来源篇名】抽样调查中缺失数据的插补方法
+【英文篇名】On Imputation Methods of Missing Data in Survey Sampling
+【来源作者】杨军/赵宇/丁文兴
+【基    金】总装预研重点基金项目（9140A19030106HK0108）
+【期    刊】数理统计与管理
+【第一机构】北京航空航天大学
+【机构名称】[杨军]北京航空航天大学.工程系统工程系/[赵宇]北京航空航天大学.工程系统工程系/[丁文兴]中国标准化研究院.
+【第一作者】杨军
+【中图类号】F224
+【年代卷期】2008,(050):821-832
+【基金类别】其它基金/
+【参考文献】
+1.Little, R.J.A.，孙山泽译.缺失数据统计分析.中国统计出版社，2004
+2.Rao, J.N.K..On variance estimation with imputed survey data.J. Amer. Statist. Assoc.1996.91:499-506
+3.Rubin, D.B..Multiple imputations in sample survey.1978:20-34
+4.Rubin, D.B..Multiple Imputation for Nonresponse in surveys.John Wiley and Sons，1987
+5.Kim, J.K..Imputation using response probability.Canadian Journal of Statistics.2006.34(1):171-182
+6.刘礼.缺失数据的插补方法及相应的Jackknife方差估计:硕士学位论文.中国科学院，2003
+7.Rubin, D.B..Inference and missing data (with discussion).Biometrika.1976.63:581-592
+8.Lu, G.B..Missing at random, likelihood ignorability and model completeness.Ann. Statist.2004.32(2):754-765
+9.Dempster, A.P..Maximum likelihood from incomplete data via the EM algorithm(with disussion).J.Roy.Statist.Soc.Ser.B.1977.39:1-38
+10.Rao, J.N.K..Jackknife variance estimation with survey data under hot deck imputation.Biometrika.1992.79:811-822
+11.Rao, J.N.K..Variance estimation under two-phase sampling with application to to imputation for missing data.Biometrika.1995.82:453-460
+12.Yung, W..Contributions to poststratification and conditional variance estimation: Ph.D..Thesis of Carleton University, Ottawa，1996
+13.Chen, J..Nearest neighbor imputation for survey data.Journal of Official Statistics.2000.16(2):113-131
+14.Chen, J..Jackknife Variance estimation for nearest-neighbor imputation.J. Amer. Statist. Assoc..2001.96:260-269
+15.Shao, J..Bootstrap for imputed survey data.J. Amer. Statist. Assoc..1996.91:1278-1288
+16.Shao, J..Bootstrapping sample quantiles based on complex survey data under hot deck imputation.Statistica Sinica.1998.1071-1085
+17.Bello, A.L..A bootstrap method for using imputation techniques for data with missing values.Biom. J..1994.(4):453-464
+18.杨军.比例Bootstrap及其方差估计的相合性.中国科学院研究生院学报.2007.24（3）:273-277
+19.Sitter, R.R..Imputation for missing values and corresponding variance estimation.Canadian Journal of Statistics.1997.25(1):61-73
+20.杨军.抽样调查中缺失数据的插补方法研究:博士学位论文.中国科学院，2006
+21.杨军.辅助变量不完全情形下的回归插补及方差估计.系统工程理论与实践.2008.28（1）:146-150
+22.杨军.使用回答概率的回归插补.工程数学学报.2008.25（4）:616-622
+23.赵民德.探索真相.中国统计出版社，2001
+24.Chao, M.T..Asymptotic behavior of Bayes' estimators.Ann. Math. Statist..1970.41(3):601-608
+25.Li, K.H..Large sample significance levels from multiply-imputed data using moment-based statistics and an F refence distribution.J. Am. Statist. Assoc.1991.86:1065-1073
+26.Li, K.H..Significance levels from repeated p-values with multiply-imputed data.Statist. Sinica.1991.(1):65-92
+27.Meng, X.L..Performing likelihood ratio tests with multiply-imputed data sets.Biometrika.1992.79:103-111
+28.Yang, C.Y..Multiple imputation for missing data: Concepts and new development.2001
+29.Tanner, M.A..Calculation of posterior distribution by data augmentation(with diacussion).J. Amer. Statist. Assoc..1987.82:528-550
+30.Schafer, J.L..Analysis of Incomplete Multivariate Data.Chapman and Hall，1997
+31.Tanner, M.A..Lecture notes in Statistics.New York:Springer，1992
+32.Rubin, D.B..Using the SIR algorithm to simulate posterior distributions(with discussion):Bayes Statistics(3).Oxford:Oxford University Press,1988:395-402
+33.Yang, Jun.Two Noniterative Algorithms for Computing Posteriors.Computational Statistics.2008.23:443-453
+34.Ng, K.W..Explicit formulas for unconditional pdf. Research Report, No.82(revised).Department of Statistics, University of Hong Kong，1995
+35.Ng, K.W..Inversion of Bayes formula: explicit formulas for unconditional pdf:Advances in the theory and Practice in Statistics:Wiley, New York,1997:571-584
+36.Dear, R.E..A principal-component missing data method for multiple regression methods. Report SP-86, System Development Corporation.Santa Monica, CA，1959
+37.Gabriel, K.R..Lower rank approximation of matrices by least squares with any choices of weights.Technometrics.1979.21:489-498
+38.Krzanowski, W.J..Missing value imputation in multivariate data using the singular value decomposition of a matrix.Biometrical Letters.1988.25:31-39
+39.Wasito, I..Nearest neighbor approach in the least-squares data imputation algorithms.2004
+-----------------------------------------------------------------------
+
+【来源篇名】逐步增加II型截尾下n中取m串连续k失效系统的可靠性评估
+【英文篇名】Reliability Evaluation of m—Consecutive—k—out—of—n: F systems Based on Progressively Type—II Censored
+【来源作者】李豪亮/师义民/覃晓琼
+【基    金】国家自然科学基金（70471057）/陕西省教育厅自然科学基金(03JK065）
+【期    刊】数理统计与管理
+【第一机构】西北工业大学
+【机构名称】[李豪亮]西北工业大学.应用数学系/[师义民]西北工业大学.应用数学系/[覃晓琼]西北工业大学.应用数学系
+【第一作者】李豪亮
+【中图类号】F222
+【年代卷期】2008,(050):833-837
+【基金类别】国家自科基金/其它基金/
+【参考文献】
+1.Papastavridis, S.G..M-consecutive-k-out-of-n: F-system.IEEE Trans.Reliability.1990.39:386-388
+2.张元林.n中取相邻n-1好的可修系统的可靠性分析.自动化学报.1997.23（6）:807-811
+3.Boland, P.J..Consecutive k out of n: F systems with cycle k.Statistics & Probability Letters.1999.44(2):155-160
+4.Arulmozhi, G..Exact equation and algorithm for reliability evaluation of k-out-of-n: G system.Reliability Engineering and Safety.2002.78(2):87-91
+5.Miroslav, K..Exact reliability formula and bounds for general k-out-of-n systems.Reliability Engineering and Safety.2003.82(2):229-231
+6.师义民.定数双截尾样本下k/N（G）系统可靠性指标的经验Bayes估计.数学的实践与认识.2007.37（1）:85-88
+7.汤胜道.寿命可交换的n中取m串连续k失效的系统.应用科学学报.2004.22（4）:538-541
+8.茆诗松译.寿命数据中的统计模型与方法.北京:中国统计出版社，1998
+9.茆诗松.贝叶斯统计.北京:中国统计出版社，1999
+10.苏岩.冷贮备系统可靠性指标的Bayes估计.华北电力大学学报.2003.30（2）:96-99
+-----------------------------------------------------------------------
+
+【来源篇名】PLM中误差方差未知时的GLR
+【英文篇名】GLR Test in PLM with Unknown Variance of Error
+【来源作者】施三支/宋立新/杨华
+【基    金】国家自然科学基金（10271049/10571073）
+【期    刊】数理统计与管理
+【第一机构】长春理工大学
+【机构名称】[施三支]长春理工大学.理学院/[宋立新]大连理工大学.应用数学系/[杨华]长春理工大学.理学院
+【第一作者】施三支
+【中图类号】F222
+【年代卷期】2008,(050):838-842
+【基金类别】国家自科基金/
+【参考文献】
+1.Granger, Engle R..Nonparametric estimates of the relation between weather and electricity sales.J. Amer. Statist. Ass.1986.81:310-320
+2.Heckman, N.E..Spline Smoothing in Partly Linear Models.JRSS B..1986.48:244-248
+3.Rice, J.A..Convergence Rates for Partially Splined Models.Statistic and Probability Letters.1986.(4):203-208
+4.Speckman, P..Kernel Smoothing in Partial Linear Models.Journal of the Royal Statistical Society, Series B..1988.50:413-436
+5.Opsomer, J.D..A Root-n Consistent Backfitting Estimator for Semiparametric Additive Modelling.Journal of Computational and Graphical Statistics.1999.8:715-732
+6.Hamilton, S.A..Local Linear Estimation in Partly Linear Models.Journal of Multivariate Analysis.1997.60:1-19
+7.Hardle, W..Partially Linear Models.Heidelberg:Springer Physica-Verlag，2000
+8.Schmalensee, R..Househpld Gasoline Demand in the United States.Econometrica.1999.67:645-662
+9.Zeger, S.L..Semiparametric Models for Longitudinal Data with Application to CD4 Cell Numbers in HIV Seroconverters.Biometrics.1994.50:689-699
+10.Liang, H..Estimation in Partially Linear Models and Numerical Comparisons.Journal of the American Statistical Association.2004.99(1):357-467
+11.洪圣岩.一类半参数回归模型的估计理论.中国科学.1991.12:1258-1272
+12.高集体.半参数回归模型中估计的大样本理论:博士论文.合肥:中国科技大学研究生院，1992
+13.高集体.部分线性回归模型中的自适应估计.中国科学.1992.8:791-803
+14.施沛德.半参数回归模型中的M估计:博士论文.中科院系统所，1992
+15.施沛德.相依数据部分线性模型的M估计的收敛速度.中国科学.1995.25（2）:147-154
+16.柴根象.半参数回归模型.安徽教育出版社，1994
+17.王启华.随机截断下半参数回归模型中的相合估计.中国科学.1995.25（8）:819-832
+18.王启华.随机删失半参数回归模型中估计的渐近性质.中国科学.1997.27（7）:583-594
+19.Wang, Q.H..Empirical Likelihood for Partial Linear Models.Ann. Inst. Statist. Math.2003.55(3):585-595
+20.Fan, J..Profile Likelihood Inferences on Semiparametric Varying-coefficient Partially Linear Modeals.Bernoulli.2005.11:1031-1057
+21.Liang, H..Checking Linearity of Nonparametric Component in Partially Linear Models With an Application in Systemic Inflammatory Response Syndrome Study.Statistical Methods in Medical Research.2006.15:273-284
+22.张日权.变系数模型.科学出版社，2001
+23.Fan, J..Local Linear Regression Smoothers and Their Minimax Efficiency.Annals of Statistics.1993.21:196-216
+24.Fan, J..Generalized likelihood ratio statistics and Wilks phenomenon.Annals of Statistics.2001.29:153-193
+-----------------------------------------------------------------------
+
+【来源篇名】基于g函数的多元copula的构造
+【英文篇名】Construction of n—Copulas Depended on g Function
+【来源作者】曾霞/何平
+【基    金】高速列车动车组的寿命与可靠性设计技术（2060AA04Z406）
+【期    刊】数理统计与管理
+【第一机构】湖北经济学院
+【机构名称】[曾霞]湖北经济学院.统计与应用数学系/[何平]西南交通大学.数学系
+【第一作者】曾霞
+【中图类号】F222
+【年代卷期】2008,(050):843-849
+【基金类别】其它基金/
+【参考文献】
+1.Nelsen, Roger B..An introduction to Copulas:Lectures Notes in Statistics(139).New York:Springer Verlag,1999
+2.Schweizer, B..Probalistic Metric Spaces.New York:North-Holland，1983
+3.Marshall, Albert W..Families of multivariate distributions.Journal of the American Statistical Association.1988.1988
+-----------------------------------------------------------------------
+
+【来源篇名】存在随机解释变量的平行数据模型的处理
+【英文篇名】The Disposal of Stochastic Explanatory Variables in the Panel Data Model
+【来源作者】任燕燕
+【基    金】山东省软科学研究计划项目（B200546）/山东省自然科学基金（Y2007A03）
+【期    刊】数理统计与管理
+【第一机构】山东大学
+【机构名称】[任燕燕]山东大学.经济学院
+【第一作者】任燕燕
+【中图类号】F224.0
+【年代卷期】2008,(050):850-856
+【基金类别】省（市）级基金/
+【参考文献】
+1.格林，威廉·H.，王明舰译.经济计量分析.北京:中国社会科学出版社，1998
+2.Wansbeek, T..Measurement Error and Panel data.Statistica Neerlandica.1991.(45):85-92
+3.Solon, G..Intergenerational Income Mobility in the United States.American Economic Review.1992.(82):393-408
+4.Altonji, J..Relationships Among the Family Incoms and Labor Market Outcomes of Relatives.Research in Labor Economics.1991.(12):269,310
+5.Hausmam, J..Specification Tests in Econometrics.Econometrica.1978.(46):1251-1271
+-----------------------------------------------------------------------
+
+【来源篇名】一类基于秩次的稳健线性回归估计与诊断方法
+【英文篇名】A Rank—based Robust Linear Regression Analysis and Diagnostic Methods
+【来源作者】王彤/鲍彦平
+【基    金】山西省自然科学基金（20021031）/山西省高校青年学术带头人基金（晋教科2004-13）资助项目
+【期    刊】数理统计与管理
+【第一机构】山西医科大学
+【机构名称】[王彤]山西医科大学.公共卫生学院/[鲍彦平]中国医学科学院.肿瘤研究所
+【第一作者】王彤
+【中图类号】F222
+【年代卷期】2008,(050):857-863
+【基金类别】省（市）级基金/
+【参考文献】
+1.Jaeckel, L.A..Estimating Regression Coefficients by Minimizing the Dispersion of the Residuals.Annals of Mathematical Statistics.1972.43:1449-1458
+2.Draper, D..Rank-Based Robust Analysis of Linear Models.Statistical Science.1988.(3):239-271
+3.Tableman, M..Bounded-Influence Rank Regression: A One-Step Estimator Based on Wilcoxon Scores.Journal of the American Statistical Association.1990.85
+4.Hossjer, O..Rank-Based Estimates in the Linear Model With High Breakdown Point.Journal of the American Statistical Association.1994.89:149-158
+5.Naranjo, J.D..Bounded Influence Rank Regression.Journal of the Royal Statistical Society B.1994.91:209-220
+6.Wilcox, R.R..Introduction to Robust Estimation and Hypothesis Testing.New York:Acdemic press，1997
+7.Hettmansperger, T.P..Robust nonparametric statistical methods.New York:John Wiley & Sons，1997
+8.Heuristic Search Algorithms for the Minimum Volume Ellipsoid. American Statistical Association, Institute of Mathematical Statistics, and Interface Foundation of North America
+9.王彤.LTS回归与M估计的比较.中国卫生统计.1999.16（2）:79-81
+10.Hawkins, D.M..Location of several outliers in multiple regression data using elemental sets.Technometrics.1984.26:197-208
+11.王彤.对稳健回归尺度参数估计的一种改进.数学的实践与认识.2005.35（2）:106-109
+-----------------------------------------------------------------------
+
+【来源篇名】一类纵向数据半参数模型中的强相合估计
+【英文篇名】Strong Consistency Estimates in Semiparametric Model for Longitudinal Data
+【来源作者】田萍/马国锋
+【基    金】河南省高校青年骨干教师资助计划（2006141）/河南省基础与前沿技术研究（072300410090）/河南省教育厅自然科学基金项目（2007110033）
+【期    刊】数理统计与管理
+【第一机构】许昌学院
+【机构名称】[田萍]许昌学院.数学系/[马国锋]许昌学院.数学系
+【第一作者】田萍
+【中图类号】F224
+【年代卷期】2008,(050):864-868
+【基金类别】省（市）级基金/其它基金/
+【参考文献】
+1.Stone, C.J..Consistent nonparametric regression.Annuals of Statistics.1977.5(4):595-645
+2.赵江.半参数回归函数混合型估计均方收敛性.应用数学学报.1985.8（2）:235-244
+3.Gao, Jiti.Convergence rate of some estimators for a semiparametric regression models.Journal of China University of Science and Technology.1992.22(2):129-137
+4.林正炎.概率极限理论基础.北京:高等教育出版社，1999
+5.陈希孺.线性模型参数的估计理论.北京:科学出版社，1985
+6.钱伟民.纵向数据统计模型中的估计方法:博士学位论文.同济大学，2003
+-----------------------------------------------------------------------
+
+【来源篇名】线性混合效应模型预测值关于白噪声偏离的敏感性分析
+【英文篇名】On the Sensitivity of LME Predictors to Covariance Misspecification
+【来源作者】陈缇/邹国华/张新雨
+【基    金】国家自然科学基金（70625004/70221001/10721101）
+【期    刊】数理统计与管理
+【第一机构】中国科学院数学与系统科学研究院
+【机构名称】[陈缇]中国科学院数学与系统科学研究院./[邹国华]中国科学院数学与系统科学研究院./[张新雨]中国科学院数学与系统科学研究院.
+【第一作者】陈缇
+【中图类号】F224.7
+【年代卷期】2008,(050):869-880
+【基金类别】国家自科基金/
+【参考文献】
+1.Banerjee, A..Sensitivity of OLS when the variance is partially known.Journal of Econometrics.1999.92:295-323
+2.Magnus, J.R..Local sensitivity and diagnostic tests.Econometrics Journal.2007.(10):166-192
+3.Banerjee, A..On the sensitivity of the usual t-and F-tests to covariance misspecification.Journal of Econometrics.2000.95:157-176
+4.Wan, A.T.K..On the sensitivity of the restricted least squares and pre-test estimators to covariance misspecification. Technical report, Department of Management Sciences.City University of Hong Kong，2005
+5.Wan, A.T.K..On the sensitivity of the restricted least squares estimators to covariance misspecification.Econometrics Journal.2007.10:471-487
+6.King, M.L..Robust tests for spherical symmetry and their applications to least squares regression.Annals of Statistics.1980.8:1265-1271
+7.Zinde-Walsh, V..On robustness of tests of linear restrictions in regression models with elliptical error distributions:Time Series and Econometric Modelling:Reidel Publishing, Dordrecht, the Netherlands,1987
+8.Qin, H.Z..On the properties of the t- and F-ratios in linear regressions with non-normal errors.Econometric Theory.2004.20:690-700
+9.Laird, N.M..Random effects models for longitudinal data.Biometrics.1982.38:963-974
+10.Vonesh, E.F..Linear and nonlinear models for the analysis of repeated measurements.New York:Marcel Dekker, Inc.
+11.Pinheiro, J.C..Mixed-effects models in S and S-Plus.New York:Springer，2000
+12.Verbeke, G..Linear mixed models for longitudinal data.New York:Springer，1996
+13.Davidian, M..Nonlinear Models for Repeated Measurement Data.New York:Chapman and Hall，1995
+14.Vaida, F..Conditional Akaike information for mixed-effects models.Biometrika.2005.92:351-370
+-----------------------------------------------------------------------
+
+【来源篇名】最优过程均值和生产运行长度的确定
+【英文篇名】Determination of the Optimal Process Mean and the Length of Production Run
+【来源作者】张斌/韩之俊/曹春正
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】南京理工大学
+【机构名称】[张斌]南京理工大学.经济管理学院/[韩之俊]南京理工大学.经济管理学院/[曹春正]南京信息工程大学.统计学系
+【第一作者】张斌
+【中图类号】F224
+【年代卷期】2008,(050):881-885
+【基金类别】
+【参考文献】
+1.Rahim, M.A..Joint determination of the target mean and variance of a process.Journal of Quality Maintenance Engineering.2000.6(3):192-199
+2.Rahim, M.A..Economic selection of the mean and upper limit for a canning problem with limited capacity.Process Control and Quality.2000.11(5):369-381
+3.Cho, B.R..An integrated joint optimization procedure for robust and tolerance design.International Journal of Production Research.2000.38(10):2309-2325
+4.Cho, B.R..Development of the optimum product specification for an exponential-type quality characteristic.International Journal of Reliability, Quality and Safety Engineering.1996.3(3):243-256
+5.Hall, R.I..Controlling production processes which are subject to linear trend.Operational Research Quarterly.1963.14(3):179-189
+6.Gibra, I.N..Optimal control of processes subject to linear trends.Journal of Industrial Engineering.1967.18(1):34-41
+7.Rahim, M.A..Optimal production run for a process with random linear drift.Omega.1988.16(4):347-351
+8.Al-Sultan, K.S..An extension of Rahim and Banerjee's model for a process with upper specification limits.International Journal Production Economics.1997.53(3):265-280
+9.Al-Sultan, K.S..Variance reduction in a process with random linear drift.International Journal of Production Research.1997.35(6):1523-1533
+10.Hunter, W.G..Determining the most profitable target value for a production process.Journal of Quality Technology.1977.9(4):176-181
+11.Chen, S.L..Determination of the optimal production run and the most profitable process mean for a production process.International Journal of Production Research.1996.34(7):2051-2058
+12.Pakkala, T.P.M..Determination of an optimal setting and production run using taguchi's loss function.International Journal of Reliability, Quality and Safety Engineering.1999.6(4):335-346
+13.Maghsoodloo, S..Optimal asymmetric tolerance design.IIE Trans.2000.32(10):1127-1137
+-----------------------------------------------------------------------
+
+【来源篇名】制造战略与企业绩效关系研究
+【英文篇名】Review of the Relations between Manufacturing Strategy and Enterprise Performance
+【来源作者】郭伟光
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】合肥学院
+【机构名称】[郭伟光]合肥学院.管理系
+【第一作者】郭伟光
+【中图类号】C931.1
+【年代卷期】2008,(050):886-890
+【基金类别】
+【参考文献】
+1.Ward, Peter T..Configuration of manufacturing strategy, business strategy, environment and structure.Journal of Management.1996.22(4):597-626
+2.魏江茹.制造战略研究:回顾与展望.软科学.2005.19（5）:65-67
+3.倪文斌.制造战略研究:现状、问题及趋势.管理科学学报.2003.6（5）:79-86
+4.John, Caron H.St..Change drivers in the new millennium: implications for manufacturing strategy research.Journal of Operations Management.2001.19:143-160
+5.Davies, A.J..Manufacturing best practice and performance studies: a critique.International Journal of Operations& Production Management.2002.22(3):289-305
+6.倪文斌.中日制造企业制造战略分类研究.管理工程学报.2003.17（4）:19-22
+7.杨东涛.公司制造战略检测师表的修订与实证研究.南京大学学报（文科版）.2004.（1）:61-65
+8.朱家饶.基于流程的制造绩效评价体系研究.计算机集成制造系统.2005.11（3）:438-445
+9.Pun, K.F..Determinants of Manufacturing Strategy Formulation: A Longitudinal Study in Hong Kong.Technovation.2004.24:121-137
+-----------------------------------------------------------------------
+
+【来源篇名】应用因子分析法评价建设项目动态联盟的伙伴能力
+【英文篇名】Evaluating Partners Ability of Virtual Enterprise of Construction Project Using Factor Analysis Model
+【来源作者】刘雷/李南
+【基    金】国家自然科学基金资助项目（70473037）/国家软科学研究计划资助项目（2006GXQ3B184）
+【期    刊】数理统计与管理
+【第一机构】南京审计学院
+【机构名称】[刘雷]南京审计学院.江苏省审计信息工程重点建设实验室/[李南]南京航空航天大学.经济与管理学院
+【第一作者】刘雷
+【中图类号】F272
+【年代卷期】2008,(050):891-896
+【基金类别】国家自科基金/国家级其它基金/
+【参考文献】
+1.Baiden, B.K..Extent of team integration within construction projects.International Journal of Project Management.2006.24:13-23
+2.Mohamed, Sherif.Performance in International Construction Joint Ventures: Modeling Perspective.Journal of Construction Engineering and Management.2003.129(6):619-626
+3.Kumaraswamy, M.M..Improved subcontractor selection employing partnering principles.Journal of Management in Engineering.2000.16(3):47-57
+4.Palaneeswaran, Ekambaram.Contractor selection for design/build projects.Journal of Construction Engineering and Management.2000.126(5):331-339
+5.Eddie, W.L..Establishment of critical success factors for construction partnering.Journal of management in engineering.2000.16(2):84-92
+6.Elazouni, Ashraf M..Classifying Construction Contractors Using Unsupervised-Learning Neural Networks.Journal of Construction Engineering and Management.2006.132(12):1242-1253
+7.Pongpeng, Jakrapong.Contractor ability criteria: a view from the Thai construction industry.Construction Management & Economics.2003.21:267-282
+8.Eddie, W.L..Establishment of critical success factors for construction partnering.Journal of management in engineering.2000.16(2):84-92
+9.Hatush, Z..Criteria for contractor selection.Construction management and economics.1997.15:19-38
+-----------------------------------------------------------------------
+
+【来源篇名】中国股市波动性的隐周期研究
+【英文篇名】Research on Implicit Cycle of Volatility in Chinese Stock Market
+【来源作者】苗敬毅
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】山西财经大学
+【机构名称】[苗敬毅]山西财经大学.管理科学与工程学院
+【第一作者】苗敬毅
+【中图类号】F830.91
+【年代卷期】2008,(050):905-910
+【基金类别】
+【参考文献】
+1.吴晓求.证券投资分析.北京:中国人民大学出版社，2001:
+2.王德河.股票市场价格时间序列的动力学分析.统计研究.2003.（11）:62-64
+3.朱孔来.对我国股票市场股指波动特性的实证分析.数理统计与管理.2005.24（3）:104-107
+4.苍玉权.上证指数收益率的长期记忆性.数理统计与管理.2005.24（2）:79-83
+5.田益祥.中国股市短期波动的非理性ARCH效应显著性分析及参数估计.数理统计与管理.2005.23（4）:73-76
+6.陈健.ARCH类模型研究及其在沪市A股中的应用.数理统计与管理.2003.22（3）:10-13
+7.莫扬.股票市场波动性的国际比较研究.数量经济技术经济研究.2004.10:49-56
+8.余素红.基于GARCH模型和SV模型的VaR比较.管理科学学报.2004.7（5）:61-65
+9.张维.上海股票市场波动不对称性研究—GJR-与VS-GARCH模型的比较.数理统计与管理.2005.（6）:96-102
+10.陈浪南.中国股票市场波动非对称性的实证研究.金融研究.2002.（5）:67-73
+11.李萌.中国股票市场风险的实证分析研究.数理统计与管理.2003.22（4）:12-17
+12.于庆年.股票收盘价波动数学模型及其应用分析.数理统计与管理.2005.24（2）:103-107
+13.黄继平.中国股市波动的周期性研究.统计研究.2003.11:9-15
+14.顾岚.时间序列分析-在经济中的应用.北京:中国统计出版社，1994:
+15.李子奈.高等计量经济学.北京:清华大学出版社，2000:
+16.张晓峒.计量经济学软件Eviews使用指南.天津:南开大学出版社，2003:
+17.高惠璇.SAS系统-SAS/ETS软件使用手册.北京:中国统计出版社，1998:
+18.陈共.证券投资分析-风险管理、基本分析、技术分析.北京:中国人民大学出版社，1996:
+-----------------------------------------------------------------------
+
+【来源篇名】中国股市基本面价值加权投资组合研究
+【英文篇名】Fundamental Indexation in Chinese Stock Market
+【来源作者】冯永昌/王骁/陈嵘
+【基    金】北京大学光华管理学院-王山博士生交流基金
+【期    刊】数理统计与管理
+【第一机构】北京大学
+【机构名称】[冯永昌]北京大学.光华管理学院/[王骁]北京大学.光华管理学院/[陈嵘]美国Rutgers University.统计学院
+【第一作者】冯永昌
+【中图类号】F224
+【年代卷期】2008,(050):911-917
+【基金类别】其它基金/
+【参考文献】
+1.顾岚.中国股市的投资组合分析.数理统计与管理.2001.20:36-41
+2.王辉.投资组合风险的分散化研究.数理统计与管理.2004.23:53-57
+3.Arnott, R.D..An Overwrought Orthodoxy.Institutional Investors.2006.40:36-41
+4.Arnott, R.D..Fundamental indexation.Financal Analyst Jouranl.2005.61:83-99
+5.Fischer, Black.Noise.Journal of Finance.1986.41:529-543
+6.Chen, Chen.Fundamental indexation via smoothed cap weights.Journal of Banking and Finance.2007.2007
+7.Fama, E.F..Efficient capital markets: A review of theory and empirical work.Journal of Finance.1970.25:383-417
+8.Fama, E.F..Permanent and temporary components of stock prices.Journal of Political Economy.1988.96:246-273
+9.On mean-variance efficiency of fundamental index portfolio: working paper
+10.Hsu, J.C..Cap weighted portfolios are sub-optimal portfolios.Journal of Investment Management.2006.(4):44-53
+11.Jegadeesh, N..Returns to buying winners and selling losers: Implications for stock market efficiency.Journal of Finance.1993.48:65-91
+12.Keynes, J.M..Genearl Theory of Employment, Interest, and Money.Prometheus Books:New York，1997
+13.LeRoy, S.F..Present-value relation: Tests based on implied variance bounds.Econometrica.1981.49:555-574
+14.Poterba, J.M..Mean reversion in stock prices: Evidence and implications.Journal of Financial Economics.1988.22:27-59
+15.Shiller, R.J..Do stock prices move too much to be justified by subsequest changes in dividends.American Economic Review.1981.71:421-436
+16.Summers, L.H..Does the stock market rationally reflect fundamental values.Journal of Finance.1986.41:591-601
+-----------------------------------------------------------------------
+
+【来源篇名】真实活动操控的盈余管理研究——基于保盈动机的经验证据
+【英文篇名】Real Activities Manipulation on Earnings Management: a Loss—avoidance Based Empirical Evidence
+【来源作者】张俊瑞/李彬/刘东霖
+【基    金】国家自然科学基金（70372048）
+【期    刊】数理统计与管理
+【第一机构】西安交通大学
+【机构名称】[张俊瑞]西安交通大学.管理学院/[李彬]西安交通大学.管理学院/[刘东霖]西安交通大学.管理学院
+【第一作者】张俊瑞
+【中图类号】F230
+【年代卷期】2008,(050):918-927
+【基金类别】国家自科基金/
+【参考文献】
+1.Barton, J..Does the use of financial derivatives affect earnings management decisions.Accounting Review.2001.76(1):1-26
+2.Beneish, M..Earnings management: A Perspective.Managerial Finance.2001.27(12):3-17
+3.Healy, P.M..Effect of bonus schemes on accounting decisions.Journal of Accounting and Economics.1985.7:85-107
+4.DeAngelo, E..Managerial compensation, information costs and corporate governance: the use of accounting performance measures in proxy contests.Journal of Accounting and Economics.1988.10:3-36
+5.McNichols, M.F..Research Design Issues in Earnings Management Studies.Journal of Accounting and Public Policy.2000.19:313-345
+6.Bruns, W..Dangerous morality of managing earnings.Management Accounting.1990.72(2):22-25
+7.Graham, J.R..Economic implications of corporate financial reporting.Journal of Accounting and Economics.2005.40:3-73
+8.Roychowdhury, Sugata.Earnings management through real activities manipulation.Journal of Accounting and Economics.2006.42:335-370
+9.Eli, Bartov.Timing of Asset Sales and Earnings Manipulation.Accounting Review.1993.68(4):840-855
+10.Schipper, K..Commentary on earnings management.Accounting Horizons.1989.(3):91-102
+11.Baber, W..Effect of Concern about Reported Income on Discretionary Spending Decisions: The Case of Research and Development.Accounting Review.1991.66:818-829
+12.Dechow, P..Executive incentives and the horizon problem: an empirical investigation.Journal of Accounting and Economics.1991.14(1):51-89
+13.Bushee, Brian J..Influence of institutional investors on myopic R&D investment behavior.Accounting Review.1998.73(3):305-331
+14.Bens, Daniel A..Real Investment Implications of Employee Stock Option Exercises.Journal of Accounting Research.2002.40(2):359-393
+15.Don, Herrmann.Sale of Assets to Manage Earnings in Japan.Journal of Accounting Research.2003.41(1):89-108
+16.Dechow, P.M..Relation between earning and cash flows.Journal of Accounting and Economics.1998.25:133-168
+17.薛爽.上市公司在操纵经营性现金流吗？——基于季度报告的实证分析.广州:中山大学管理学院，2007:175-290
+18.Dechow, P.M..Earnings management: reconciling the views of accounting academics, practitioners, and regulators.Accounting Horizons.2000.14:235-250
+19.Barton, J..Balance sheet as an earnings management constraint.Accounting Review.2002.77:1-27
+20.Degeorge, F..Earnings management to exceed thresholds.Journal of Business.1999.72(1):1-33
+21.Becker, C..Effect of Audit Quality on Earnings Management.Contemporary Accounting Research.1998.15:1-24
+22.伍利娜.审计师更换时机对年报及时性和审计质量的影响.会计研究.2006.（11）:37-44
+23.陆正飞.配股后业绩下降:盈余管理后果与真实业绩滑坡.会计研究.2006.（8）:52-59
+24.刘星.非审计服务影响注册会计师独立性吗？——来自中国证券市场的经验数据.会计研究.2006.（7）:30-37
+25.陈超.中国上市公司资本结构、企业特征与绩效.管理工程学报.2003.17（1）:70-73
+26.曹廷求.资本结构、股权结构、成长机会与公司绩效.南开管理评论.2004.7（1）:57-63
+27.Dechow, P.M..Detecting earnings management.Accounting Review.1995.70(2):193-225
+28.Dechow, P.M..Causes and consequences of earnings manipulation: An analysis of firms subjcet to enforcement actions by the SEC.Contemporary Accounting Research.1996.13:1-36
+29.Kasznik, R..On the association between voluntary disclosure and earnings management.Journal of Accounting Research.1999.37:57-81
+30.Victor, Bernard.Nature and amount of information in cash flows and accruals.Accounting Review.1989.64(4):624-652
+-----------------------------------------------------------------------
+
+【来源篇名】基于遗传算法的上市公司财务危机预测模型研究
+【英文篇名】Study on the Predictive Model of Financial Crisis in Chinese Listed Firms Based on the Genetic Algorithm
+【来源作者】李清
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】吉林大学
+【机构名称】[李清]吉林大学.商学院
+【第一作者】李清
+【中图类号】F275.5
+【年代卷期】2008,(050):928-937
+【基金类别】
+【参考文献】
+1.Altman, E.I..Financial Ratios, Discriminant Analysis and Prediction of Corporate Bankruptcy.Journal of Finance.1968.(9):589-609
+2.Ohlson, James A..Financial Rations and the Probabilistic Prediction of Bankruptcy.Journal of Accounting Research.1980.18(1):109-131
+3.Odom, M.D..A neural network model for bankruptcy prediction.1990:163-168
+4.Tay, F.E.H..Economic and financial prediction using rough sets model.European Journal of Operational Research.2002.(141):641-659
+5.Bryant, S.M..A case-based reasoning approach to bankruptcy prediction modeling.Intelligent Systems in Accounting Finance and Management.1997.(6):195-214
+6.McKee, Thomas E..Genetic programming and rough sets: A hybrid approach to bankruptcy classification.European Journal of Operational Research.2002.(138):436-451
+7.Kingdon, J..Genetic algorithms and applications to finance.Applied Mathematical Finance.1995.(2):89-116
+8.Varetto, Franco.Genetic algorithms applications in the analysis of insolvency risk.Journal of Banking & Finance.1998.(22):1421-1439
+9.Shin, Kyung-Shik.A genetic algorithm application in bankruptcy prediction modeling.Expert Systems with Applications.2002.23(3):321-328
+10.Davalos, S..Use of a Genetic Algorithm in Forecasting Air Carrier Financial Stress and Insolvency.Credit and Financial Management Review.2005.11(2):15-21
+11.吴世农.我国上市公司财务困境的预测模型研究.经济研究.2001.（6）:46-55
+12.刘洪.基于人工神经网络方法的上市公司经营失败预警研究.会计研究.2004.（2）:42-46
+13.王济川.Logistic回归模型-方法与应用.北京:高等教育出版社，2001:
+14.Holland, J.H..Adaptation in Natural and Artificial Systems.Ann Arbor, MI:University of Michigan Press，1975
+-----------------------------------------------------------------------
+
+【来源篇名】无指导的中医证候诊断数据的隐变量分析
+【英文篇名】Latent Variable Analysis of Unsupervised Diagnostic Data of Traditional Chinese Medicine
+【来源作者】王喆宇/贾振华/吴以岭/耿直
+【基    金】NBRP 2005CB523301的支持
+【期    刊】数理统计与管理
+【第一机构】北京大学
+【机构名称】[王喆宇]北京大学.数学科学学院/[贾振华]河北以岭医药研究院./[吴以岭]河北以岭医药研究院./[耿直]北京大学.数学科学学院
+【第一作者】王喆宇
+【中图类号】F224
+【年代卷期】2008,(050):938-944
+【基金类别】其它基金/
+【参考文献】
+1.Joreskog, K.G..A General Method for Estimating a Linear Structural Equation System:Structural Equation Models in the Social Sciences.New York:Seminar Press,1973:85-112
+2.Joreskog, K.G..Structural Equation Models in the Social Sciences: Specification, Estimation and Testing:Application of Statistics.Amserdam:North-Holland Publishing Co.,1977
+3.Joreskog, K.G..Recent Development in LISRFL: Automatic Starting Values.Journal of Marketing Research.1982.19:404-416
+4.Muthen, B.O..Contributions to factor analysis of dichotomous variables.Psychometrika.1978.38:171-189
+5.Muthen, B.O..Simultaneous Factor Analysis of Dichotomous Variables in Several Groups.Psychometrika.1981.46:407-419
+6.Muthen, B.O..A General Structural Equation Model with Dichotomous, Ordered Categorical, and Continuous Latent Variable Indicators.Psychometrika.1984.49(1):115-132
+7.Satorra, A..Robustness issues in structural equation modeling: a review of recent developments.Quality & Quantity.1990.24:367-386
+8.Muthen, B.O..Complex Sample Data in Structural Equation Modeling.Sociological Methodology.1995.25:267-316
+9.Muthen, B.O..Latent Variable Analysis with Categorical Outcomes: Multiple-Group And Growth Modeling In Mplus.Mplus Web Notes.2002.(4)
+10.SAnchez, B.N..Structural Equation Models: A Review with Application to Environmental Epidemiology.American Statistical Association.2005.100(472)
+11.MacCallum, R..Specification Searches in Covariance Structure Modeling.Psychological Bullentin.1986.100:107-120
+12.MacCallum, R..Model modifications in covariance structure analysis: The problem of capitalization on chance.Psychological Bulletin.1990.111:490-504
+13.Browne, M.W..Asymptotic distribution free methods in the analysis of covariance structures.British Journal of Mathematical and Statistical Psychology.1984.37:127-141
+14.Muthen, B.O..A comparison of some methodologies for the factor analysis of non-normal Likert variables.British Journal of Mathematical and Statistical Psychology.1985.38:171-189
+15.Muthen, B.O..Multiple-group stuctural modeling with non-normal continuous variables.British Journal of Mathematical and Statistical Psychology.1989.42:55-62
+16.Muthen, B.O..A comparison of some methodologies for the factor analysis of non-normal Likert Variables: A note on the size of the model.British Journal of Mathematical and Statistical Psychology.1992.45:19-30
+17.Papadopoulos, S..Correlated Samples with Fixed and Nonnormal Latent Variables.Annals of Statistics.2005.33(6):2732-2757
+18.Everitt, B.S..An Introduction to Latent Variable Models.London:Chapman & Hall，1984
+19.Dunson, D.B..Bayesian Latent Variable Models for Mixed Discrete Outcomes.Biostatistics.6(1):11-25
+20.Bartholomew, D.J..Latent Variable Models and Factor Analysis.London:Arnold，1999
+21.Hagenaars, J.A..Applied Latent Class analysis.Cambridge, New York:Cambridge University Press，2002
+-----------------------------------------------------------------------
+
+【来源篇名】中国能源需求预测函数:主成份辅助的协整分析
+【英文篇名】Predictive Function of Energy Demand in China: Co—integration Analysis Assisted by Principal Components Analysis
+【来源作者】邢小军/周德群
+【基    金】国家自然科学基金（90510010）
+【期    刊】数理统计与管理
+【第一机构】南京航空航天大学
+【机构名称】[邢小军]南京航空航天大学.经济管理学院/[周德群]南京航空航天大学.经济管理学院
+【第一作者】邢小军
+【中图类号】F224
+【年代卷期】2008,(060):945-951
+【基金类别】国家自科基金/
+【参考文献】
+1.Oh, Wankeun.Energy consumption and economic growth in Korea: testing the causality relation.Journal of Policy Modeling.2006.26:973-981
+2.张翎.用统计方法预测能源需求量.数理统计与管理.2001.（5）:27-30
+3.林伯强.结构变化、效率改进与能源需求预测——以中国电力行业为例.经济研究.2003.（5）:57-65
+4.梁巧梅.中国能源需求和能源强度预测的情景分析模型及其应用.管理学报.2004.（1）:62-66
+5.吴巧生.中国工业化进程中的能源消费变动-基于计量模型的实证分析.中国工业经济.2005.（4）:30-37
+6.Briol, F..Technology development and the rebound effect.Energy Policy.2000.28:457-469
+7.Engle, R.F..Co-integration and error correction: Representation, Estimation and testing.Econometrica.1987.55:251-276
+-----------------------------------------------------------------------
+
+【来源篇名】从扫描统计量角度观察我国连续暖冬现象
+【英文篇名】Observation on Warmer Winter Phenomena of China from the Perspective of Scan Statistics
+【来源作者】孙千瑛/吴遵/方兆本
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】中国科学技术大学
+【机构名称】[孙千瑛]中国科学技术大学.管理学院/[吴遵]中国科学技术大学.管理学院/[方兆本]中国科学技术大学.管理学院
+【第一作者】孙千瑛
+【中图类号】F224
+【年代卷期】2008,(060):952-958
+【基金类别】
+【参考文献】
+1.李国琛.全球变暖成因分析.自然灾害学报.2005.14（5）:38-42
+2.Vogelsanga, Philip Hans Franses.Are winters getting warmer?.Environmental Modelling & Software.2005.20:1449-1455
+3.王凌.1956-2005年中国暖冬和冬季温度变化.气候变化研究进展.2007.3（1）:26-30
+4.黄嘉佑.中国冬季气温变化的趋向性研究.气象学报.2006.64（5）:614-621
+5.康丽华.我国冬季气温年代际变化及其与大气环流异常变化的关系.气候与环境研究.2006.11（3）:330-339
+6.黄琦.中国冬季气温的年际变化.山东气象.2007.27（2）:5-8
+7.孔凡超.华北冬季气温变化及背景场分析.南京气象学院学报.2007.35（2）:198-203
+8.侯伟芬.江南地区冬季气温异常及其海温关键区.气象.2005.31（11）:45-46
+9.张黎红.大连地区近44a冬季气温.南京气象学院学报.2005.28（6）:827-832
+10.郑广芬.江宁夏冬季气温的变化及同期500hPa环流特征量的变化特征.干旱区地理.2006.29（7）:59-64
+11.于群.山东冬季气温变化的气候特征和分型.山东农业大学学报（自然科学版）.2007.38（1）:21-27
+12.Joseph, Glaz.Scan statistics.New York:Springer-Verlag，2001
+-----------------------------------------------------------------------
+
+【来源篇名】气温随机模型与我国气温期权定价研究
+【英文篇名】Temperature Stochastic Modeling and China Weather Options
+【来源作者】刘国光/茅宁
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】南京大学
+【机构名称】[刘国光]南京大学.商学院/[茅宁]南京大学.商学院
+【第一作者】刘国光
+【中图类号】F71
+【年代卷期】2008,(060):959-967
+【基金类别】
+【参考文献】
+1.梅澎.山雨欲来谁先知-气象服务市场化的原因与现状.经济论坛.2004.（13）
+2.刘元元.天气类衍生产品与金融衍生工具功能的再认识.国际金融研究.2005.（8）:53-56
+3.余沪荣.天气衍生产品及在我国的应用前景展望.生态经济.2005.（1）:75-76
+4.Davis, M.H.A..Pricing weather derivatives by marginal value.Quantitiative Finance.2001.305-308
+5.Alaton, P..On modelling and pricing weather derivatives.Appl. Math. Finance.2002.9(1):1-20
+6.Dornier, F..Pricing weather derivatives by marginal value.Quantitative Finance.2001.1(3):305-308
+7.Bhowan, A..Temperature Derivatives, School of Computational and Applied Mathematics.2003
+-----------------------------------------------------------------------
+
+【来源篇名】季节调整中消除节假日因素方法的改进及其在我国的应用
+【英文篇名】Improvement on the Method of Eliminating Holiday Factor in Seasonal Adjustment and Its Application in China
+【来源作者】石刚/陈永刚/陈杰
+【基    金】国家青年社科基金项目（08CTJ002）/国家统计局重点项目（2007LZ003）
+【期    刊】数理统计与管理
+【第一机构】中央财经大学
+【机构名称】[石刚]中央财经大学.统计学院/[陈永刚]中国移动通信集团浙江省公司./[陈杰]中央财经大学.统计学院
+【第一作者】石刚
+【中图类号】F222.1
+【年代卷期】2008,(060):968-974
+【基金类别】国家级其它基金/其他部委级基金/
+【参考文献】
+1.张鸣芳.国际上季节调整最新发展及对我国的思考.统计研究.2006.（10）
+2.李小芳.我国经济指标季节调整中消除春节因素的方法研究.数量经济技术经济研究.2003.（4）
+3.刘仕国.关于时序数据的季节调整、季度变化率与年度变化率的推导及年度化方法.世界经济统计研究.2003.（1）
+4.张鸣芳.居民消费价格指数季节调整实证研究.财经研究.2004.（3）
+5.夏春.实际经济时间序列的计算、季节调整及相关经济含义.经济研究.2002.（3）
+6.石刚.我国经济时间序列数据节假日因素的处理方法研究:统计学评论.北京:中国财政经济出版社,2007:229-239
+7.Ladiray, Dominique.Seasonal adjustment with x-11 Methods.New York:Springer-Verlag，2001
+8.Decomposition of Time Series-Comparing Different Methods in Theory and Practice Eurostat Working Paper
+-----------------------------------------------------------------------
+
+【来源篇名】基于委托代理理论的渠道成员激励机制分析
+【英文篇名】Analysis of Incentive Mechanism of Channel Member Based on Principal—agent Theory
+【来源作者】田剑
+【基    金】国家教育部人文社科基金（07JC630037）/镇江市软科学课题（RK2008045）
+【期    刊】数理统计与管理
+【第一机构】江苏科技大学
+【机构名称】[田剑]江苏科技大学.经济管理学院
+【第一作者】田剑
+【中图类号】F224.32
+【年代卷期】2008,(060):975-978
+【基金类别】教育部基金/其它基金/
+【参考文献】
+1.Little, Robert W..Power and Leadership in Marketing Channel.Proceedings of the American Marketing Association.1968.1968:6-7
+2.Robbins, John E..Retailers' Perceptions of Channels Conflict Issues.Journal of Retailing.1982.58(4):46-67
+3.Brown, James R..Conflict and Power-Dependence Relations in Retailer-Supplier Channels.Jornal of Retailing.1983.59(4):53-81
+4.Schul, Patrick L..Impact of Channel Leadership Behavior on Intrachannel Conflict.Journal of Marketing.1983.47(3):21-34
+5.Levy, Michael.Financial Terms of Sale and Control of Marketing Channel Conflict.Journal of Marketing Research.1980.17(4):524-530
+6.Stern, Louis W..市场营销渠道.北京:清华大学出版社，2002
+7.Rosenbloom, Bert.营销渠道管理.北京:机械工业出版社，2003:
+8.Kotler, Philip.市场营销原理.北京:清华大学出版社，2007
+9.张维迎.博弈论与信息经济学.上海:上海三联书店，2002:
+-----------------------------------------------------------------------
+
+【来源篇名】消费者心理违约对品牌权益的影响机制研究
+【英文篇名】The Mechanism of Impact of Consumer\'s Psychological Breach on Brand Equity
+【来源作者】黎小林/王海忠
+【基    金】国家自然科学基金重点项目（70632003）/国家自然科学基金青年项目（70502016）
+【期    刊】数理统计与管理
+【第一机构】中山大学
+【机构名称】[黎小林]中山大学.管理学院/[王海忠]广东商学院.管理学院
+【第一作者】黎小林
+【中图类号】F224
+【年代卷期】2008,(060):979-991
+【基金类别】国家自科基金/
+【参考文献】
+1.Keller, K.L..战略品牌管理.北京:中国人民大学出版社，2006:
+2.Gronroo, C..Relationship Marketing Logic.Asia-Australia Marketing Journal.1996.4(1)
+3.Robinson, S.L..Trust and Breach of the Psychological Contract.Administrative Science Quarterly.1996.41(4):574-599
+4.Roehling, M.V..Origins and Early Development of the Psychological Contract Construct.Academy of Management Proceedings.1996.1996:202-206
+5.罗海成.顾客忠诚的心理契约机制实证研究.南开管理评论.2006.18（1）:2
+6.Rousseau, D.M..New Hire Perception of Their Own and Their Employer's Obligation: A Study of Psychological Contracts.Journal of Organizational Behaviour.1990.11(5):389-400
+7.Dick, A.S..Customer Loyalty: Toward an Integrated Conceptual Framework.Journal of the Academy of Marketing Science.1994.22(2):99-113
+8.Argyris, C..Understanding Organisational Behaviour, Homewood.Illinois:The Dorsey Press Inc.，1960
+9.Schein, E..Organisational Psychology.Engelwood Cliffs, NJ:Prentice-Hall，1965
+10.Rousseau, D.M..Psychological contracts in organizations: Understanding Written and Unwritten Agreements.Newbury Park, CA:Sage，1995
+11.Rousseau, D.M..Human Resource Practices: Administrative Contract Markers.Human Resources Management.1994.33(3):85-401
+12.Robinson, S.L..Violating the Psychological Contract: Not the Exception but the Norm.Journal of Organizational Behaviour.1994.15:245-259
+13.Robinson, S.L..Changing Obligations and the Psychological Contract: A Longitudinal Study.Academy of Management Journal.1994.37:137-152
+14.Rousseau, D.M..Contracts of Individuals and Organizations:Research in Organizational Behaviour.Greenwich, CT:JAI Press,1993:1-47
+15.Morrison.When Employees Feel Betrayed: A Model of How Psychological Contract Violation Develops.Academy of Management Review.1997.22(1):226-256
+16.Simon, C.J..Measurement and Determinants of Brand Equity: a Financial Approach.Marketing Science.1993.winter:28-52
+17.Brasco, T.C..How Brand Names are Valued for Acquisition?:Defining, Measuring and Managing Brand Equity: A Conference Summary Report.Marketing Science Institute:Cambridge, MA,1998:88-104
+18.Mahajan, V..Development, Testing, and Validation of Brand Equity under Conditions of Acquisition and Divestment.Cambridge, MA:Marketing Science Institute，1990:14-15
+19.Farquhar, Peter.Managing Brand Equity.Marketing Research.1989.(1):24-33
+20.Aaker, D.A..Managing Brand Equity.New York:The Free Press，1991
+21.Kamakura, W..Measuring brand value with scanner data.International Journal of Research in Marketing.1993.10(1):9-22
+22.Keller, K.L..Conceptualizing, Measuring and Managing Customer-based Brand Equity.Journal of Marketing.1993.57(1):1-22
+23.Zeithaml, V.A..Behavioural Consequences of Service Quality.Journal of Marketing.1996.60:31-46
+24.Bitner, M.J..Evaluating Service Encounters: The Effects of Physical Surrounding and Employee Responses.Journal of Marketing.1990.54:69-81
+25.Bolton, R.A..A Multistage Model of Customer's Assessments of Service Quality and Value.Journal of Consumer Research.1991.17:375-384
+26.Robinson, S.L..Trust and Breach of the Psychological Contract.Administrative Science Quarterly.1996.41(4):574-599
+27.Tekleab, A.G..Extending the Chain of Relationships among Organizational Justice, Social Exchange, and Employee Reachtions: The Role of Contract Violations.Academy of Management Journal.2005.48:146-157
+28.Turnley, W.H..Psychological Contract Violations during Organizational Restructuring.Human Resource Management.1998.37:71-83
+29.Conway, N..A Daily Diary Study of Affective Responses to Psychological Contract Breach and Exceeded Promises.Journal of Organizational Behaviour.2002.23:287-302
+30.Guzzo, R.A..Expatriate Managers and the Psychological Contract.Journal of Applied Psychology.1994.79:617-626
+31.Turnley, W.H..A Discrepancy Model of Psychological Contract Violations.Human Resource Management Review.1999.9(3)
+32.Rousseau, D.M..Psychological contracts in organizations: Understanding Written and Unwritten Agreements.Newbury Park, CA:Sage，1995
+33.Turnley.Impact of Psychological Contract Fulfilment on the Performance of in-role and Organisational Citizenship Behaviours.Journal of Management.2003.29:187-207
+34.Mai-Dalton.Role of Perceived Violation in Determining Employees' Reactions to Psychological Contract Breach.Journal of Leadership & Organizational Studies.2005.(1)
+35.Oliver, R.L..A Congnitive Model of the Antecedents and Consequences of Satisfaction Decisions.Journal of Marketing Research.1980.17:46-49
+36.Nancy, Stephens.Why Don't Some People Complain? A Cognitive-emotive Process Model of Consumer Complaint Behaviour.Journal of the Academy of Marketing Science.1998.26(3)
+37.Beth, Godwin.Johnson Emotion, Coping and Complaning Propensity Following a Dissatisfactory Service Encounter.Journal of Satisfaction, Dissatisfaction and Complaining Behavior.1995.(8)
+38.Psychological Contract Violation in Online Marketplaces: Antecedents, Consequences, and Moderating Role: Working Paper
+39.Aggarwal, P..Effects of Brand Relationship Norms on Consumer Attitudes and Behaviour.Journal of Consumer Research.2004.31
+40.Halim, R.E..Effect of the Relationship of Brand Trust and Brand Affect on Brand Performance: An Analysis from Brand Loyalty Perspective(A Case of Coffee Instant Product in Indonesia).2005
+41.Bullmore, J..Brand and Its Image Re-visited.International Journal of Advertising.1984.3:235-238
+42.Keller, K.L..Brand Synthesis: The Multidimentionality of Brand Knowledge.Journal of Consumer Research.2003.29:595-601
+43.罗海成.基于心理契约的关系营销机制:服务业实证研究.南开管理评论.2005.8（6）:48-55
+44.Robinson, S.L..Development of Psychological Contract Breach and Violation: A Longitudinal Study.Journal of Organizational Behaviour.2000.21(5):525-546
+45.Kayaman, Ruchan.Customer Based Brand Equity: Evidence from the Hotle Industry.Managing Service Quality.2007.17(1):92-109
+46.侯杰泰.结构方程模型及其应用.北京:教育科学出版社，2004:
+47.Fornell, Claes.Evaluating Structural Equation Models with Unobservable Variables and Measurement Error.Journal of Marketing.1981.18(1):39-50
+-----------------------------------------------------------------------
+
+【来源篇名】关于我国2010年人口普查事后质量检查样本量测算的建议
+【英文篇名】Suggestion to the Estimation of Sample Size for the Post—enumeration Quality Survey of China\'s Census in 2010
+【来源作者】胡桂华
+【基    金】广西教育厅科研项目（200702LX295）
+【期    刊】数理统计与管理
+【第一机构】广西财经学院
+【机构名称】[胡桂华]广西财经学院.数学与统计系
+【第一作者】胡桂华
+【中图类号】F224
+【年代卷期】2008,(060):992-996
+【基金类别】其它基金/
+【参考文献】
+1.科克伦，张尧庭译.抽样技术.北京:中国统计出版社，1985:
+2.梁晓筠.设计效应的计算.统计研究.2001.（1）:38-41
+3.武洁.人口普查中的事后质量抽样调查.南方人口.2002.17（3）:18-24
+-----------------------------------------------------------------------
+
+【来源篇名】建设项目动态联盟背景下应用因子分析法评价伙伴施工安全
+【英文篇名】Evaluate Partner Building Safety Using Factor Analysis Method in the Setting of Virtual Enterprise of Construction Project
+【来源作者】刘雷/李南
+【基    金】国家自然科学基金资助项目（70473037）/国家软科学研究计划资助项目（2006GXQ3B184）
+【期    刊】数理统计与管理
+【第一机构】南京航空航天大学
+【机构名称】[刘雷]南京航空航天大学.经济与管理学院/[李南]南京航空航天大学.经济与管理学院
+【第一作者】刘雷
+【中图类号】F272
+【年代卷期】2008,(060):997-1003
+【基金类别】国家自科基金/国家级其它基金/
+【参考文献】
+1.Baiden, B.K..Extent of team integration within construction projects.Internaitonal Journal of Project Management.2006.24
+2.Mohamed, Sherif.Performance in International Construction Joint Ventures: Modeling Perspective.Journal of Construction Engineering and Management.2003.129(6):619-626
+3.章鑫.业主对工程项目安全绩效影响的定量研究.土木工程学报.2006.39（3）:123-128
+4.强茂山.建设工程项目的安全投入与绩效研究.土木工程学报.2004.37（11）:101-107
+5.Fang, D.P..Factor analysis-based studies on construction workplace safety management in China.International Journal of Project Management.2004.22:43-49
+6.Fang, D.P..Benchmarking Studies on Construction Safety Management in China.Journal of Construction Engineering and Management.2004.130(3):424-432
+-----------------------------------------------------------------------
+
+【来源篇名】一种真空荧光屏的可靠性分析
+【英文篇名】Reliability Assessment of A Sort of Vacuum Fluorescent Display
+【来源作者】覃晓琼/师义民/李豪亮/姜祥周
+【基    金】国家自然科学基金资助项目（70471057）/陕西省教育基金资助项目（03JK065）
+【期    刊】数理统计与管理
+【第一机构】西北工业大学
+【机构名称】[覃晓琼]西北工业大学.应用数学系/[师义民]西北工业大学.应用数学系/[李豪亮]西北工业大学.应用数学系/[姜祥周]西北工业大学.应用数学系
+【第一作者】覃晓琼
+【中图类号】F224
+【年代卷期】2008,(060):1004-1008
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.Zhang, J.P..Constant-step stress accelerated life test of VFD under weibull distribution.Journal of Zhejiang University: Science.2005.6A(7):722-727
+2.张建平.基于对数正态分布的VFD加速寿命试验研究.浙江大学学报（工学版）.2006.12:2149-2152
+3.Balasooriya, U..Competing causes of failure and reliability tests for Weibull lifetimes under type I progressive censoring.IEEE Trans Reliability.2004.53(1):29-36
+4.Fernandez, A.J..On estimating exponential parameters with general type II progressive censoring.J Statist Plann Inference.2004.121:135-147
+5.Balakrishnan, N..Testing Exponentiality Based on Kullback-Leibler Information With Progressively Type-II Censored Data.IEEE Trans. Reliability.2007.56(2):301-307
+6.王炳兴.Weibull分布基于定数逐次截尾寿命数据的统计分析.科技通报.2004.20（6）:486-490
+7.Lawless, J.F..Statistical models and methods foe lifetime data.New York:John Wiley & Sons，1982
+8.金星.可靠性数据计算及应用.北京:国防工业出版社，2003
+-----------------------------------------------------------------------
+
+【来源篇名】汽车交通事故损失分布的尾部估计
+【英文篇名】The Tail Estimate of Automobile Traffic Accident Loss Distribution
+【来源作者】赵桂芹/粟芳
+【基    金】上海财经大学“211工程”三期重点学科建设项目
+【期    刊】数理统计与管理
+【第一机构】上海财经大学
+【机构名称】[赵桂芹]上海财经大学.金融学院/[粟芳]上海财经大学.金融学院
+【第一作者】赵桂芹
+【中图类号】F830.59
+【年代卷期】2008,(060):1009-1015
+【基金类别】国家级其它基金/
+【参考文献】
+1.Mcneil, A.J..Estimating the tails of loss severity distributions using extreme value theory.Astin Bulletin.1997.27:117-137
+2.Resnick, S.I..Discussion of the Danish data on large fire insurance losses.Astin Bulletin.1997.27:139-151
+3.Pickands, J..Statistical inference using extreme order statistics.Annals of Statistics.1975.3:119-131
+4.Smith, R..Extreme value analysis of environmental time series: an application to trend detection in ground-level ozone.Statistical Science.1989.(4):367-393
+5.Davison, A..Models for exceedances over high thresholds (with discussion).Journal of the Royal Statistical Society (Series B).1990.52:392-442
+6.Zajdenweber, D..Extreme values in business interruption insurance.Journal of Risk and Insurance.1996.63:95-110
+7.Dupuis, D..Estimating the probability of obtaining non feasible parameter estimates of the generalized Pareto distribution.Journal of Statistics Computation and Simulation.1996.54:197-209
+8.Gilli, M..Extreme value theory for tail-related risk measure.2000:9-11
+9.高洪忠.用POT方法估计损失分布尾部的效应分析.数理统计与管理.2004.（4）:64-69
+10.柳会珍.金融市场极端日收益数据的广义Pareto分布拟合.数理统计与管理.2006.（6）:723-728
+11.赵桂芹.具“双峰”现象损失数据的分布拟合.山西财经大学学报.2006.（6）:123-126
+12.Balkema, A.A..Residual life time at great age.Annals of probability.1974.2:792-804
+13.林丽芬.极值损失模型之交叉验证.2004:311-321
+-----------------------------------------------------------------------
+
+【来源篇名】（对数）逻辑斯谛克分布下可靠性抽样检验
+【英文篇名】Reliability Sampling Inspection for (Log) Logistic Distribution
+【来源作者】吴启光/黄帅/李国英
+【基    金】国家自然科学基金（10771015/10771126）
+【期    刊】数理统计与管理
+【第一机构】中国科学院数学与系统科学研究院
+【机构名称】[吴启光]中国科学院数学与系统科学研究院./[黄帅]中国科学技术大学./[李国英]中国科学院数学与系统科学研究院.
+【第一作者】吴启光
+【中图类号】F224
+【年代卷期】2008,(060):1016-1026
+【基金类别】国家自科基金/
+【参考文献】
+1..国家电子工业部部标SJ/Z 2448-84，可靠性计数抽样程序和表（威布尔分布）
+2.United States Department of Defense.Sampling Procedures and Table for Life and Reliability Testing: Quality Control and Reliability Handbook(H-108).Washington, D.C.:Office of The Assistant Secretary of Defense，1966
+3.吴启光.定时截尾下指数分布产品可靠性抽样检验方案.系统科学与数学.2003.23:145-154
+4.Fertig, K.W..Life-test sampling plans for two-parameter Weibull populations.Technometrics.1980.22:165-177
+5.吴启光.双参数威布尔分布下可靠性抽样检验方案.应用概率统计.2004.20（3）:270-280
+6.Gupta, S.S..Life test sampling plan for normal and lognormal distribution.Technometrics.1962.(4):151-225
+7.Wu, Q.G..Sampling inspection of reliability in (log)normal case with Type I secsoring.Acta Mathematica Scientia.2006.26B:331-343
+8.Cornish, E.A..Moments and cumulants in the specification of distributions.Rev. Int. Statist. Inst..1937.5:307-322
+9.Fisher, R.A..Percentiles points of distributions having known cumulants.Technometrics.1960.(2):209-225
+-----------------------------------------------------------------------
+
+【来源篇名】Copula函数的选择方法与应用
+【英文篇名】A Method to Select the Best—Fit Copula and Its Application
+【来源作者】于波/陈希镇/杜江
+【基    金】浙江省科技厅新苗人才计划项目
+【期    刊】数理统计与管理
+【第一机构】温州大学
+【机构名称】[于波]温州大学.数学与信息科学学院/[陈希镇]温州大学.数学与信息科学学院/[杜江]温州大学.数学与信息科学学院
+【第一作者】于波
+【中图类号】F222
+【年代卷期】2008,(060):1027-1033
+【基金类别】其它基金/
+【参考文献】
+1.Sklar, A..Functions de repartition a n dimensions et leurs marges.Publications del'Institut de Statistique del' Universite de Paris.1959.(8):229-231
+2.Bouye, E..Copulas for Finance, a reading guide and some applications.London:City University Busines School，2000
+3.Which copula is the right one?: Working paper
+4.Embrechts, P..Modeling dependence with copulas and applications to risk management:Handbook of heavy tailed distributions in finance.Amsterdam:North-Holland Publishing Company,2003:329-384
+5.Genest, C..Statistical inference procedures for bivariat Archimedean Copulas.Journal of the American Statistical Association.1993.88(4230):1035-1042
+6.Gumbel, E.J..Bivariate exponential distributions.J. Amer. Statist. Assoc..1960.55:698-707
+7.Frank, M.J..On the simultaneous associativity of F(x,y) and x+y-F(x,y).Aequationes Math.1979.19:194-226
+8.Clayton, D.G..A Model for association in bivariate life tables and its application in epidemiological studies of familial tendency in chronic disease incidence.Biometrika.1978.65:141-151
+9.Nelsen, R.B..An Introduction to Coupulas.New York:Springer，1999
+10.Genest, C..Statistical inference procedures for bivariate Archimedean Copulas.Journal of the American Statistical Association.1993.88:1034-1043
+11.单国莉.一种确定最优Copula的方法及应用.山东大学学报（理学版）.2005.（4）:66-69
+-----------------------------------------------------------------------
+
+【来源篇名】Pareto分布中门槛值的确定及其在股票市场中的应用
+【英文篇名】Determination of the Threshold Value in Pareto Distribution with Empirical Research in Stock Markets
+【来源作者】王炳兴/高建敏
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】浙江工商大学
+【机构名称】[王炳兴]浙江工商大学.统计与数学学院/[高建敏]浙江工商大学.统计与数学学院
+【第一作者】王炳兴
+【中图类号】F224
+【年代卷期】2008,(060):1034-1038
+【基金类别】
+【参考文献】
+1.Mantegna, R.N..Scaling behaviour in the dynamics of an economic index.Nature.1995.376(6535):46-49
+2.Sinha, S..Evidence for power-law tail of the wealth distribution in India.Physica A.2006.359:555-562
+3.Krashakov, S.A..On the universality of rank distributions of website popularity.Computer Networks.2006.50(11):1769-1780
+4.Reed, W.J..From gene families and genera to incomes and internet file sizes: Why power laws are so common in nature.Physical Review E.2002.66(6):067103
+5.Saksena, S.K..Best unbiased estimated for the parameters of a two-parameter of Pareto distribution.Metrika.1983.31:71-83
+6.Newman, M.E.J..Power laws, Pareto distributions and Zipf's law.Contemporary Physics.2005.46(5):323-351
+7.Coronel-Brizio, H.F..On fitting the Pareto-Levy distribution to stock market index data: selecting a suitable cutoff value.Physica A.2005.345:437-449
+8..GB/T5080.6-1996设备可靠性试验恒定失效率假设的有效性检验
+9.Pal, N..Handbook of exponential and related distributions for engineers and scientists.London:Chapman & Hall，2005
+10.Lawless, J.F..Statistical models and methods for lifetime data.New York:John Wiley & Sons
+-----------------------------------------------------------------------
+
+【来源篇名】基于分形B—S定价模型的认购权证价格行为实证分析
+【英文篇名】An Empirical Analysis of the Price Behavior of Call Warrants Based on the Fractal Black—Scholes Pricing Model
+【来源作者】赵旭
+【基    金】中国博士后科学基金资助项目（20060390937）/江苏省博士后科研资助计划项目（0602017C）
+【期    刊】数理统计与管理
+【第一机构】南京航空航天大学
+【机构名称】[赵旭]南京航空航天大学.经济与管理学院
+【第一作者】赵旭
+【中图类号】F222
+【年代卷期】2008,(060):1039-1046
+【基金类别】国家级其它基金/省（市）级基金/
+【参考文献】
+1.Black, F..Pricing of options and corporate liabilities.Journal of Political Economy.1973.81(3):637-659
+2.Bayraktar, E..Estimating the fractal dimension of the S&P 500 index using wavelet analysis.International Journal of Theoretical and Applied Finance.2004.7(5):615-643
+3.Peters.Fractal structure in the capital markets.Financial analyst Journal.1989.45(4):32-37
+4.Value of European options with log-stable uncertainty: Working Paper
+5.Decreusefond.Fractional Brownian motion: theory and application.1998:75-86
+6.Duncan, T.E..Stochastic calculus for fractional Brownian motion, I. Theory.Journal on Control and Optimization.2000.38(2):582-612
+7.Hurst, H.E..Long term storage capacity of reservoirs.Transactions of the American Society of Civil Engineer.1951.76(11):770-808
+8.Necula, Ciprian.Option pricing in a Fractional Brownian Motion Environment.2002
+9.金明琦.对中国权证市场价格定位的合理性分析.时代金融.2006.（4）:36-37
+10.井百祥.认股权证实价实证研究.河南理工大学学报（文科版）.2006.（2）:94-104
+11.房振明.我国股票与权证市场之间的线性及非线性因果关系.系统工程.2006.（7）:50-56
+12.陈明亮.修正Black-Scholes权证定价理论假设条件的数值方法研究.统计与决策.2006.（2）:16-18
+13.Fractional white noise calculus and application to Finance: Working paper
+14.Black, F..Fact and Fantasy in the Use of Option.Financial Analysts Journal.1975.(31):36-41
+15.Merton.Option Pricing When Underlying Stock Return Are Dicontinuous.Journal of Financial Economics.1976.(3):125-144
+16.MacBeth.An Empirical Examination of the Black-Scholes Call Option Pricing Model.Journal of Finance.1979.(34):1173-1186
+17.巫春洲.认购权证价格行为实证研究.管理学报[台].2002.19（4）:725-781
+-----------------------------------------------------------------------
+
+【来源篇名】基于模拟退火算法的最小一乘回归新算法
+【英文篇名】A New Algorithm for the Least Absolute Deviation Regression Based on the Simulated Annealing Algorithm
+【来源作者】王福昌/张宝雷/曹慧荣
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】防灾科技学院
+【机构名称】[王福昌]防灾科技学院.基础部/[张宝雷]廊坊师范学院.数信学院/[曹慧荣]廊坊师范学院.数信学院
+【第一作者】王福昌
+【中图类号】F224
+【年代卷期】2008,(060):1047-1052
+【基金类别】
+【参考文献】
+1.谢开贵.最小一乘线性回归模型研究.系统仿真学报.2002.14（2）:189-192
+2.李显方.“残差绝对值和最小”准则的搜索算法.预测.1994.13（4）:49-50
+3.陈希孺.最小一乘线性回归（上）.数理统计与管理.1989.8（5）:48-55
+4.李德志.过两个样本点的最小一乘回归线.数理统计与管理.1996.15（2）:40-43
+5.肖健华.基于Matlab的最小一乘回归的线性规划实现.五邑大学学报（自然科学版）.2006.20（1）:5-8
+6.谢云.模拟退火算法的原理及实现.高等学校计算数学学报.1999.9（3）:212-216
+7.董建.基于最小一乘准则的非线性回归模型研究.重庆师范学院学报（自然科学版）.2001.18（4）:71-74
+8.王知人.一种改进的模拟退火算法.高等学校计算数学学报.2006.28（1）:15-19
+9.赵晶.模拟退火算法的一种改进及其应用研究.大连理工大学学报.2006.46（5）:775-780
+-----------------------------------------------------------------------
+
+【来源篇名】中国制造业实施六西格玛管理的成功关键要素分析
+【英文篇名】The Critical Success Factors Analysis of Six Sigma Management in China Manufacturing Enterprises
+【来源作者】马义中/刘欢/岳刚/王丽林
+【基    金】国家自然科学基金资助项目（70672088）
+【期    刊】数理统计与管理
+【第一机构】南京理工大学
+【机构名称】[马义中]南京理工大学./[刘欢]中电电气（南京）光伏有限公司./[岳刚]中国质量协会./[王丽林]中国质量协会.
+【第一作者】马义中
+【中图类号】F40
+【年代卷期】2008,(060):1053-1065
+【基金类别】国家自科基金/
+【参考文献】
+1.Haln, G.J..Evolution of Six Sigma.Quality Engineering.2000.12(3):317-326
+2.Waston, G.H..Six Sigma: An Evolving Stage in the Maturing of Quality:Quality into 21th Century.Milwankee Wisconsin:ASQ Quality Press,2003
+3.Goh, T.G..A Strategic Assessment of Six Sigma.Quality and Reliability Engineering International.2002.18(4):403-410
+4.Harris, B..Transactional Six Sigma and Lean Servicing.New York:SLP，2002
+5.Revere, L..Intergrating Six Sigma and CQI for Improving Patient Care.TQM Magazine.2004.16(2):105-113
+6.Hong, G.Y..Six Sigma in Software Quality.TQM Magazine.2003.15(6):364-371
+7.岳刚.六西格玛管理中的若干问题.数理统计与管理.2006.25（3）:351-357
+8.全国六西格码管理推进工作委员会.六西格码管理评价准则.北京:中国标准出版社，2007
+9.Yusof, S.M..Critical Success Factors for Total Quality Management Implementation in Small and Medium Enterprises.Total Quality Management.1999.(10):803-809
+10.Snee, R.D..Why Should Statisticians Pay Attention to Six Sigma?.Quality Progress.1990.(9):100-104
+11.Blakeslee, J.A.Jr..Implementing the Six Sigma Solution.Quality Progress.1999.(8):70-85
+12.Goldstein, M..Six Sigma Program Success Factors.Six Sigma Forum Magazine.2001.(9):36-45
+13.Banuelas, C.R..Critical Success Factors for the Successful Implementation of Six Sigma Project in Organizations.TQM Magazine.2002.14(2):92-99
+14.Starbird, D..Business Excellece: Six Sigma as a Management System.ASQ's 56th Annual Quality Congress Proceedings.2002.45-47
+15.Chen, J..DMAIC Integration Necessary for Success.Six Sigma Forum Magazine.2006.(8):22-28
+16.Lee, K..Critical Success Factors of Six Sigma Implementation and the Impact on Operations Performance: Ph.D Dissertation.Cleveland State University，2002
+17.Byrne, G..Drive Baldrige Level Performance.Six Sigma Forum Magazine.2003.(5):13-21
+18.Kwak, Y.H..Benefits, Obstacles, and Future of Six Sigma Approach.Technovation.2006.26:708-715
+19.Gupta, P..Innovation: the Key to a Successful Project.Six Sigma Forum Magazine.2005.(8):13-17
+20.Hariharan, A..CEO's Guide to Six Sigma Success.Six Sigma Forum Magazine.2006.(5):16-25
+21.Brady, J.E..Six Sigma Literature: A Review and Agenda for Future Research.Quality and Reliability Engineering International.2006.22:335-367
+22.侯杰泰.结构方程模型及其应用.北京:教育科学出版社，2004
+-----------------------------------------------------------------------
+
+【来源篇名】关于过程能力指数公式的几点辨析
+【英文篇名】Some Distinguishing Analysis on the Process Capability Index Formulas
+【来源作者】何晓群
+【基    金】教育部人文社会科学重点研究基地资助项目（06JJD910001）
+【期    刊】数理统计与管理
+【第一机构】中国人民大学
+【机构名称】[何晓群]中国人民大学.应用统计科学研究中心
+【第一作者】何晓群
+【中图类号】F222
+【年代卷期】2008,(060):1066-1071
+【基金类别】教育部基金/
+【参考文献】
+1.宋祥彦.六西格玛管理质疑.青岛:青岛出版社，2005
+2.张公绪.两种质量诊断理论及其应用.北京:科学出版社，2001
+3.朱兰，J.M..质量控制手册.上海:上海科学技术文献出版社，1981
+4.朱兰，J.M.，李本兴译.质量计划与分析.北京:石油工业出版社，1985
+5.朱兰，J.M.，杨文士译.朱兰论质量策划.北京:清华大学出版社，1999
+6..中华人民共和国国家标准GB/T4091-2001常规控制图.中国标准出版社，2001
+7.陶靖轩.关于过程能力分析的若干思考.科技通报.2007.（1）:15-21
+-----------------------------------------------------------------------
+
+【来源篇名】上交所国债市场波动性研究
+【英文篇名】Research on the Volatility of Government Bond Market of Shanghai Stock Exchange
+【来源作者】张强劲/陈芬菲
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】中国科学院数学与系统科学研究院
+【机构名称】[张强劲]中国科学院数学与系统科学研究院./[陈芬菲]中国科学院数学与系统科学研究院.
+【第一作者】张强劲
+【中图类号】F830.9
+【年代卷期】2008,(060):1072-1079
+【基金类别】
+【参考文献】
+1.Daly, K..Financial volatility: Issues and measuring techniques.Physica A.2008.387:2377-2393
+2.Schwert, G.W..Stock market volatility.Financial Analyst Journal.1990.46:23-34
+3.Nelson, D.B..Modelling stock market volatility changes:Modelling Stock Market Volatility:Academic Press,1996:3-15
+4.Karpoff, J.M..Relation between price changes and trading volume.Journal of Financial and Quantitative Analysis.1987.22:109-126
+5.Engle, R.F..Autoregressive conditional heteroscedasticity with estimates of the variance fo UK inflation.Econometrica.1982.50:987-1008
+6.Bollerslev, T..ARCH modeling in finance: a review of the theory and empirical evidence.Journal of Econometrics.1992.52:5-59
+7.Bollerslev, T..Generalized autoregressive conditional heteroscedasticity.Journal of Econometrics.1986.31:307-327
+8.Nelson, D.B..Conditional heteroscedasticity in asset returns: A New Approach.Econometrica.1991.59:347-370
+9.Ding, Z.X..Modeling volatility persistence of speculative returns: A new approach.Journal of Econometrics.1996.73:185-215
+10.Engle, R.F..Estimating time varying risk premia in the term structure: The ARCH-Model.Econometrica.1987.55:391-406
+11.Podobnik, B..ARCH-GARCH approaches to modeling high-frequency financial data.Physica A.2004.344:216-220
+12.Kutan, A.M..Determinants of returns and volatility of Chinese ADRs at NYSE.Journal of Multinational Financial Management.2006.16:1-15
+13.Peiris, S..An introduction to volatility models with indices.Applied Mathematics Letters.2007.20:177-182
+14.顾岚.中国股市风险特征分析.数理统计与管理.2001.（1）:57-61
+15.陈海燕.随机影响变截距面板GARCH（1，1）模型及其应用.数量经济技术经济研究.2007.（1）:143-150
+16.徐小华.我国债券市场价格非对称性波动研究.金融研究.2006.12:14-22
+17.财政部国库司.中国政府管理报告（2004）.中国财政经济出版社，2005:
+18.Engle, R.F..Measuring and testing of the impact of news on volatility.Journal of Finance.1993.48:1022-1082
+-----------------------------------------------------------------------
+
+【来源篇名】股票交叉上市与价格发现——来自中国“A＋H”股的经验证据
+【英文篇名】Cross Listing and Price Discovery: Empirical Evidence from \"A＋H\" Shares
+【来源作者】董秀良/吴仁水
+【基    金】福建省社科基金项目（2006B068）/福建省高等学校新世纪优秀人才支持计划
+【期    刊】数理统计与管理
+【第一机构】华侨大学
+【机构名称】[董秀良]华侨大学.数理经济研究院/[吴仁水]华侨大学.商学院
+【第一作者】董秀良
+【中图类号】F830.91
+【年代卷期】2008,(060):1080-1088
+【基金类别】省（市）级基金/
+【参考文献】
+1.Fama, E.F..Efficient Capital Markets: A Review of Theory and Empirical Work.Journal of Finance.1970.25(2):283-417
+2.Mech, T.S..Portfolio Return Autocorrelation.Journal of Financial Economics.1993.34:307-344
+3.Hameed, W.H..Time-varying Factors and Cross-autocorrelations in Short-horizon Stock Returns.Journal of Financial Research.1997.20:435-458
+4.Stoll, H.R..Dynamics of Stock Index and Stock Index Futures Returns.Journal of Financial and Quantitative Analysis.1990.25:441-468
+5.Kalok, Chan.A Further Analysis of the Lead-lag Relationship between the Cash Market and Stock Index Futures Mareket.Review of Financial Studies.1992.5(1):123-152
+6.Eun, C..Cross-Border Listings and Price Discovery: Evidence from U.S.-Listed Canadian Stocks.Journal of Finance.2003.(2):549-575
+7.Joel, Hasbrouck.One Security, Many markets: Determining the Contributions to Price Discovery.Journal of Finance.1995.50:1175-1199
+8.Ross, S.A..Information and Volatility: the No-arbitrage Martingale Approach to Timing and Resolution Irrelevancy.Journal of Finance.1999.44:1-17
+9.Pericli, A..Index Futures and Options and Stock Market Volatility.Journal of Futures Markets.1997.17:957-974
+10.Tse, Y..Price Discovery and Volatility Spillovers in the DJIA Index and Futures Markets.Journal of Futures Marekets.1999.19:911-930
+11.Johansen, S..Estimation and Hypothesis Testing of Cointegration Vectors in Gaussian Vector Autoregressive Models.Econometrica.1991.59:1551-1580
+12.Johansen, S..Maximum Likelihood Estimation and Inference on Cointegration with Applications to the Demand for Money.Oxford Bulletin of Economics and Statistics.1990.52:162-210
+13.Engle, R.F..Multivariate Simultaneous Generalized ARCH.Econometric Theory.1995.(2):122-150
+14.洪永淼.中国股市与世界其他股市之间的大风险溢出效应.2004:703-726
+-----------------------------------------------------------------------
+
+【来源篇名】我国钢铁行业上市公司可持续增长状况的实证分析
+【英文篇名】An Empirical Analysis on the Sustainable Growth of Listed Steel Industry Companies in China
+【来源作者】王福胜/曾子晖
+【基    金】
+【期    刊】数理统计与管理
+【第一机构】哈尔滨工业大学
+【机构名称】[王福胜]哈尔滨工业大学.管理学院/[曾子晖]哈尔滨工业大学.管理学院
+【第一作者】王福胜
+【中图类号】F222
+【年代卷期】2008,(060):1089-1094
+【基金类别】
+【参考文献】
+1.财政部注册会计师考试委员会办公室.财务成本管理.北京:中国财政经济出版社，2007
+2.Penrose, Edith.Theory of Growth of the Firm.Oxford:Basil Blackwell Publisher，1959
+3.Higgins, Robert C..How much growth can a firm afford?.Financial Management.1977.6:7-16
+4.James, Van Horne C..Sustainable growth modeling.Journal of corporate Finance.1988.1988:19-25
+5.Rapport, Alfred.Creating Shareholder Value.New York:The Free Press，1980:
+6.Colley, John L..公司战略.北京:中国财政经济出版，2003
+7.朱开悉.上市公司可持续增长模型分析.技术经济与管理研究.2001.（5）:26-28
+8.油晓峰.财务可持续增长模型及其应用.会计研究.2003.（6）:28-31
+9.汤谷良.可持续增长模型的比较分析与案例验证.会计研究.2005.（8）:50-55
+-----------------------------------------------------------------------
+
+【来源篇名】我国钢铁行业上市公司竞争力实证研究
+【英文篇名】An Empirical Study on Competitiveness of Iron—steel Industry Listed Companies in China
+【来源作者】朱承亮/岳宏志
+【基    金】陕西省软科学研究基金项目（FK06009）
+【期    刊】数理统计与管理
+【第一机构】西北大学
+【机构名称】[朱承亮]西北大学.经济管理学院/[岳宏志]西北大学.经济管理学院
+【第一作者】朱承亮
+【中图类号】F40
+【年代卷期】2008,(060):1095-1101
+【基金类别】省（市）级基金/
+【参考文献】
+1.易晓文.上市公司财务评价指标体系研究.温州大学学报.1999.（3）:5
+2.郭志刚.社会统计分析方法-SPSS软件应用.北京:中国人民大学出版社，2003:
+3.向东进.实用多元统计分析.武汉:中国地质大学出版社，2005:
+4.雍红月.运用主成分分析方法评价上市公司经营管理业绩.科学管理研究.2004.22（4）:1-4
+5.缪仁炳.信息能力国际比较的主成分分析法.数理统计与管理.2002.21（2）:1-5
+-----------------------------------------------------------------------
+
+【来源篇名】股市风险构成间接分解模型的改进及实证
+【英文篇名】Improvement of the Indirect Disaggregated Model and Empirical Study about Risk Components in China\'s Stock Market
+【来源作者】陈健/胡文伟/李湛
+【基    金】上海市教育委员会科研创新项目（08YS78）
+【期    刊】数理统计与管理
+【第一机构】上海师范大学
+【机构名称】[陈健]上海师范大学.商学院/[胡文伟]香港大福证券集团.研究部/[李湛]上海交通大学.安泰经济与管理学院
+【第一作者】陈健
+【中图类号】F830.91
+【年代卷期】2008,(060):1102-1107
+【基金类别】其它基金/
+【参考文献】
+1.Goetzmann, William N..Equity Portfolio Diversification.NBER Working Papers.2001.(8686)
+2.Valery, Polkovnichenko.Household Portfolio Diversification: A Case for Rank-Dependent Preferences.Review of Financial Studies.2005.18(4):1467-1502
+3.Statman, Meir.How Many Stocks Make a Diversified Portfolio.Journal of Financial and Quantitative Analysis.1987.22:353-363
+4.Campbell, J.Y..Have Individual Stocks Become More Volatile? An Empirical Exploration of Idiosyncratic Risk.Journal of Finance.2001.56:1-43
+5.Xu, Y.X..Investigating the effect of idiosyncratic volatility.Journal of Business.2003.(76):613-644
+6.Yasushi, Hamao.Idiosyncratic Risk and the Creative Destruction in Japan.NBER Working paper series.2003.(9642)
+7.Kearney, Colm.Have European Stocks Become More Volatile? An Empirical Investigation of Idiosyncratic and Market Risk in the Euro Area.IIIS Discussion Paper.2006.(132)
+8.施东晖.上海股票市场风险性实证研究.经济研究.1996.（10）:44-48
+9.张人骥.上海证券市场系统风险趋势与波动的实证分析.金融研究.2000.（1）:92-98
+-----------------------------------------------------------------------
+
+【来源篇名】具有动态信用风险的可转债的定价研究
+【英文篇名】The Pricing of Convertible Bond with Dynamic Credit Risk
+【来源作者】黄靖贵/杨善朝/冯霞
+【基    金】国家自然科学基金项目（10161004）/广西自然科学基金项目（0728091）
+【期    刊】数理统计与管理
+【第一机构】广西壮族自治区统计局
+【机构名称】[黄靖贵]广西壮族自治区统计局./[杨善朝]广西师范大学.数学科学学院/[冯霞]广西师范大学.数学科学学院
+【第一作者】黄靖贵
+【中图类号】F222
+【年代卷期】2008,(060):1108-1116
+【基金类别】国家自科基金/省（市）级基金/
+【参考文献】
+1.郑承利.中国上市企业信用风险动态研究.北京大学光华管理学院
+2.郑振龙.中国可转债发行的股权价值效应
+3.郑海龙.中国违约风险溢酬研究.证券市场导报.2003.（6）
+4.魏刚.可转换债券定价的理论与实证研究
+-----------------------------------------------------------------------
+
+【来源篇名】随机利率下期权定价的探讨
+【英文篇名】Discussion about the Option Pricing Based on the Stochastic Interest Rate
+【来源作者】田萍/张屹山/赵世舜
+【基    金】社科项目（07BJY168）/吉林大学商学院“985工程”“经济分析与预测创新基地”项目
+【期    刊】数理统计与管理
+【第一机构】吉林大学
+【机构名称】[田萍]吉林大学.数量经济研究中心/[张屹山]吉林大学.数量经济研究中心/[赵世舜]吉林大学.数学学院
+【第一作者】田萍
+【中图类号】F222
+【年代卷期】2008,(060):1117-1125
+【基金类别】国家社科基金/国家级其它基金/
+【参考文献】
+1.Option pricing in a hidden Markov model of the short rate
+2.Merton, R.C..On the pricing of corporate debt: The risk structure of interestrates.Journal of Finance.1974.29:449-470
+3.刘文平.利率服从马尔科夫过程时的期权定价.华中师范大学学报（自然科学版）.2004.（2）
+4.姚落根.Vasicek利率模型下几何亚式期权的定价.湘潭大学自然科学学报.2004.（3）
+5.薛红.随机利率情形下的多维Black-Scholes模型.工程数学学报.2005.（4）
+6.Baxter, Martin W..Financial Calculus: An Introduction to Derivative Pricing.Cambridge:Cambridge University Press，1996
+7.Ho, T..Term Structure Movements and Pricing Interest Rate Contingent Claims.Journal of Finance.1986.41:1011-1029
+8.Vasicke, O..An Equilibrium Characterization of the Term Structure.Journal of Financial Economics.1997.(5)
+9.张屹山.浮动利率结构下的远期定价与风险管理.中国软科学.2004.（9）
+-----------------------------------------------------------------------
+
+【来源篇名】衰减信道下的决策融合问题
+【英文篇名】Large Decision Fusion with Fading Channels
+【来源作者】夏怡凡/鲁万波/王文松
+【基    金】信息综合控制国家重点实验室项目资助（9140C1002040701）
+【期    刊】数理统计与管理
+【第一机构】西南财经大学
+【机构名称】[夏怡凡]西南财经大学.统计学院/[鲁万波]西南财经大学.统计学院/[王文松]信息综合控制国家重点实验室.
+【第一作者】夏怡凡
+【中图类号】F222
+【年代卷期】2008,(060):1126-1134
+【基金类别】国家级其它基金/
+【参考文献】
+1.Chamberland, J.F..Impact of Fading on Decentralized Detection of Power Constrained Wireless Sensor Networks.2004:837-840
+2.Chamberland, J.F..Decentralized Detection in Sensor Networks.IEEE Transaction on Signal Processing.2003.51(2):407-416
+3.Chamberland, J.F..Asymptotic Results for Decentralized Detection of Power Constrained Wireless Sensor Networks.IEEE Journal on Selected Areas in Communications.2005.22(6):107-1015
+4.Jayaweera, S.K..Large System Performance of Power-constrained Decentralized Detection with Anolog Local Processing.IEEE International Conference on Wireless Networks, Communications and Mobile Computing.2005.(2):1083-1088
+5.Chen, B..Channel Aware Decision Fusion in Wireless Sensor Networks.IEEE Transactions on Signal Processing.2004.52(12):3454-3458
+6.Niu, R.X..Fusion of Decisions Transmitted Over Rayleigh Fading Channels in Wireless Sensor Networks.IEEE Transactions on Signal Processing.2006.54(3):1018-1027
+7.Zhu, Y.M..Multisensor Decision and Estimation Fusion.Boston, Kluwer Academic Publishers，2003
+-----------------------------------------------------------------------
+
