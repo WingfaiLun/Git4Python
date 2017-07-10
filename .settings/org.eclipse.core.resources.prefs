@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
 encoding//src/Crawler/newsCrawler.py=UTF-8
+encoding//src/TestFiles/TestTextblob.py=utf-8
+encoding//src/TestFiles/rake_test.py=utf-8

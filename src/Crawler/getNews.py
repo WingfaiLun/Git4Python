@@ -3,6 +3,15 @@
 import urllib.request
 import re
 
+path = r"E:\Users\lockon\Desktop\\"
+ouputFileName = r"test.txt"
+
+def saveContent(url, content):
+    if len(content) > 0:
+        f = open(path + ouputFileName,'a')
+        f.write(url + '\n' + content + '\n')
+        f.close()
+
 index = 0
 regexPage = re.compile(r'http://news.*?html')
 regexPageTitle = re.compile(r'headline">.*</h1>') 
@@ -18,7 +27,10 @@ pageAddresslist = list(set(pageAddresslist))
 
 for url in pageAddresslist:
     print(url)
-    pageSourceCode = urllib.request.urlopen(url).read()
+    try:
+        pageSourceCode = urllib.request.urlopen(url).read()
+    except Exception as e:
+        continue
     try:
         pageSourceCode = pageSourceCode.decode('gbk')
     except Exception as e:
@@ -40,8 +52,5 @@ for url in pageAddresslist:
             contentItem = contentItem.replace(u'</strong>', '')
             content += contentItem + '\n'
     
-    if len(content) > 0:
-        f = open(r"E:\Users\lockon\Desktop\test.txt",'a')
-        f.write(content + '\n')
-        f.close()
+    saveContent(url, content)
     print(content)

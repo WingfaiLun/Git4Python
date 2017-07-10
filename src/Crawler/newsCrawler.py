@@ -3,12 +3,15 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
+path = r"E:\Users\lockon\Desktop\\"
+ouputFileName = r"test1.txt"
+
 #定义保存新闻内容的方法
 def writeNews2File(news):
     #第一个参数是文件目录，如果文件不存在会重新创建
     #第二个参数'a'表示每次都在文件最下面写入内容，不会覆盖原有的
     #第三个参数，将新闻以utf-8编码写入文件
-    f = open(r"E:\Users\lockon\Desktop\test1.txt",'a', encoding='utf-8')
+    f = open(path + ouputFileName,'a', encoding='utf-8')
     f.write(news + '\n')
     f.close()
 
@@ -31,18 +34,21 @@ index = 1
 #遍历爬出来的新闻链接
 for url in pageAddresslist:
     #读取当前新闻链接的源代码
-    html = urllib.request.urlopen(url).read()
-    #将页面源代码用BeautifulSoup格式化成soup对象，这样方便我们提取里面的内容
-    soup = BeautifulSoup(html,'html.parser')
+    try:
+        html = urllib.request.urlopen(url).read()
+    except Exception as e:
+        print ('found exception: ' + str(e))
+        continue
+    
     #初始化新闻内容
     news = ''
-    
+    #将页面源代码用BeautifulSoup格式化成soup对象，这样方便我们提取里面的内容
+    soup = BeautifulSoup(html,'html.parser')
     #因为不同网站标签的名字都不一样，所以下面的代码适用搜狐
     #判断这个页面有没有title这个标签，如果连新闻标题都没有就跳过
     #continue是停止当前这个url的操作，就是这个url不会执行后面context那堆代码(下一个url还会继续)
     if soup.title is None:
         continue
-    
     #获取id为contentText的html标签
     contentText = soup.find_all(id='contentText')
     #所得结果contentText是一个list对象，因为是以id来获取，所以结果应该只有一个

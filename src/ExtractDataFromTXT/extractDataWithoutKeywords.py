@@ -3,9 +3,13 @@ from collections import OrderedDict
 from pyexcel_xls import save_data
 import re
 
+path = r"E:\Users\lockon\Desktop\\"
+txtFileName = r"LY_20170602204532.txt"
+ouputFileName = r"LY_20170602204532.xls"
+
 #以utf-8编码读取源文件的所有字节
 def getArticles():
-    f = open(r"E:\Users\lockon\Desktop\LY_20170602204532.txt", 'r', encoding='utf-8').read()
+    f = open(path + txtFileName, 'r', encoding='utf-8').read()
     regexArticle = re.compile(r'【[\s\S]*?--')
     #articles就是所有文章的集合
     articles = re.findall(regexArticle, f)
@@ -13,7 +17,7 @@ def getArticles():
 
 #定义保存成xls文件的方法，最后遍历完成后调用
 def saveOuput():
-    save_data(r"E:\Users\lockon\Desktop\LY_20170602204532.xls", xls_data) 
+    save_data(path + ouputFileName, xls_data) 
 
 #初始化excel的数据
 xls_data = OrderedDict()
@@ -58,4 +62,4 @@ for article in articles:
 xls_data.update({u"Result": sheet1})
 
 # 保存成xls文件  
-save_data(r"E:\Users\lockon\Desktop\data.xls", xls_data)  
+saveOuput()

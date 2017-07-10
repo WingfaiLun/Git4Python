@@ -2,8 +2,11 @@
 from pyexcel_xls import get_data
 from pyexcel_xls import save_data
 
+path = r"E:\Users\lockon\Desktop\\"
+xmlFileName = r"00.xls"
+
 #读取excel内容
-xls_data = get_data(r"E:\Users\lockon\Desktop\00.xls")
+xls_data = get_data(path + xmlFileName)
 
 #要转化的内容放在excel的第一个表单，所以只循环一次就终止
 for sheet_n in xls_data.keys():
@@ -31,4 +34,4 @@ for item_n in sheet_source:
 xls_data.update({u"Result": sheet_result})  
 
 # 保存成xls文件  
-save_data(r"E:\Users\lockon\Desktop\00.xls", xls_data)  
+save_data(path + xmlFileName, xls_data)  

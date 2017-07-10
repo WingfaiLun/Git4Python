@@ -5,15 +5,17 @@ from pyexcel_xls import save_data
 
 #文件所在路径
 path = r"E:\Users\lockon\Desktop\\"
+xmlFileName = r"test.xml"
+outputFileName = "test.xls"
 
 #读取xml文件，如果xml文件编码有问题可能会读取出错
 def getTree():
-    tree = ET.parse(path + r"test.xml")
+    tree = ET.parse(path + xmlFileName)
     return tree
     
 #定义保存成xls文件的方法，最后遍历完成后调用
 def saveOuput():
-    save_data(path + "test.xls", xls_data)  
+    save_data(path + outputFileName, xls_data)  
 
 #Excel文件的内容用一个有序词典xls_data存放
 xls_data = OrderedDict()

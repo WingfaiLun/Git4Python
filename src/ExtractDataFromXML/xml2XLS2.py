@@ -6,15 +6,17 @@ import re
 
 #文件所在路径
 path = r"E:\Users\lockon\Desktop\\"
+xmlFileName = r"pubmed_result.xml"
+outputFileName = "644.xls"
 
 #读取xml文件，如果xml文件编码有问题可能会读取出错
 def getTree():
-    tree = ET.parse(path + r"\pubmed_result.xml")
+    tree = ET.parse(path + xmlFileName)
     return tree
     
 #定义保存成xls文件的方法，最后遍历完成后调用
 def saveOuput():
-    save_data(path + r"\644.xls", xls_data)  
+    save_data(path + outputFileName, xls_data)  
 
 #Excel文件的内容用一个有序词典xls_data存放
 xls_data = OrderedDict()
