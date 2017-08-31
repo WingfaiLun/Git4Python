@@ -24,3 +24,8 @@ print(sheet)
 aa = ["a", "b", "c", "e"]
 aa.insert(len(aa), "f")
 print(aa)
+
+
+a = 2
+a += 2
+print(a)

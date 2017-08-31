@@ -6,7 +6,7 @@ from textblob import TextBlob
 r = Rake()
 path = r"E:\Users\lockon\Desktop\\"
 inputFileName = r"test.xlsx"
-ouputFileName = r"result.xls"
+ouputFileName = r"result2.xls"
 
 def getExcelData():
     xls_data = get_data(path + inputFileName)

@@ -1,11 +1,12 @@
 from rake_nltk import Rake
 from pyexcel_xls import get_data
 from pyexcel_xls import save_data
+import jieba.analyse
 
 r = Rake()
 path = r"E:\Users\lockon\Desktop\\"
 inputFileName = r"test.xlsx"
-ouputFileName = r"result1.xls"
+ouputFileName = r"result.xls"
 
 def getExcelData():
     xls_data = get_data(path + inputFileName)
@@ -28,10 +29,8 @@ for rowData in sheet1:
     if rowData is not None and len(rowData) > 0:
         #keywords用来存放第二列的结果，是一个list类型
         keywords = []
-        #调用那个nltk的方法
-        r.extract_keywords_from_text(rowData[0])
-        #phrases就是它算出来的那些高分词
-        phrases = r.get_ranked_phrases()
+        
+        phrases = jieba.analyse.extract_tags(rowData[0], 10)
         #遍历每一个phrase
         for phrase in phrases:
             #每一个item分别放着phrase和它对应的出现次数，格式如[question,12]
@@ -39,7 +38,7 @@ for rowData in sheet1:
             item.append(phrase)
             #rowData[0]就是原文，rowData[0].lower()就是将原文全部转成小写，因为那些phase算出来全是小写的
             #rowData[0].lower().count(phrase)就是数一下phrase在原文里面出现了多少次，算完之后结果加到item里面
-            item.append(rowData[0].lower().count(phrase))
+            item.append(rowData[0].count(phrase))
             keywords.append(item)   
             
         #如果表单里面只有第一列有内容，就直接用append加在后面
